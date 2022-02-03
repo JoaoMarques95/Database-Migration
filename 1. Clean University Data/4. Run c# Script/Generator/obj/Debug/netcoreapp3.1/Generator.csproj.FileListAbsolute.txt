@@ -1,0 +1,35 @@
+C:\Users\joaom\Desktop\project\Generator\bin\Debug\netcoreapp3.1\Generator.exe
+C:\Users\joaom\Desktop\project\Generator\bin\Debug\netcoreapp3.1\Generator.deps.json
+C:\Users\joaom\Desktop\project\Generator\bin\Debug\netcoreapp3.1\Generator.runtimeconfig.json
+C:\Users\joaom\Desktop\project\Generator\bin\Debug\netcoreapp3.1\Generator.runtimeconfig.dev.json
+C:\Users\joaom\Desktop\project\Generator\bin\Debug\netcoreapp3.1\Generator.dll
+C:\Users\joaom\Desktop\project\Generator\bin\Debug\netcoreapp3.1\Generator.pdb
+C:\Users\joaom\Desktop\project\Generator\obj\Debug\netcoreapp3.1\Generator.csprojAssemblyReference.cache
+C:\Users\joaom\Desktop\project\Generator\obj\Debug\netcoreapp3.1\Generator.AssemblyInfoInputs.cache
+C:\Users\joaom\Desktop\project\Generator\obj\Debug\netcoreapp3.1\Generator.AssemblyInfo.cs
+C:\Users\joaom\Desktop\project\Generator\obj\Debug\netcoreapp3.1\Generator.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\project\Generator\obj\Debug\netcoreapp3.1\Generator.dll
+C:\Users\joaom\Desktop\project\Generator\obj\Debug\netcoreapp3.1\Generator.pdb
+C:\Users\joaom\Desktop\project\Generator\obj\Debug\netcoreapp3.1\Generator.genruntimeconfig.cache
+C:\Users\joaom\Desktop\project\Generator\bin\Debug\netcoreapp3.1\Data\UEE.csv
+C:\Users\joaom\Desktop\project\Generator\bin\Debug\netcoreapp3.1\Data\Universities.csv
+C:\Users\joaom\Desktop\BD refactoring\1. Clean University Data\4. Run c# Script\Generator\bin\Debug\netcoreapp3.1\Data\UEE.csv
+C:\Users\joaom\Desktop\BD refactoring\1. Clean University Data\4. Run c# Script\Generator\bin\Debug\netcoreapp3.1\Generator.exe
+C:\Users\joaom\Desktop\BD refactoring\1. Clean University Data\4. Run c# Script\Generator\bin\Debug\netcoreapp3.1\Generator.deps.json
+C:\Users\joaom\Desktop\BD refactoring\1. Clean University Data\4. Run c# Script\Generator\bin\Debug\netcoreapp3.1\Generator.runtimeconfig.json
+C:\Users\joaom\Desktop\BD refactoring\1. Clean University Data\4. Run c# Script\Generator\bin\Debug\netcoreapp3.1\Generator.runtimeconfig.dev.json
+C:\Users\joaom\Desktop\BD refactoring\1. Clean University Data\4. Run c# Script\Generator\bin\Debug\netcoreapp3.1\Generator.dll
+C:\Users\joaom\Desktop\BD refactoring\1. Clean University Data\4. Run c# Script\Generator\bin\Debug\netcoreapp3.1\Generator.pdb
+C:\Users\joaom\Desktop\BD refactoring\1. Clean University Data\4. Run c# Script\Generator\obj\Debug\netcoreapp3.1\Generator.csprojAssemblyReference.cache
+C:\Users\joaom\Desktop\BD refactoring\1. Clean University Data\4. Run c# Script\Generator\obj\Debug\netcoreapp3.1\Generator.AssemblyInfoInputs.cache
+C:\Users\joaom\Desktop\BD refactoring\1. Clean University Data\4. Run c# Script\Generator\obj\Debug\netcoreapp3.1\Generator.AssemblyInfo.cs
+C:\Users\joaom\Desktop\BD refactoring\1. Clean University Data\4. Run c# Script\Generator\obj\Debug\netcoreapp3.1\Generator.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\BD refactoring\1. Clean University Data\4. Run c# Script\Generator\obj\Debug\netcoreapp3.1\Generator.dll
+C:\Users\joaom\Desktop\BD refactoring\1. Clean University Data\4. Run c# Script\Generator\obj\Debug\netcoreapp3.1\Generator.pdb
+C:\Users\joaom\Desktop\BD refactoring\1. Clean University Data\4. Run c# Script\Generator\obj\Debug\netcoreapp3.1\Generator.genruntimeconfig.cache
+C:\Users\joaom\Desktop\BD refactoring\1. Clean University Data\4. Run c# Script\Generator\bin\Debug\netcoreapp3.1\Data\UniversitiesSelected.csv
+C:\Users\joaom\Desktop\BD refactoring\1. Clean University Data\4. Run c# Script\Generator\bin\Debug\netcoreapp3.1\Result\script1.txt
+C:\Users\joaom\Desktop\BD refactoring\1. Clean University Data\4. Run c# Script\Generator\bin\Debug\netcoreapp3.1\Data\universitiesApiList.json
+C:\Users\joaom\Desktop\BD refactoring\1. Clean University Data\4. Run c# Script\Generator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\joaom\Desktop\BD refactoring\1. Clean University Data\4. Run c# Script\Generator\obj\Debug\netcoreapp3.1\Generator.csproj.CopyComplete
+C:\Users\joaom\Desktop\BD refactoring\1. Clean University Data\4. Run c# Script\Generator\bin\Debug\netcoreapp3.1\Data\universitiesApiListCorrected.json

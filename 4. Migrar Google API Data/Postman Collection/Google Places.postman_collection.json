@@ -1,0 +1,127 @@
+{
+	"info": {
+		"_postman_id": "ab2e2679-1d2f-4012-878f-c6debcbfe5aa",
+		"name": "Google Places",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Place Search",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://maps.googleapis.com/maps/api/place/findplacefromtext/json?fields=place_id,name,type&input=Instituto Politécnico de Viana do Castelo&inputtype=textquery&key=AIzaSyC6U0VACdQUcvpteWdOV1ryZeAgL18E0dI",
+					"protocol": "https",
+					"host": [
+						"maps",
+						"googleapis",
+						"com"
+					],
+					"path": [
+						"maps",
+						"api",
+						"place",
+						"findplacefromtext",
+						"json"
+					],
+					"query": [
+						{
+							"key": "fields",
+							"value": "place_id,name,type"
+						},
+						{
+							"key": "input",
+							"value": "Instituto Politécnico de Viana do Castelo"
+						},
+						{
+							"key": "inputtype",
+							"value": "textquery"
+						},
+						{
+							"key": "key",
+							"value": "AIzaSyC6U0VACdQUcvpteWdOV1ryZeAgL18E0dI"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Place Details",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://maps.googleapis.com/maps/api/place/details/json?fields=address_component,adr_address,alt_id,formatted_address,geometry,icon,id,name,permanently_closed,photo,place_id,plus_code,scope,type,url,utc_offset,vicinity&place_id=ChIJx3e_DmGa9gcR1fpJx9xQSko&key=AIzaSyC6U0VACdQUcvpteWdOV1ryZeAgL18E0dI",
+					"protocol": "https",
+					"host": [
+						"maps",
+						"googleapis",
+						"com"
+					],
+					"path": [
+						"maps",
+						"api",
+						"place",
+						"details",
+						"json"
+					],
+					"query": [
+						{
+							"key": "fields",
+							"value": "address_component,adr_address,alt_id,formatted_address,geometry,icon,id,name,permanently_closed,photo,place_id,plus_code,scope,type,url,utc_offset,vicinity",
+							"description": "address_component,adr_address,alt_id,formatted_address,geometry,icon,id,name,permanently_closed,photo,place_id,plus_code,scope,type,url,utc_offset,vicinity,formatted_phone_number,international_phone_number,opening_hours,website"
+						},
+						{
+							"key": "place_id",
+							"value": "ChIJx3e_DmGa9gcR1fpJx9xQSko"
+						},
+						{
+							"key": "key",
+							"value": "AIzaSyC6U0VACdQUcvpteWdOV1ryZeAgL18E0dI"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Photo Reference",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=Aap_uEDrr0O6koHpnvyiePBEhualrcSI5b-XPyG9F_EtMtmnCo8fGFp0QY5hpTdeNRRVm7siHaL0zci8RMTUgXmf9-uXkI3T_FmMOgjyV-VAtOkSDwPjHxPGVCdl8hOduozCj5WMM2GkeQh0k6ZTHBJsQX_JtOY-BmMH4-HEl1U5ihXCcOsI&key=AIzaSyC6U0VACdQUcvpteWdOV1ryZeAgL18E0dI",
+					"protocol": "https",
+					"host": [
+						"maps",
+						"googleapis",
+						"com"
+					],
+					"path": [
+						"maps",
+						"api",
+						"place",
+						"photo"
+					],
+					"query": [
+						{
+							"key": "maxwidth",
+							"value": "400"
+						},
+						{
+							"key": "photo_reference",
+							"value": "Aap_uEDrr0O6koHpnvyiePBEhualrcSI5b-XPyG9F_EtMtmnCo8fGFp0QY5hpTdeNRRVm7siHaL0zci8RMTUgXmf9-uXkI3T_FmMOgjyV-VAtOkSDwPjHxPGVCdl8hOduozCj5WMM2GkeQh0k6ZTHBJsQX_JtOY-BmMH4-HEl1U5ihXCcOsI"
+						},
+						{
+							"key": "key",
+							"value": "AIzaSyC6U0VACdQUcvpteWdOV1ryZeAgL18E0dI"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

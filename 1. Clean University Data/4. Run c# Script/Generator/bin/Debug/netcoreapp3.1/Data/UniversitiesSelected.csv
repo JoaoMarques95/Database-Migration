@@ -1,0 +1,556 @@
+﻿Id;Name;Country;CountryCode;Domain;WebPage;Localization;Abbreviations;CreationDate;UpdateDate;CreatedByUserId;UpdatedByUserId;Deleted;Actualizar universidade;Actualizar faculdade;Actualizar flag (F / V);"Eliminar universidade (""x"")";"Not Listed Institution (""x"")";"Eliminar faculdades (""x"")";"Mudar API List Name (""x"")";=;Fuzzy LookUp Match All Universities -- API LIST
+0c789439-06f8-4be3-8f71-013fa9374dd4;Instituto Politécnico do Porto - Instituto Superior de Contabilidade e Administração do Porto;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Instituto Politecnico do Porto
+69fa37df-443d-4b85-a8fe-014fa9097584;Katholieke Universiteit Leuven;;;;;;;44525.78155;;;;VERDADEIRO;;;F;;;;;Y;Katholieke Universiteit Leuven
+463115b8-9713-45df-9935-01ef37595bab;Universidade do Porto - Faculdade de Belas-Artes;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade do Porto
+15c724f2-613e-45b6-bd5c-02baf9932d6d;ESCE;;;;;;;44523.45744;;;;VERDADEIRO;Instituto Politécnico de Viana do Castelo;Escola Superior de Ciências Empresariais;F;;;;;N;ESME Sudria
+ac3ee8d2-3c30-4c9b-a7c0-03751b06c5ba;Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+ef1b553d-b00d-406b-b5f9-05bcb31f937f;Wrocalw University of Economics;;;;;;;44494.68194;;;;VERDADEIRO;University of Wroclaw;;F;;;;;N;University of Wroclaw
+4034f32a-5610-4791-8151-05f2b651cae5;Instituto Superior Manuel Teixeira Gomes;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+b0c1f93a-5c72-423d-9fcd-08db068711de;Instituto Politécnico de Coimbra - Escola Superior de Tecnologia da Saúde de Coimbra;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Coimbra
+13ef245e-121b-4405-b9b8-098dbe259c6d;Alcaides de faria;;;;;;;44521.82412;;;;VERDADEIRO;Agrupamento de Escolas Alcaides de Faria;;;;x;;;N;
+4328e2da-7310-45a8-a781-0ab071bb9893;World Academy;;;;;;;44523.5777;;;;VERDADEIRO;;;;;x;;;N;
+c03fcdd9-402d-4642-b45d-0ac33d0ae464;LAUREATE INTERNATIONAL UNIVERSITIES;;;;;;;44512.96993;;;;VERDADEIRO;Laureate International Universities;;F;;;;;N;
+247cabcf-d7a3-49df-be4f-0c27e45f8822;FATEC - SENAI/MT;;;;;;;44526.58149;;;;VERDADEIRO;Faculdade de Tecnologia Senai Mato Grosso;;F;;;x;;N;
+7c4d4c8f-668d-4b9d-b5b3-0d39bbcb3362;universidade de Santiago;;;;;;;44525.83308;;;;VERDADEIRO;Universidade de Santiago;;F;;;;;N;Universidad Tecnológica de Santiago
+2c3ac788-aebb-4871-9735-0e3c5575af8c;Universidade de Évora - Escola de Artes;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade de Evora
+13395b8b-b0ce-4ab9-be8d-0ea282270157;Faculdade de Ciências da Universidade do Porto;;;;;;;44476.90196;;;;VERDADEIRO;Universidade do Porto;Faculdade de Ciências;F;;;;;N;Universidade do Porto
+bc5c5c4e-9251-4704-b88f-0f1dad40c8c4;Instituto Superior de Ciências Educativas;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Superior de Ciências Educativas
+5398ff0c-0a5b-4cd2-926d-0f4638eab686;Instituto Politécnico de Beja - Escola Superior Agrária;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Beja
+235583ce-d166-43d8-a5f6-0f8f85ab83be;University of South Wales;;;;;;;44505.46259;;;;VERDADEIRO;University of New South Wales;;F;;;;;N;University of New South Wales
+da2a879a-7471-4857-9cde-100d40a99b0a;Profitecla;;;;;;;44521.81718;;;;VERDADEIRO;Escola Profissional Profitecla;;;;x;;;N;
+200a580b-9a41-4499-8e6e-1015a3469e0e;FEUP - ICBAS;;;;;;;44444.85111;;;;FALSO;Universidade do Porto;Faculdade de Engenharia;;;;;;N;
+928f820c-aa7d-4e5b-840f-101719aeaafd;Instituto Politécnico de Coimbra - Escola Superior Agrária de Coimbra;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Coimbra
+2d523613-aa93-4e79-9891-1157527cfb3b;fsg- faculdade da serra gaucha;;;;;;;44456.78243;;;;VERDADEIRO;Centro Universitário da Serra Gaúcha;;F;;;x;;N;
+749d51de-99d7-4f22-b86e-1199cf9c3901;Università di Padova;;;;;;;44481.82621;;;;VERDADEIRO;;;F;;;;;N;
+364da659-c2cf-4490-a44f-148e0bb734ce;IADE - Creative University;;;;;;;44453.37165;;;;VERDADEIRO;Universidade Europeia;Instituto de Artes Visuais, Design e Marketing;F;;;;x;N;Instituto de Artes Visuais, Design e Marketing - IADE
+0511d7d3-3467-4ef6-8cab-150a9a3a3b40;Escola Superior de Enfermagem de Coimbra;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+91243fe1-8433-43fd-8f1c-155a719d9c09;nada;;;;;;;44498.48486;;;;VERDADEIRO;;;;x;;;;N;Nara University
+31e1a75f-d99b-482d-a042-15bbe3f90856;uftm;;;;;;;44444.85111;;;;FALSO;Universidade Federal do Triângulo Mineiro;;;;;;;N;
+d2e5e687-61bd-43ad-b33b-1777f2033ea2;Universidade Federal do Rio Grande do Sul;;;;;;;44455.55054;;;;VERDADEIRO;;;F;;;;;Y;Universidade Federal do Rio Grande do Sul
+fbdc0cf0-c5c5-4ad8-965c-18ca7874e201;Instituto Politécnico de Bragança - Escola Superior de Tecnologia e de Gestão de Bragança;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Bragança
+52ce6179-8cf8-43c0-a29f-197e410e44c4;ICBAS;;;;;;;44516.38263;;;;VERDADEIRO;Universidade do Porto;Instituto de Ciências Biomédicas Abel Salazar;F;;;;;N;
+80bce192-80be-43bc-a17f-1b8cdf1026b9;UNIVERCIDADE;;;;;;;44455.62525;;;;VERDADEIRO;;;;x;;;;N;Universidade Pedagógica
+6233b6e7-2b47-4658-abce-1ec0c1d0cb98;sefwf;;;;;;;44515.68493;;;;VERDADEIRO;;;;x;;;;N;
+d066bb83-9322-471d-8674-2047bf231141;instituto superior de contabilidade e administração de Lisboa;;;;;;;44455.59384;;;;VERDADEIRO;Instituto Politécnico de Lisboa;Instituto Superior de Contabilidade e Administração de Lisboa;F;;;;;N;
+9bd0a11c-41c3-4d98-9eb3-20c43ac2972b;Escola Superior de Saúde da Cruz Vermelha Portuguesa - Lisboa;;;;;;;44444.85111;;;;FALSO;;;;;;x;;N;
+7eaa8754-3fcf-4807-b187-2107bf5b917c;Universitat Oberta de Catalunya;;;;;;;44524.78233;;;;VERDADEIRO;;;F;;;;;Y;Universitat Oberta de Catalunya
+86f92997-4d43-4787-b988-215dd700a173;Braga;;;;;;;44522.01462;;;;VERDADEIRO;;;;x;;;;N;
+b12fe395-5781-4f6f-a7a6-22a602f2e2b9;Porto Business School;;;;;;;44453.5359;;;;VERDADEIRO;Universidade do Porto;Porto Business School;F;;;;;N;
+5e4eb51d-c7d2-4df2-b715-26d2c8849c11;Escola profissional profitecla;;;;;;;44522.98107;;;;VERDADEIRO;Escola Profissional Profitecla;;;;x;;;N;
+0fd0d40e-df76-462a-8e3d-27b3cb2b03fc;Escola Superior de Educação de Paula Frassinetti;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+96b7f7d8-12f7-40bc-b3b1-27ee37a3193c;Instituto Politécnico de Lisboa - Escola Superior de Teatro e Cinema;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Lisboa
+6ec89358-773c-4760-8d50-27f4286fd013;IADE;;;;;;;44444.85111;;;;FALSO;Universidade Europeia;Instituto de Artes Visuais, Design e Marketing;;;;;;N;Instituto de Artes Visuais, Design e Marketing - IADE
+4af37646-2d7e-402b-9234-281dfbb92f53;Universidade Católica Portuguesa - Faculdade de Direito (Porto);;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade Catolica Portuguesa
+7191842c-a838-4ad8-80a2-2849f1cf72a1;escola secundaria de paredes;;;;;;;44528.84151;;;;VERDADEIRO;Escola secundária de Paredes;;;;x;;;N;
+e51ef759-4405-4288-8d41-29fad5eb04fb;University of Amsterdam;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;University of Amsterdam
+be454b13-2e26-4472-887b-2a3fdf970adb;Universidade De Direito de Lisboa;;;;;;;44444.85111;;;;FALSO;Universidade de Lisboa;Faculdade de Direito;;;;;;N;Universidade de Lisboa
+95e58802-9c2a-47a0-8c0f-2c634854dd19;FACHA;;;;;;;44444.85111;;;;FALSO;Faculdades Integradas Hélio Alonso;;;;;;;N;
+f9997694-ef7b-4446-9e8b-2cc429808ae4;Instituto superior de tecnolo;;;;;;;44509.37714;;;;VERDADEIRO;;;;x;;;;N;
+648e858c-9596-429e-9b59-2e250afea0ed;universidade do minho - direito;;;;;;;44444.85111;;;;FALSO;Universidade do Minho;Faculdade de Direito;;;;;;N;Universidade do Minho
+593bc88b-2eb7-4664-a7c4-2eb9f2e8b645;Universidades de Portugal;;;;;;;44496.4604;;;;VERDADEIRO;;;;x;;;;N;
+eec9edf6-16e4-4455-8c89-2ffe64452d03;FLAG;;;;;;;44509.8037;;;;VERDADEIRO;;;;;x;;;N;
+08a34bb4-9b62-439d-9929-31f09c435f12;Escola secundária Eça de Queiros;;;;;;;44514.44263;;;;VERDADEIRO;;;;;x;;;N;
+2543665d-f7f8-46e5-9368-31fed1fbbe3f;Católica Lisbon School of Business and Economics;;;;;;;44457.60376;;;;VERDADEIRO;Universidade Católica Portuguesa;Faculdade de Ciências Económicas e Empresariais;F;;;;;N;
+31168507-922e-4fe0-a185-3254e5c0f971;Universidade da Madeira - Faculdade de Ciências Exatas e da Engenharia;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade da Madeira
+23faf9ff-60d3-40be-ae35-325821776f47;Estácio de Sá;;;;;;;44444.85111;;;;FALSO;Universidade Estácio de Sá;;;;;;;N;Universidade Estácio de Sá
+4febd474-83f5-49f8-8692-326d6277ea1b;Escola Luís de Camões;;;;;;;44505.62276;;;;VERDADEIRO;;;;;x;;;N;
+0ad1a8c0-5164-4f31-8c4d-32718f728c2a;UFAL;;;;;;;44469.50205;;;;VERDADEIRO;Universidade Federal de Alagoas;;F;;;;;N;Ural Federal University
+540c2be5-862b-4033-b320-338ce56f4f7a;universidade São Tomás de Moçambique;;;;;;;44480.40561;;;;VERDADEIRO;Universidade São Tomás de Moçambique;;F;;;;;N;
+0a2735a2-71c2-480f-830e-33c2d36be113;Nova SBE;;;;;;;44488.37636;;;;VERDADEIRO;Universidade Nova de Lisboa;Faculdade de Economia;F;;;;;N;
+5e51372b-f09d-4299-9c60-34208d14fa61;Carnegie Mellon University;;;;;;;44455.67223;;;;VERDADEIRO;;;F;;;;;Y;Carnegie Mellon University
+fb512b58-0ae8-47d5-bf69-35338d5892b7;UADE;;;;;;;44515.79179;;;;VERDADEIRO;Universidade Argentina da Empresa;;F;;;;;N;
+32d79ab7-3da1-4167-bcd3-3594478bb72c;Citeforma;;;;;;;44525.65071;;;;VERDADEIRO;Centro de Formação Profissional Citeforma;;;;x;;;N;
+b171e0dd-35cd-4369-98e1-3911c933e2ab;beja;;;;;;;44525.52463;;;;VERDADEIRO;;;;x;;;;N;Instituto Politécnico de Beja
+8ed14fd2-eba2-4291-8488-39539fad5b15;Uniritter;;;;;;;44518.59483;;;;VERDADEIRO;Centro Universitário da Grande Porto Alegre UniRitter ;;F;;;;;N;
+21933cd5-a9d9-470c-be8f-39c9b47d95ad;Instituto Politécnico de Castelo Branco - Escola Superior de Artes Aplicadas;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Castelo Branco
+cbf7bbbc-673b-4c31-9493-39cbbe35d0e2;instituto superior de engenharia de Coimbra;;;;;;;44444.85111;;;;FALSO;Instituto Politécnico de Coimbra;Instituto Superior de Engenharia de Coimbra;;;;;;N;
+277327f5-52c0-4e1a-aa92-3a01ea1f6594;FEUP;;;;;;;44496.47589;;;;VERDADEIRO;Universidade do Porto;Faculdade de Engenharia;F;;;;;N;
+3a07e1ae-27ad-4251-9596-3ac37b634ddd;PUCRS;;;;;;;44511.72712;;;;VERDADEIRO;Pontifícia Universidade Católica do Rio Grande do Sul;;F;;;;;N;
+d8aa42f3-95e3-4f3a-b7fd-3c904e9d6f8b;Escola Profissional do Infante;;;;;;;44515.70558;;;;VERDADEIRO;;;;;x;;;N;
+e4171137-b0f1-42bb-88f3-3ee8cc4c86d2;UTAD;;;;;;;44453.53636;;;;VERDADEIRO;Universidade de Trás-os-Montes e Alto Douro;;F;;;;;N;University of Utah
+8075e686-4a32-41a9-8c3e-3f0b52a440e9;ESCS;;;;;;;44492.54723;;;;VERDADEIRO;Escola Superior de Comunicação Social;;F;;;;;N;
+797835df-1df6-43f4-b2f9-40a7b7cb8079;ISEG -Instituto Superior de Economia e Gestão da Universidade de Lisboa;;;;;;;44467.35848;;;;VERDADEIRO;Universidade de Lisboa;Instituto Superior de Economia e Gestão;F;;;;;N;
+63bba00b-3c62-47f1-9630-40befc1a5711;ISP GAYA;;;;;;;44468.0033;;;;VERDADEIRO;Instituto Superior Politécnico Gaya;;F;;;;;N;
+cdd952b2-ce6f-47e1-8bed-414d250f10d8;Instituto Superior de Tecnologias Avançadas de Lisboa (Porto);;;;;;;44444.85111;;;;FALSO;Instituto Superior de Tecnologias Avançadas do Porto;;;;;;;N;
+5dd9601a-a94a-440d-bc3a-414fc0263e6a;ISLA - Instituto Superior de Gestão e Administração de Santarém;;;;;;;44444.85111;;;;FALSO;Instituto Superior de Gestão e Administração de Santarém;;;;;x;;N;Isra University
+2fe0f975-54df-4743-9d77-418eeab9fc73;Escola Superior de Enfermagem de Santa Maria;;;;;;;44517.75738;;;;VERDADEIRO;Escola Superior de Saúde de Santa Maria;;F;;;;;N;
+70b950d5-238b-4068-8b31-4255d7a3e99a;Wroclaw University of Economics;;;;;;;44494.68217;;;;VERDADEIRO;University of Wroclaw;;F;;;;;N;University of Wroclaw
+6546ed07-faa8-47e4-89df-4298426fd4e2;Instituto Politécnico Jean Piaget do Sul - Escola Superior de Educação Jean Piaget de Almada;;;;;;;44444.85111;;;;FALSO;Instituto Politécnico Jean Piaget;;;;;;x;N;Instituto Piaget
+772c9bf9-f481-4ccb-9b41-4534ab8ffa0f;Universidade Presbiteriana Mackenzie;;;;;;;44447.61244;;;;VERDADEIRO;Universidade Mackenzie;;F;;;;;N;Universidade Mackenzie
+c2699d7e-13a8-47b0-a9fd-46c9bf667d5f;Faculdade de economia de Coimbra;;;;;;;44523.43939;;;;VERDADEIRO;Universidade de Coimbra;Faculdade de economia;F;;;;;N;
+c1023730-6719-413c-9a83-46f7cad9c902;UNIVERSIDADE NOVA LISBOA - IMS;;;;;;;44455.69209;;;;VERDADEIRO;Universidade Nova de Lisboa;Instituto Superior de Estatística e Gestão de Informação;F;;;x;;N;Universidade Nova de Lisboa
+8d0a2f68-1657-45cf-80a9-4aeca568a587;Instituto Superior de Ciências Policiais e Segurança Interna;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+5a567050-7ce2-49c2-8e93-4af86a907989;Instituto Politécnico da Guarda - Escola Superior de Turismo e Hotelaria;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico da Guarda
+d2c7461a-464d-4bf0-9ea5-4b2e500c1e3f;Universidade Católica Portuguesa - Faculdade de Ciências Humanas;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade Catolica Portuguesa
+92d10373-1140-4215-930c-4bb86b3c132d;Universidade Católica Portuguesa - Centro Regional das Beiras;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade Catolica Portuguesa
+6fe249d5-bb6c-4e3a-8812-4c9f22fd6947;Universidade de Aveiro;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Aveiro
+e164990f-a04e-446b-9efd-4cbff1a14d3c;Escola Secundária;;;;;;;44513.55899;;;;VERDADEIRO;;;;x;;;;N;
+d1010705-b308-4510-8cec-4ce4270fc6d1;Centro Universitario de Joao Pessoa;;;;;;;44458.62853;;;;VERDADEIRO;Centro Universitário de João Pessoa;;F;;;;;N;Centro Universitário de João Pessoa
+20032c2d-7f6c-4907-9c78-4dc712ec9c58;Escola Profissional Bento Jesus Caraça;;;;;;;44525.6433;;;;VERDADEIRO;;;;;x;;;N;
+2693f560-3710-4911-b810-4e8877d78027;ISCAA;;;;;;;44515.76095;;;;VERDADEIRO;Instituto Superior de Contabilidade e Administração de Aveiro;;F;;;;;N;Universidad Isaac Newton
+df1f28f2-1313-45d0-a5c1-4f624d28396b;instituto de Educação e ciências  de Lisboa;;;;;;;44525.73887;;;;VERDADEIRO;Universidade de Lisboa;Instituto de Educação e Faculdade de Ciências;F;;;;;N;
+fa7e1d33-7652-4b7b-82ff-4f6836e90d6e;fep;;;;;;;44444.85111;;;;VERDADEIRO;Universidade do Porto;Faculdade de Economia;F;;;;;N;
+ff990177-15fe-4fbc-b393-4f7246d6dec5;IEBS;;;;;;;44455.61504;;;;VERDADEIRO;IEBS Business School;;F;;;;;N;
+00ee7760-fd70-4da9-bafd-4fb607eb2197;Instituto Superior D. Dinis;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+63e436e7-2045-48a9-9870-504605243a00;Faculdades Integradas Barros Melho;;;;;;;44446.47694;;;;VERDADEIRO;Centro Universitário AESO Barros Melo;;F;;;;;N;
+cb15c373-713c-4969-b015-50a7671de7ae;Instituto Universitário da Maia;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+7e2750e4-177b-414c-a5c9-5227cea6d31b;Instituto Politécnico de Leiria - Escola Superior de Saúde;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Leiria
+3749fec4-3f95-4bdb-b11e-52397fdd2f8f;Universidade Salvador;;;;;;;44516.96259;;;;VERDADEIRO;;;F;;;;;Y;Universidade Salvador
+0bf54b2c-d677-48dd-a1d4-5296f0d5c88d;IPCA;;;;;;;44520.63239;;;;VERDADEIRO;Instituto Politécnico do Cávado e do Ave;;F;;;;;N;
+3bf00368-a64e-49cb-b4a9-52b8df2e66be;Universidade de Aveiro - Escola Superior de Tecnologia e Gestão de Águeda;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Aveiro
+403c76a3-4dfe-4a0a-9d81-531f85f05893;Instituto Politécnico do Porto - Escola Superior de Tecnologia e Gestão;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Instituto Politecnico do Porto
+519427f4-094b-4145-80fb-54048293d863;Instituto Politécnico de Beja - Escola Superior de Educação;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Beja
+19197b67-f4f3-4eb3-a951-542184b23426;Universidade Europeia;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;Universidad Europea de Madrid
+5d1613de-6092-4bad-a66d-546ac15873f2;Universidade do Minho - Escola Superior de Enfermagem;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade do Minho
+2c7745a6-cbb6-437a-b46e-547821d4c367;ISEC Lisboa - Instituto Superior de Educação e Ciências;;;;;;;44444.85111;;;;FALSO;Universidade de Lisboa;Instituto de Educação e Faculdade de Ciências;;;;;;N;
+520bbff4-4ed0-45eb-b67d-5547edcde7c2;Instituto Politécnico de Tomar - Escola Superior de Tecnologia de Abrantes;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Tomar
+ce11d6c7-386e-469f-b03f-55cd23960092;ISCAP;;;;;;;44444.85111;;;;FALSO;Instituto Superior de Contabilidade e Administração do Porto;;;;;;;N;
+58c02351-ac55-4f59-aa89-55f3d0d44b2c;Escola Superior de Propaganda e Marketing (ESPM-Sul);;;;;;;44522.68176;;;;VERDADEIRO;Escola Superior de Propaganda e Marketing;;F;;;x;;N;
+57affa5b-5745-4d8a-8ee9-56c8e8f5e5fe;Universidade de Lisboa - Instituto de Geografia e Ordenamento do Território;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Lisboa
+fdcd1f0c-f06d-493b-b7fc-574dc29191a0;Escola Superior Artística do Porto;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;Universidade do Porto
+ff325318-1cb6-4b9a-b815-57c92b28b14a;Instituto Politécnico de Viseu - Escola Superior de Saúde de Viseu;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+9e21099f-9bb0-4b3a-a490-581ff329c72b;Instituto Superior Politécnico Gaya - Escola Superior de Ciência e Tecnologia;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Superior Politécnico Gaya
+4946a166-03f6-4f9d-bab7-582de2773a6a;Universidade de Lisboa - Instituto Superior Técnico (Tagus Park);;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Lisboa
+fbe9e3ab-3ba8-4c56-8b15-59559b05add2;Escola Superior de Saúde Jean Piaget de Viseu;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+8f9218ea-ae81-4e0c-9a8f-598e66728825;Universidade Católica Portuguesa - Escola Superior de Biotecnologia;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade Catolica Portuguesa
+c1393375-7718-44dc-8cf1-59c69fd69424;Instituto Superior de Ciências Empresariais e do Turismo;;;;;;;44444.85111;;;;FALSO;Instituto Superior de Ciências Empresariais e de Turismo;;;;;;;N;Instituto Superior de Ciências Empresariais e de Turismo
+906121ac-7e4d-4af2-ad07-59f7e33051e2;Universidade Católica Portuguesa - Faculdade de Direito;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade Catolica Portuguesa
+af84b7fe-2d77-4192-ab4d-5a3432c9d037;Escola Superior de Hotelaria e Turismo do Estoril;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Escola Superior de Hotelaria e Turismo do Estoril
+eb8ad009-a3e3-44db-94b6-5c37ee925980;Instituto Superior de Estudos Interculturais e Transdisciplinares de Viseu;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+8864ebe2-fec0-4191-8e0c-5c8c7c8dd5e7;Instituto Superior de Economia e Gestão da Universidade de Lisboa (ISEG);;;;;;;44520.67065;;;;VERDADEIRO;Universidade de Lisboa;Instituto Superior de Economia e Gestão;F;;;;;N;Instituto Superior de Gestão - ISG
+3a7b63c2-3e86-4219-a131-5e796df9bc31;ISMAI;;;;;;;44444.85111;;;;FALSO;Instituto Universitário da Maia;;;;;;;N;
+80c0bc10-0be5-4a97-b1d8-5eaa50376d98;Universidade de Coimbra - Faculdade de Economia;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Coimbra
+7eb35243-ec00-446d-b021-5efdab501803;Liceu Jose Afonso;;;;;;;44497.79149;;;;VERDADEIRO;Liceu José Afonso;;;;x;;;N;
+d6db8ce5-e8ab-4b3c-8c84-5f0fde0a3707;Universidade Católica Portuguesa - Faculdade de Filosofia e Ciências Sociais;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade Catolica Portuguesa
+2f6ad8c8-16f8-4830-92f5-5f3b002b1d82;Universidade do Algarve - Faculdade de Economia;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade do Algarve
+d4d63874-69d2-443c-b9e1-5f4cbf0891a4;Instituto Politécnico de Portalegre - Escola Superior de Saúde;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Portalegre
+6290df0b-e156-4afd-a6ad-5fa0b217694e;ISVOUGA;;;;;;;44468.94106;;;;VERDADEIRO;Instituto Superior de Entre Douro e Vouga;;F;;;;;N;
+c80ffe59-dbe5-4c2d-8ffd-6023b1779dc6;Instituto Politécnico de Santarém - Escola Superior de Gestão e Tecnologia de Santarém;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Santarém
+c869ca1c-1cb0-48c1-af3e-603b0d9d09d4;Universidade Nova de Lisboa - Instituto Superior de Estatística e Gestão de Informação;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade Nova de Lisboa
+22ae4f30-a5a4-433b-9b78-60a9c2ac886a;Universidade do Porto - Faculdade de Economia;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade do Porto
+57fc49d1-74c6-4c19-869d-61b87a9c537c;Instituto Politécnico da Lusofonia - Escola Superior de Ciências da Administração;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+fcb58bc2-0dfe-4ee3-a7ef-63072e53d150;Universidade Lusíada - Norte - Vila Nova de Famalicão;;;;;;;44444.85111;;;;FALSO;;;;;;x;x;N;Universidade Lusiada
+517eeecc-474e-475f-8e0e-638b50e594d7;Universidade de Lisboa - Faculdade de Belas-Artes;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Lisboa
+62808c2b-56f2-445a-b6bb-63c08dda3bdc;Instituto Politécnico de Lisboa - Instituto Superior de Engenharia de Lisboa;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Lisboa
+adbe418a-3529-46a6-be29-63d94c684117;Universidade Nova de Lisboa - Faculdade de Economia;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade Nova de Lisboa
+07a76ef3-be4d-4fc9-8474-646d0e2a22ac;Universidade da Madeira - Faculdade de Artes e Humanidades;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade da Madeira
+3392af38-6b88-4d36-ab8c-64cf636dcf24;Universidade de Évora - Escola de Ciências e Tecnologia;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade de Evora
+bee3b39a-db39-4940-9425-65785931f591;British and Irish Modern Music Institute;;;;;;;44515.9693;;;;VERDADEIRO;;;F;;;;;N;
+1b6f6d52-8dda-480e-bedc-65a3d0a936d6;Faculdade de Ciências da Saúde de São Paulo;;;;;;;44456.61177;;;;VERDADEIRO;Universidade Federal de São Paulo;Faculdade de Ciências;F;;;;;N;
+fcd20308-814e-40f2-9d1b-65ed95d0075c;Universidade do Porto - Faculdade de Ciências da Nutrição e da Alimentação;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade do Porto
+b1d931af-f653-4d50-812c-65fb7464222e;secundario;;;;;;;44510.80748;;;;VERDADEIRO;;;;x;;;;N;
+5f5c6413-ba07-4304-9af0-660986b4048c;UNISINOS;;;;;;;44446.37267;;;;VERDADEIRO;Universidade do Vale do Rio dos Sinos;;F;;;;;N;
+fac6c083-5e10-4a26-bf11-66335d199154;Flag Profissional;;;;;;;44522.93146;;;;VERDADEIRO;FLAG;;;;x;;;N;
+fa8e67aa-1804-4e64-87cd-66391b9017a1;Escola Superior de Enfermagem Cruz Vermelha Portuguesa - Alto Tâmega;;;;;;;44444.85111;;;;FALSO;;;;;;x;;N;
+31111e04-04a7-4d4e-a8bf-665dd4e5fb55;Instituto Politécnico de Castelo Branco - Escola Superior Agrária de Castelo Branco;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Castelo Branco
+0994c7d8-333a-407b-be9d-673bbc8fb535;Instituto Politécnico de Portalegre - Escola Superior de Educação e Ciências Sociais;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Portalegre
+d085c976-41f6-49af-8cd4-67743fe51e7c;UNiversidade Nova de Lisboa-IMs;;;;;;;44468.50739;;;;VERDADEIRO;Universidade Nova de Lisboa;Instituto Superior de Estatística e Gestão de Informação;F;;;x;;N;Universidade Nova de Lisboa
+b857a8a6-2394-4e37-8c8f-682ecd4495fd;Universidade Fernando Pessoa;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade Fernando Pessoa
+a17e7cc1-92ba-49cd-8db2-68a814a7d473;Instituto Politécnico do Porto - Escola Superior de Media Artes e Design;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Instituto Politecnico do Porto
+ce0a9291-af36-4327-baac-695e8e263964;Universidade Estácio de Sá;;;;;;;44516.65419;;;;VERDADEIRO;Universidade Estácio de Sá;;F;;;;;Y;Universidade Estácio de Sá
+e63d8470-cfe7-4a95-a504-695f961ceb94;Technická Univerzita V Kosiciack;;;;;;;44518.46984;;;;VERDADEIRO;;;F;;;;;N;
+cca5d0f0-1001-452b-b251-6983c1a6cf66;Castelo de Paiva;;;;;;;44521.8103;;;;VERDADEIRO;;;;x;;;;N;
+25ded194-d59a-4e64-9109-69ea4c003655;universidade de Trás os;;;;;;;44517.9736;;;;VERDADEIRO;Universidade de Trás-os-Montes e Alto Douro;;F;;;;;N;Universidade de Tras-os-Montes e Alto Douro
+3150f2ca-970c-49e0-bed9-6a97c10a0a16;Universidade de Lisboa - Faculdade de Motricidade Humana;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Lisboa
+5c3b4900-2f53-4260-945d-6b68dbac4a3e;Instituto  superior de engenharia de Coimbra;;;;;;;44524.85144;;;;VERDADEIRO;Instituto Politécnico de Coimbra;Instituto superior de engenharia de Coimbra;F;;;;;N;
+b7cb32ac-07ba-4bac-a114-6bd8bb3c1bdb;Universidade do Porto - Instituto de Ciências Biomédicas Abel Salazar;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade do Porto
+55fae92d-c20f-4b0b-b240-6bf2f82b3f26;Instituto Politécnico de Lisboa - Escola Superior de Tecnologia da Saúde de Lisboa;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Lisboa
+b0fe25eb-4ab4-4768-b063-6bfd3cc86327;Universidade da Madeira - Faculdade de Ciências Sociais;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade da Madeira
+8fa9c51a-78ab-4b9a-a500-6c938c7de863;Instituto Politécnico de Portalegre - Escola Superior Agrária de Elvas;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Portalegre
+e047654f-e120-4693-ab36-6cb29b0f9877;Instituto Politécnico de Tomar - Escola Superior de Tecnologia de Tomar;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Tomar
+a677bd77-74d8-4fae-90ab-6d0ca80e95f1;UFPE;;;;;;;44444.85111;;;;FALSO;Universidade Fedederal de Pernambuco;;;;;;;N;
+d797936b-2f94-4a79-8646-6eaad188417e;UFRJ;;;;;;;44497.86841;;;;VERDADEIRO;Universidade Federal do Rio de Janeiro;;F;;;;;N;
+208d1514-5ce8-4be7-9fa2-6f6759f76e44;Universidade do Algarve - Escola Superior de Saúde;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade do Algarve
+05be3a3d-80c3-406b-9a88-6fa8e81cf0c7;Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências Humanas e Sociais;;;;;;;44444.85111;;;;FALSO;Universidade de Trás-os-Montes e Alto Douro;Escola de Ciências Humanas e Sociais;;;;;x;N;Universidade de Tras-os-Montes e Alto Douro
+999a3178-0db1-4f23-9d16-6fbdda91e4ff;Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências Agrárias e Veterinárias;;;;;;;44444.85111;;;;FALSO;Universidade de Trás-os-Montes e Alto Douro;Escola de Ciências Agrárias e Veterinárias;;;;;x;N;Universidade de Tras-os-Montes e Alto Douro
+fcb6b6b7-eb56-4bd7-a56c-70031b01f363;NOVA IMS;;;;;;;44455.84147;;;;VERDADEIRO;Universidade Nova de Lisboa;Instituto Superior de Estatística e Gestão de Informação;F;;;;;N;
+1cd1b793-5b91-4b83-99a3-709c73f44a58;;;;;;;;44444.85111;;;;FALSO;;;;x;;;;Y;
+861df530-a7da-45aa-aa09-70dc6778faf4;Seomara;;;;;;;44521.68101;;;;VERDADEIRO;Escola Secundária Seomara da Costa Primo;;;;x;;;N;Semera University
+0d9430d0-f3ab-4288-a540-70e9a4e3c2d3;Universidade do Minho;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade do Minho
+da2a2441-7a1e-41b0-bd75-715af8b40857;Instituto Superior Miguel Torga;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+76962acb-1743-4e95-a715-7168da9547ee;Instituto de Estudos Superiores de Fafe;;;;;;;44516.43069;;;;VERDADEIRO;;;F;;;;;N;
+fd9c5ae2-3197-41a9-bab9-7223a717c1cc;Escola Superior de Enfermagem de Lisboa;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+a918c224-e571-4231-966a-7227e975e5df;Instituto Politécnico de Viana do Castelo - Escola Superior de Tecnologia e Gestão;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Viana do Castelo
+fafc6c57-3bcc-41ba-a4bf-722e05f2ade6;Instituto Politécnico de Castelo Branco - Escola Superior de Tecnologia de Castelo Branco;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Castelo Branco
+755b101f-66ca-4e24-9cab-725fd34ea415;Escola Superior de Negócios Atlântico;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+5335d4e3-86ef-4119-955f-7315dc30e214;Universidade de Évora - Escola de Ciências Sociais;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade de Evora
+e92894db-e57e-4e36-a656-73a557e5d4ce;Universidade dos Açores - Faculdade de Ciências e Tecnologia;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade dos Acores
+a2d78739-7494-4d22-b238-73bd86f52230;Universidade de Lisboa - Faculdade de Medicina;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Lisboa
+de799d95-17aa-43e9-971b-7431457f5fec;PUCRS - Pontifícia Universidade Católica do Rio Grande do Sul;;;;;;;44455.47809;;;;VERDADEIRO;Pontifícia Universidade Católica do Rio Grande do Sul;;F;;;x;;N;
+b12c4c56-8a93-4944-9584-7455e9851851;Escola Superior Gallaecia;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+4293ac5c-b329-42f2-8c6a-74b110a38836;Instituto Politécnico de Leiria - Escola Superior de Artes e Design;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Leiria
+310fc2ae-45ef-41c4-8482-74bac34d6538;Universidade do Porto - Faculdade de Medicina Dentária;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade do Porto
+6132e2dc-3d29-44d6-895c-752c8a10096c;Instituto Politécnico de Viana do Castelo - Escola Superior de Ciências Empresariais;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Viana do Castelo
+85c5fdb5-6677-43eb-954f-756ef26a9bab;Universidade de Coimbra - Faculdade de Ciências e Tecnologia;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Coimbra
+5bdfd8f4-6c35-4968-a5a4-76244c75df44;Instituto Politécnico do Porto - Escola Superior de Música e Artes do Espectáculo;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Instituto Politecnico do Porto
+3df96861-8b28-44c2-a4ed-76d44b1759d0;Instituto Politécnico de Castelo Branco - Escola Superior de Educação de Castelo Branco;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Castelo Branco
+a43ad7a6-f06e-4696-b9e1-77535224cd90;Escola profissional de Tondela;;;;;;;44521.47617;;;;VERDADEIRO;;;;;x;;;N;
+38f55050-1082-40fb-ad94-7824cb9bdc23;Instituto Superior de Estudos Interculturais e Transdisciplinares de Almada;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+7bcf690c-707a-43a6-acce-786ce72d848d;Instituto Superior de Ciências da Informação e da Administração;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+6c041391-4aea-464e-9b60-78c8df4e20a0;National Research University Higher School of Economics;;;;;;;44457.74001;;;;VERDADEIRO;National Research University;Higher School of Economics;F;;;;;N;
+78ee4b59-11b0-43ed-ba64-79bae27f04c2;Instituto Politécnico do Porto - Escola Superior de Hotelaria e Turismo;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Instituto Politecnico do Porto
+4b2b6016-bb75-4f86-9e6d-7a0c8e21f7c8;Lusíada Lisboa;;;;;;;44515.83084;;;;VERDADEIRO;Universidade Lusíada;;F;;;;;N;
+046d237e-135e-44fc-af58-7b2e4f558cd9;universidade coimbra;;;;;;;44515.71185;;;;VERDADEIRO;Universidade de Coimbra;;F;;;;;N;Universidade de Coimbra
+51bf70d7-b50d-42fe-90e1-7b9c23e7e9cc;Instituto Politécnico do Cávado e do Ave - Escola Superior de Tecnologia;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico do Cávado e do Ave
+f164f2ff-51e0-458b-b0eb-7b9e401d76a3;Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências da Vida e do Ambiente;;;;;;;44444.85111;;;;FALSO;Universidade de Trás-os-Montes e Alto Douro;Escola de Ciências da Vida e do Ambiente;;;;;x;N;Universidade de Tras-os-Montes e Alto Douro
+547e662f-d10f-4b67-bc27-7bcef0a1af5a;Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade Nova de Lisboa
+45ce22fb-4c07-4d52-9ded-7c0226d7f685;Universidade Nova de Lisboa - Faculdade de Ciências Sociais e Humanas;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade Nova de Lisboa
+96b74692-6258-491f-8676-7c5c638276c1;Universidade Lusiada Lisboa;;;;;;;44498.52556;;;;VERDADEIRO;Universidade Lusíada;;F;;;;x;N;Universidade Lusiada
+891cc7a0-a922-4a5e-b76b-7c8f770a127e;Universidade de Caxias do Sul;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Caxias do Sul
+3374a730-3c47-430e-92d3-7d1471e7f51d;Faculdade de Economia da Universidade de Coimbra;;;;;;;44473.63441;;;;VERDADEIRO;Universidade de Coimbra ;Faculdade de Economia;F;;;;;N;
+ab542c45-a78b-4940-9147-7d46f605c894;Rafael Bordalo Pinheiro;;;;;;;44524.93757;;;;VERDADEIRO;;;;x;;;;N;
+d058d081-10a8-488b-b2a4-7d76ed2eef4d;Instituto Politécnico de Santarém - Escola Superior de Desporto de Rio Maior;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Santarém
+121c89dd-b647-489b-841d-7dac66795962;Edinburgh Napier University;;;;;;;44454.83912;;;;VERDADEIRO;University of Edinburgh;;F;;;;;N;University of Edinburgh
+bc60bcb6-2848-4066-8c37-7e4a529e8222;Instituto Politécnico de Lisboa - Escola Superior de Música;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Lisboa
+2d8f89d2-3aa4-4e16-913e-7f5ada7a6772;esalv;;;;;;;44507.61962;;;;VERDADEIRO;Escola Secundária Afonso Lopes Vieira;;;;x;;;N;
+f9af7fc3-ec40-4d6a-943b-810637d39850;Instituto Politécnico de Santarém - Escola Superior de Saúde de Santarém;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Santarém
+fe707603-77d0-455d-8662-824feb79c80a;Coventry University UK;;;;;;;44444.85111;;;;FALSO;Coventry University;;;;;;;N;Coventry University
+118fe0f4-ae5b-4848-a578-82eace7c8741;Universidade dos Açores - Escola Superior de Saúde - Ponta Delgada;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade dos Acores
+6d7ee128-0c28-4346-a592-838ce3942d9d;IFPI;;;;;;;44496.60584;;;;VERDADEIRO;Instituto Federal do Piauí;;F;;;;;N;
+f270b753-fc95-422a-a142-83e95b377e66;Dual Porto;;;;;;;44525.44896;;;;VERDADEIRO;;;;;x;;;N;
+0b35ddf3-309e-4187-9648-841615eb25cd;Escola Superior de Turismo e Hotelaria do Estoril;;;;;;;44444.85111;;;;FALSO;Escola Superior de Hotelaria e Turismo do Estoril;;;;;;;N;Escola Superior de Hotelaria e Turismo do Estoril
+64bece7f-f50c-4674-b294-84f379199eed;Instituto Politécnico de Lisboa - Escola Superior de Dança;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Lisboa
+68318dbb-0487-467c-84a8-85c82fea03f5;Instituto Politécnico de Beja - Escola Superior de Tecnologia e de Gestão;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Beja
+5d57bfe4-e54c-4762-8591-86b606c74d8e;Universidad Complutense de Madrid;;;;;;;44468.30404;;;;VERDADEIRO;;;F;;;;;Y;Universidad Complutense de Madrid
+4741d4a0-339d-4cf1-bcbe-87c9bd2dedd7;Universidade do Porto - Faculdade de Medicina;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade do Porto
+199ac1bf-48c0-4495-bb13-87dd04c85972;Universidade de Lisboa - Faculdade de Ciências;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Lisboa
+13fae593-5513-4997-afd9-88038738c24c;Universidade do Algarve - Instituto Superior de Engenharia;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade do Algarve
+37dd3d9f-9cbc-4eaa-96e9-887b5bbbcfe6;EAE Business School;;;;;;;44489.3701;;;;VERDADEIRO;;;F;;;;;N;
+3a85742e-3de2-49f7-b705-889038759d02;Unigran Europa;;;;;;;44444.85111;;;;FALSO;;;;x;;;;N;
+ced871ba-da1e-4f76-bee9-88e855cecfaf;University of Lincoln;;;;;;;44516.98494;;;;VERDADEIRO;;;F;;;;;Y;University of Lincoln
+ce43a3e5-5372-401c-b93e-891b133c1463;Akademia Leona Koźmińskiego (Kozminski University);;;;;;;44521.86833;;;;VERDADEIRO;Kozminski University;;F;;;;;N;
+3bce3dc0-17a2-4250-b16e-897b97c59780;Universidade de Lisboa - Faculdade de Medicina Veterinária;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Lisboa
+bdf1b7c6-63df-4038-a613-8a964beb088e;Escola Superior de Educação de Viseu;;;;;;;44444.85111;;;;FALSO;Instituto Politécnico de Viseu;Escola Superior de Educação;;;;;;N;
+1f155524-53d2-4226-9b35-8aea4c95514f;Universidade Lusófona de Humanidades e Tecnologias;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade Lusófona de Humanidades e Technologias
+6e73ea74-cdd1-4d60-9bb2-8aed3994cc07;Instituto Politécnico Jean Piaget do Sul - Escola Superior de Tecnologia e Gestão Jean Piaget;;;;;;;44444.85111;;;;FALSO;Instituto Politécnico Jean Piaget;;;;;;x;N;Instituto Piaget
+453f6801-43bc-4fee-a515-8b85b41c4550;Universidade da Madeira - Escola Superior de Tecnologias e Gestão;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade da Madeira
+919409bd-d140-44a3-bb8d-8b9164b4d8dd;IPAM;;;;;;;44444.85111;;;;FALSO;Instituto Português de Administração de Marketing;;;;;;;N;Ilam University
+03894b24-a628-4bd7-afec-8bb2703b8762;Universidade Autónoma de Lisboa Luís de Camões;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade Autónoma de Lisboa Luís de Camoes
+aa88f59e-c95d-4848-b66b-8bd0637709ab;Escola Secundária Santo André - Barreiro;;;;;;;44515.83092;;;;VERDADEIRO;;;;;x;;;N;
+42f1db40-b893-4a86-a6cf-8c9fe39e779b;Universidade Católica Portuguesa - Católica Porto Business School;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade Catolica Portuguesa
+bb74742b-456a-4252-844a-8ca14adb9903;Universidade do Porto - Faculdade de Farmácia;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade do Porto
+2726e1fb-fe63-4677-9638-8ca9463007f3;Instituto Politécnico de Viseu - Escola Superior Agrária de Viseu;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+804dbe87-030c-4f5c-91af-8cdc939e9f4c;Universidade de Lisboa - Faculdade de Arquitetura;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Lisboa
+e1feaa03-2e9c-4998-9e9d-8d01f85d532a;Instituto Politécnico de Santarém - Escola Superior Agrária de Santarém;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Santarém
+4de30720-9f60-4a6b-882a-8d1c49258d19;Instituto Universitário Militar - Academia da Força Aérea;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+86bd889e-3d5e-44f6-8dca-8d390d8f9ddc;Universidade de Coimbra - Faculdade de Farmácia;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Coimbra
+c101be33-91ea-4a60-9bad-8d9b9b2a34e0;Instituto Politécnico do Cávado e do Ave - Escola Superior de Gestão;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico do Cávado e do Ave
+364714d8-e1f0-4b14-81d6-8dbd924f454a;Academia Nacional Superior de Orquestra;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Academia Nacional Superior de Orquesta
+d8631583-0343-4a75-bc85-8df6a2db6af1;Instituto Politécnico do Cávado e do Ave - Escola Tecnica Superior Profissional;;;;;;;44519.6421;;;;VERDADEIRO;;;F;;;;;Y;Instituto Politécnico do Cávado e do Ave
+451dbe4b-0daa-4b79-aeb1-8e1334ee6049;universidade federal de sao paulo;;;;;;;44508.77592;;;;VERDADEIRO;Universidade Federal de São Paulo;;F;;;;;N;Universidade Federal de São Paulo
+c1263480-163c-45b8-89c6-8e40c785bb44;Universidade Lusófona do Porto;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+28bceaf2-40ae-4906-899a-8e4c7b5f1312;Universidade dos Açores - Escola Superior de Saúde - Angra do Heroísmo;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade dos Acores
+359b0e60-d5c4-4b6a-860a-8ecd360d7c78;Universidade dos Açores - Faculdade de Economia e Gestão;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade dos Acores
+538e0a10-2411-4733-9ff8-8f8fe8315ece;IESB;;;;;;;44497.96386;;;;VERDADEIRO;Centro Universitário IESB;;F;;;;;N;
+ac7da012-1b6d-44aa-83e3-90b204f9195e;Universidade de Lisboa - Faculdade de Direito;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Lisboa
+a6f5cf2f-1179-45df-8acb-90f9a2eaa52b;ISEC;;;;;;;44444.85111;;;;FALSO;Instituto Superior de Educação e Ciências;;;;;;;N;
+3b4d8474-8957-42e5-a816-921961151433;Faculdade Impacta;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+a7d424d2-695a-40d6-bfed-9285e366cb00;IPC ESTGOH;;;;;;;44522.6253;;;;VERDADEIRO;Escola Superior de Tecnologia e Gestão de Oliveira do Hospital;;F;;;;;N;
+122ff171-a186-46bd-8646-92b8ca67276b;INDEG - ISCTE;;;;;;;44459.71344;;;;VERDADEIRO;INDEG-ISCTE Executive Education;;;;x;;;N;
+f64267b0-d9d5-48c8-839e-92c0cded908e;adsaasdasd;;;;;;;44444.85111;;;;VERDADEIRO;;;;x;;;;N;
+59ed1270-8174-4a26-9228-933cec2983fa;Universidade da Beira Interior;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade da Beira Interior
+e2a5d903-3706-4149-b331-93ca3a1a3935;Instituto Politécnico de Castelo Branco - Escola Superior de Saúde Dr. Lopes Dias;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Castelo Branco
+56dfaa83-6fe2-4efb-a573-944abae9bc44;Instituto Politécnico de Viana do Castelo - Escola Superior de Educação;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Viana do Castelo
+2d82fad3-db98-4374-8052-94e0bbec4fd1;Universidade do Porto - Faculdade de Ciências;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade do Porto
+c68b6a86-dcda-406c-a58a-9550061602b1;nenhuma;;;;;;;44494.9045;;;;VERDADEIRO;;;;x;;;;N;Nanhua University
+d3af61a0-76b7-4570-8058-95cc7566516d;iseg;;;;;;;44444.85111;;;;VERDADEIRO;Universidade de Lisboa;Instituto Superior de Economia e Gestão;F;;;;;N;
+bee0cab8-f905-41eb-ab93-96631afd7a0a;Universidade Évora;;;;;;;44487.50775;;;;VERDADEIRO;;;F;;;;x;N;Universidade de Evora
+2e4ed441-df7b-4d6f-8f53-966d17748aff;Universidade do Algarve;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade do Algarve
+f578f760-4a14-42c6-8811-979c4df9178f;Instituto Politécnico de Lisboa;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Lisboa
+43f1d7d7-9172-4131-812e-9822578efbcd;ISCAL;;;;;;;44477.50825;;;;VERDADEIRO;Instituto Politécnico de Lisboa;Instituto Superior de Contabilidade e Administração de Lisboa;F;;;;;N;
+805af711-e7fb-4e0d-a4f1-98dfc0d3beb3;Universidade de Pernambuco;;;;;;;44463.36794;;;;VERDADEIRO;;;F;;;;;Y;Universidade de Pernambuco
+e304afb5-3c51-4005-94c6-98e1035a2337;Escola Superior de Educação de Lisboa;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+ada742bc-b1e2-4e7d-b3a3-99b36cd6fbe1;Faculdade de Engenharia do Porto;;;;;;;44496.46568;;;;VERDADEIRO;Universidade do Porto;Faculdade de Engenharia;F;;;;;N;
+bd4661bc-4088-47ce-9b39-99c03a9034f1;Instituto Português de Administração de Marketing de Lisboa;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+c13066b1-739d-4441-b90b-99cce9c36c53;Instituto de Estudos Interculturais e Transdisciplinares de Almada (ISEIT);;;;;;;44444.85111;;;;FALSO;Instituto de Estudos Interculturais e Transdisciplinares de Almada;;;;;;;N;
+51fb40c6-4559-4466-8df9-9b184fea54af;Universidade Paulista;;;;;;;44508.59965;;;;VERDADEIRO;;;F;;;;;Y;Universidade Paulista
+77146e1d-2055-487e-bfaa-9b363c850d75;UNIFATEA - Centro Universitário Teresa D;;;;;;;44455.47945;;;;VERDADEIRO;Centro Universitário Teresa D''Ávila;;F;;;x;;N;
+1f1658fe-7430-4a1e-a5a9-9b719c8d9d9f;Instituto Politécnico de Viseu - Escola Superior de Educação de Viseu;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+310d671d-7ef3-463f-a03b-9ba2c34b1209;Universidade do Porto - Faculdade de Engenharia;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade do Porto
+87bf9fbd-a939-43b0-81ca-9d2d57dbe0dc;Universidade de Coimbra - Faculdade de Ciências do Desporto e Educação Física;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Coimbra
+76cf0a3a-63c0-49db-8cbf-9d4b0428edd6;Universidade Lusíada;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade Lusiada
+f0c2d28c-d6ba-4a71-b1a7-9d5de41d0536;Instituto Politécnico da Lusofonia - Escola Superior de Saúde, Proteção e Bem-Estar Animal;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+350975f6-b522-478a-8225-9d60bb688788;Universidade de Trás-os-Montes e Alto Douro - Escola Superior de Saúde;;;;;;;44444.85111;;;;FALSO;Universidade de Trás-os-Montes e Alto Douro;Escola Superior de Saúde;;;;;x;N;Universidade de Tras-os-Montes e Alto Douro
+df4af519-35fc-42d1-a015-9e515538106f;Escola Secundária de Camarate;;;;;;;44528.28102;;;;VERDADEIRO;;;;;x;;;N;
+88ed7f77-187e-4395-8044-9f20b46e26ab;Instituto Politécnico de Leiria - Escola Superior de Tecnologia e Gestão;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Leiria
+57e1ddcc-08a7-4545-852e-9f595b820a0b;Escola Superior de Educação de Fafe;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+e3bd22b5-3d8d-404f-adb4-9ffee0ce4fac;Universidade Nova de Lisboa - Instituto de Higiene e Medicina Tropical;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade Nova de Lisboa
+946fdb4c-d3fe-49c7-9a73-a03911d00d3c;istec;;;;;;;44459.66438;;;;VERDADEIRO;Instituto Superior de Tecnologias Avançadas de Lisboa;;F;;;;;N;Instituto Superior de Tecnologias Avançadas - ISTEC
+515275c6-50dc-48f7-85b3-a0489e643c1a;Instituto Politécnico Jean Piaget do Sul - Escola Superior de Saúde Jean Piaget do Algarve;;;;;;;44444.85111;;;;FALSO;Instituto Politécnico Jean Piaget;;;;;;x;N;Instituto Piaget
+29546d96-f706-49fa-9a10-a095363452e0;Universidade de Coimbra - Faculdade de Psicologia e de Ciências da Educação;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Coimbra
+c5b3711a-ad6e-4044-bd84-a0ae183adcc4;UFMG;;;;;;;44444.85111;;;;FALSO;Universidade Federal de Minas Gerais;;;;;;;N;
+73cb4fff-e17a-4bf7-93f8-a0b301537baf;Instituto Politécnico da Maia - Escola Superior de Tecnologia e Gestão;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+b3cf6343-78a1-4dbe-9f34-a0c0b46c0faf;Universidade de Lisboa - Faculdade;;;;;;;44444.85111;;;;FALSO;;;;;;x;;Y;Universidade de Lisboa
+d2f14126-53c6-4697-b820-a10e531d969c;Universidade de Coimbra - Faculdade de Direito;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Coimbra
+cb1605e6-5cf0-4463-b044-a11f744d7467;Instituto Superior de Gestão;;;;;;;44444.85111;;;;FALSO;Universidade de Lisboa;Instituto Superior de Economia e Gestão;;;;;x;N;Instituto Superior de Gestão - ISG
+77bde682-4466-4caf-8eee-a1992e411892;Universidade de Lisboa - Instituto Superior Técnico;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Lisboa
+0459c402-fce8-4ff1-be7d-a1d91271b72b;Universidade Católica Porto;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+efb0267a-30db-4dbb-87a2-a2bfe8635c6f;instituto português de fotografia;;;;;;;44524.99239;;;;VERDADEIRO;Instituto Português de fotografia;;;;x;;;N;
+ee3ad031-071c-45d0-a185-a3201a45867c;Escola Superior de Atividades Imobiliárias;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+8b6eddc2-398f-4b1a-a186-a3259ad7937a;Escola Superior de Tecnologias de Fafe;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+cf227007-51ba-474b-878e-a365bceb3a26;ESAN;;;;;;;44525.39622;;;;VERDADEIRO;Escola Superior Aveiro-Norte;;F;;;;;N;Al-Eman University
+5642b757-5c76-480d-beb8-a44b97399808;Instituto Politécnico de Bragança - Escola Superior de Saúde de Bragança;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Bragança
+6d875b2b-387c-4139-ac42-a48cb8fc678f;UFP;;;;;;;44444.85111;;;;FALSO;Universidade Federal do Paraná;;;;;;;N;
+96986d5d-a9cd-49ad-b3cd-a492220fc045;lisn;;;;;;;44444.85111;;;;FALSO;;;;x;;;;N;Linn State Technical College
+7a92491d-df40-4417-8b83-a4d1aa270ee6;Escola Superior de Artes e Design;;;;;;;44444.85111;;;;FALSO;Instituto Politécnico de Leiria;Escola Superior de Artes e Design;;;;;;Y;Escola Superior de Artes e Design
+aa9706fd-b334-4e85-8e0c-a519e039203f;Universidade de Coimbra - Faculdade de Medicina;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Coimbra
+de1c9f1e-30f1-4b8f-bd9d-a5471ab5a873;IED Milano;;;;;;;44524.95979;;;;VERDADEIRO;Istituto Europeo di Design;;F;;;;;N;
+9df83778-9984-4613-9416-a55ef8b718d5;escola secundária José gomes ferreira;;;;;;;44515.67371;;;;VERDADEIRO;Escola secundária José Gomes Ferreira;;;;x;;;N;
+01c95289-f8be-40c4-aa87-a58b0dc5cdaa;Instituto Politécnico de Setúbal - Escola Superior de Saúde;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Setúbal
+64689f30-2720-4f2d-b924-a5dd26a8d91f;Instituto Universitário de Ciências da Saúde;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+4d16bf09-5047-4120-8d7d-a636a2705728;Instituto Politécnico de Coimbra - Escola Superior de Tecnologia e Gestão de Oliveira do Hospital;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Coimbra
+703b9209-b6c4-4201-acd2-a69f3d6e1c4e;Instituto Politécnico de Leiria - Escola Superior de Educação e Ciências Sociais;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Leiria
+a64e8c01-df39-4efe-ba64-a6c8ff98525e;Colégio Internato dos Carvalhos;;;;;;;44521.84361;;;;VERDADEIRO;;;;;x;;;N;
+f01b76e5-96f4-46af-8dd6-a845552e4b70;Instituto Politécnico de Coimbra - Instituto Superior de Engenharia de Coimbra;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Coimbra
+d0fc1862-12d4-4401-afda-aa854db86532;Universidade Nova de Lisboa - Faculdade de Ciências Médicas;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade Nova de Lisboa
+07fe2ddf-3989-409b-8a77-aae41f02cbad;ISEP;;;;;;;44444.85111;;;;FALSO;Instituto Politécnico do Porto;Instituto Superior de Engenharia do Porto;;;;;;N;
+30df98e0-f038-4599-9ab1-aafa8f4836d8;Instituto Politécnico de Viana do Castelo - Escola Superior de Desporto e Lazer;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Viana do Castelo
+adfe9dc2-8c01-48bc-b45a-ab5314669420;secundaria de S.pedro do sul;;;;;;;44524.93698;;;;VERDADEIRO;Escola Secundaria de S.pedro do sul;;;x;;;;N;
+1deaf703-5e77-4470-9122-ac2ff132e596;Instituto Politécnico de Bragança - Escola Superior de Educação de Bragança;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Bragança
+befc84a9-75ee-403a-a689-acbb2d985c01;outra;;;;;;;44528.87842;;;;VERDADEIRO;;;;x;;;;N;
+ca607ec4-f1ef-4879-9af3-ace8d2c04b50;ISLA - Instituto Politécnico de Gestão e Tecnologia - Escola Superior de Tecnologia;;;;;;;44444.85111;;;;FALSO;Instituto Politécnico de Gestão e Tecnologia;Escola Superior de Tecnologia;;;;;;N;Isra University
+3ee4312a-f137-4efe-b29a-ad46b3d0dc0c;Universidade do Porto - Faculdade de Arquitetura;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade do Porto
+f550d763-8ddb-40c6-9ff4-ae11ebb0cf20;aes;;;;;;;44444.85111;;;;VERDADEIRO;Agrupamento de Escolas de Sampaio;;;x;;;;N;
+5d6e2361-4693-42a7-8e8c-ae8227fa4b76;Instituto Politécnico de Setúbal - Escola Superior de Tecnologia do Barreiro;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Setúbal
+435a58a6-b5d8-424d-95b6-ae9e305ea0d0;Lisbon School of Design;;;;;;;44522.79765;;;;VERDADEIRO;;;;;x;;;N;
+f5dc8196-b5d6-4fe4-9e13-aee5fa84d77f;Instituto Português de Administração de Marketing do Porto;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+0f004e39-0949-43ed-970e-b03cd3529270;IEFP;;;;;;;44521.8233;;;;VERDADEIRO;Instituto do Emprego e Formação Profissional;;;;x;;;N;
+8bf864ab-59f0-4668-bd85-b03e69bf9a4c;ETIC;;;;;;;44518.02345;;;;VERDADEIRO;Escola de Tecnologias Inovação e Criação;;;;x;;;N;
+06101981-1f75-4d43-8f99-b08d508c9067;Universidade Nova de Lisboa;;;;;;;44508.6536;;;;VERDADEIRO;;;F;;;;;Y;Universidade Nova de Lisboa
+b838f3c2-6dbe-4a2d-be0b-b0b89b854d7c;Universidade de Lisboa - Instituto Superior de Agronomia;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Lisboa
+aaa4b207-b29c-430b-8b10-b1aff953cca1;Universidade Católica Portuguesa - Faculdade de Teologia (Porto);;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade Catolica Portuguesa
+bf8be54a-7a7a-418f-b019-b202ac278b03;Alcains;;;;;;;44525.06644;;;;VERDADEIRO;;;;x;;;;N;
+38b49f6c-ed71-47d1-a8f7-b2f410d35e09;Escola Secundária de Barcelos;;;;;;;44516.62781;;;;VERDADEIRO;;;;;x;;;N;
+5e178b0b-b38c-4589-8c2b-b378617a5b56;Instituto Politécnico da Lusofonia - Escola Superior de Educação da Lusofonia;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+0359cf6c-47c1-48b1-9ec4-b3cc91df45e0;fct;;;;;;;44524.45056;;;;VERDADEIRO;Universidade Nova de Lisboa;Faculdade de Ciências e Tecnologia;;x;;;;N;FPT University
+4aedfcb7-a2f9-4078-840e-b47d90ca53a2;Instituto Politécnico de Coimbra - Escola Superior de Educação de Coimbra;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Coimbra
+2dd95f9b-48db-4911-a9f8-b59a5c3fd83a;Universidade de Lisboa - Instituto Superior de Economia e Gestão;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Lisboa
+e5a101dc-5b27-40af-b679-b5bf2f4930c9;Universidade de Coimbra - Faculdade de Letras;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Coimbra
+b6ccdcb9-cd23-4b35-a8ef-b64120036e62;Universidade Federal do Ceará;;;;;;;44530.59882;;;;VERDADEIRO;;;F;;;;;Y;Universidade Federal do Ceará
+39beabd9-3acc-4774-9ae1-b6abcf453405;Instituto Politécnico de Viseu - Escola Superior de Tecnologia e Gestão de Viseu;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+4653b5f8-fa69-4a4d-87aa-b6cdd53114df;Universidade Católica Portuguesa - Faculdade de Educação e Psicologia;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade Catolica Portuguesa
+2d0784d1-5bb3-40bd-a8be-b73ced72bb0d;instituto federal do Rio Grande do Sul;;;;;;;44524.06404;;;;VERDADEIRO;Universidade Federal do Rio Grande do Sul;;F;;;;;N;Universidade Federal do Rio Grande do Sul
+e496eafc-8d00-4715-8ee6-b77693441e10;Universidade do Algarve - Escola Superior de Gestão, Hotelaria e Turismo;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade do Algarve
+71420de3-b1cf-4233-af6e-b7c3b0f161df;Instituto Politécnico de Coimbra - Instituto Superior de Contabilidade e Administração de Coimbra;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Coimbra
+22f33f30-1009-4256-a87c-b7d0dc702075;Escola Superior de Educação de João de Deus;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+fad81387-af49-4e5a-899e-b7f248aa35b4;Instituto Superior de Tecnologias Avançadas de Lisboa;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+71606218-1f9d-4cad-8c75-b8cb127f9be4;Instituto Superior de Ciências Educativas do Douro;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Instituto Superior de Ciências Educativas
+a50e59c1-f800-481f-83a1-b95f12cc07e8;ISAG;;;;;;;44490.44589;;;;VERDADEIRO;Instituto Superior de Administração e Gestão;;F;;;;;N;
+14326591-ef78-460e-8c3d-b987da2ffbdf;Laureate - Universidade Salvador;;;;;;;44469.01642;;;;VERDADEIRO;Universidade Salvador;;F;;;;;N;
+0797399e-f484-4589-8e29-bbb8574ff64b;Instituto Superior de Entre Douro e Vouga;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Superior de Entre Douro e Vouga
+037f759e-b4ca-477b-861f-bbb9f253dd6b;Universidade Portucalense Infante D. Henrique;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade Portucalense Infante D. Henrique
+29a19d32-429f-4104-8e1b-bc52cd497be1;42 Lisboa;;;;;;;44444.85111;;;;FALSO;;;;;x;;;N;
+2401641f-db56-4a45-b6d7-bc9cbe902054;universidade de Trás os Montes e Alto Douro;;;;;;;44529.61164;;;;VERDADEIRO;Universidade de Trás-os-Montes e Alto Douro;;F;;;x;;N;Universidade de Tras-os-Montes e Alto Douro
+3a33c4c0-4eb3-4263-acb9-bcde207e234e;Escola Secundária Miguel Torga;;;;;;;44516.01152;;;;VERDADEIRO;;;;;x;;;N;
+0d8b80fa-a29d-4ceb-a8cd-bce9c44f8f60;Universidade do Porto - Faculdade de Desporto;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade do Porto
+28255ee5-c177-4755-87a0-bd0087b3363b;Instituto Universitário Militar - Escola Naval;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+8c0d3e46-2c45-4e84-9ad5-bd2d64d426ba;CESPU - Instituto Politécnico de Saúde do Norte - Escola Superior de Saúde do Vale do Ave;;;;;;;44444.85111;;;;FALSO; Instituto Politécnico de Saúde do Norte;Escola Superior de Saúde do Vale do Ave;;;;;;N;
+aaf3af50-f6a7-4a2d-830e-bf64b8e365d0;Instituto Politécnico do Porto - Escola Superior de Saúde;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Instituto Politecnico do Porto
+454b8cf6-4c16-44cb-b051-bf8bcaa5c6c8;Instituto Politécnico de Lisboa - Escola Superior de Educação;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Lisboa
+d12b2090-4c3b-4778-a498-bfd0130fc69c;ISAVE - Instituto Superior de Saúde;;;;;;;44444.85111;;;;FALSO;Instituto Superior de Saúde;;;;;x;;N;
+880623ab-8f4b-4274-baa4-c063783cc230;asdada;;;;;;;44444.85111;;;;VERDADEIRO;;;;x;;;;N;
+ea6f811d-b170-47f7-9023-c0a3dd8f9167;Instituto Politécnico de Tomar - Escola Superior de Gestão de Tomar;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Tomar
+40c04ba2-00ce-4d43-a13c-c18df47d8487;Universidade de Lisboa - Instituto de Educação;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Lisboa
+d880e9ff-92e5-406a-b460-c19906fb1ad1;Universidade do Porto - Faculdade de Letras;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade do Porto
+8519eb36-96c7-4fdd-bde1-c1e14363df4a;Universidade do Porto - Faculdade de Psicologia e de Ciências da Educação;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade do Porto
+3cd4fa68-e328-44ef-b304-c246679617f1;Instituto Politécnico de Castelo Branco - Escola Superior de Gestão de Idanha-a-Nova;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Castelo Branco
+a0726161-bc32-465f-a4c2-c287978f3626;asda;;;;;;;44444.85111;;;;VERDADEIRO;;;;x;;;;N;Asia University
+b570e616-9c65-4224-a22d-c2c5d70f60db;Instituto Politécnico tomar;;;;;;;44484.63459;;;;VERDADEIRO;Instituto Politécnico de Tomar;;F;;;;;N;Instituto Politécnico de Tomar
+42cebc1e-1292-42e7-9700-c3609f3b7df3;Universidade de Lisboa - Faculdade de Letras;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Lisboa
+652c9805-3866-4eb8-923e-c363aaa00f7c;Instituto Politécnico de Portalegre - Escola Superior de Tecnologia e Gestão;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Portalegre
+8c264561-0d29-41c1-aa8a-c39e331982b2;Instituto Politécnico de Lisboa - Escola Superior de Comunicação Social;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Lisboa
+066bbaea-b1b7-43a9-8dd2-c4066b25375d;Instituto Politécnico de Santarém - Escola Superior de Educação de Santarém;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Santarém
+2629b597-4c47-4f31-a2c5-c43e18c278dc;UNIAESO - Barros Melo;;;;;;;44453.37117;;;;VERDADEIRO;Centro Universitário AESO Barros Melo;;F;;;x;;N;
+b5ee12de-2ed7-487f-92ad-c5123e34ed8d;Instituto Politécnico do Cávado e do Ave - Escola Superior de Hotelaria e Turismo;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico do Cávado e do Ave
+5afd2ba0-2be7-4979-9ed1-c538e4be25b8;Instituto de Estudos Superiores Financeiros e Fiscais;;;;;;;44487.62841;;;;VERDADEIRO;;;F;;;;;N;
+d994459c-015f-418a-8127-c5e8b5958163;Universidade de Évora - Escola Superior de Enfermagem de São João de Deus;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade de Evora
+e5889ce5-34cc-4b80-b136-c6289e42c9ec;Escola Secundária D. Dinis;;;;;;;44524.79324;;;;VERDADEIRO;;;;;x;;;N;
+8f70e87a-4b21-4e5c-bcda-c646bea43303;Instituto Politécnico de Setúbal - Escola Superior de Educação;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Setúbal
+ac72afb7-c448-4e64-b147-c85608a2f028;EPED;;;;;;;44514.84504;;;;VERDADEIRO;Escola Profissional de Educação para o Desenvolvimento;;;;x;;;N;
+189b546c-a03f-4c97-b0f2-c88f0cc95fa8;Instituto Politécnico do Porto - Escola Superior de Educação;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Instituto Politecnico do Porto
+7fa8d208-5ab8-4a04-ba55-c8cfa6b4437a;Escola Superior de Saúde Egas Moniz;;;;;;;44444.85111;;;;FALSO;;;;;x;;;N;
+cfd67c1c-ef3d-4944-95ea-cafdd531eac3;UFRGS;;;;;;;44444.85111;;;;FALSO;Universidade Federal do Rio Grande do Sul;;;;;;;N;
+d9585e30-7275-48d6-bd7a-cb006db40986;Universidade da maia;;;;;;;44524.68039;;;;VERDADEIRO;Instituto Universitário da Maia;;F;;;;;N;
+8af3f9dd-8ce2-43e4-9316-cbeaf1c1c7e7;ISCTE - Instituto Universitário de Lisboa;;;;;;;44444.85111;;;;FALSO;Instituto Universitário de Lisboa;;;;;;;N;ISCTE - Instituto Universitário de Lisboa
+e9a5e7e2-5ea7-4146-b949-cc082e16499c;IE Business School;;;;;;;44483.90425;;;;VERDADEIRO;;;F;;;;;N;IE University
+68f57e84-f6cc-4fab-a800-cc16d76cf5ce;Escola Superior de Saúde do Alcoitão;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+57b182d6-fe53-4345-ac45-ccb6dac8bbee;Universidade Católica Portuguesa - Faculdade de Teologia;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade Catolica Portuguesa
+e0da7fb0-2ebf-40f8-bfaf-ccdd68171833;Instituto Politécnico da Guarda - Escola Superior de Saúde da Guarda;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico da Guarda
+b82f8345-f53a-4ed1-8c50-cd4bc9a7743a;Universidade Lusíada - Norte - Porto;;;;;;;44444.85111;;;;FALSO;;;;;;x;x;N;Universidade Lusiada
+c0a3d398-d9bd-4a6b-9978-cdc8800d28f6;Escola Básica E secundária Ribeiro Sanches;;;;;;;44512.72111;;;;VERDADEIRO;;;;;x;;;N;
+2cf55041-30ac-41ca-8220-cdd0998a6aee;Universidade do Sul de Santa Catarina;;;;;;;44452.80541;;;;VERDADEIRO;;;;x;;;;Y;Universidade do Sul de Santa Catarina
+b24b0e30-6381-46b8-8756-ce1438b90373;Instituto Politécnico de Bragança - Escola Superior de Comunicação, Administração e Turismo de Mirandela;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Bragança
+1e3fed5b-0c29-4c8b-a663-ce6febe65c73;FFUL;;;;;;;44454.95803;;;;VERDADEIRO;Universidade de Lisboa;Faculdade de Farmácia;F;;;;;N;
+e5e2c8d7-5ef3-4f46-b555-cec95fdbed96;Universidade de Lisboa - Faculdade de Psicologia;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Lisboa
+248cfb53-6236-4b6a-8e1c-cf2f2674322e;Universidade de Aveiro - Escola Superior de Saúde de Aveiro;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Aveiro
+f83a4384-dcf9-43ec-8b91-cfe5dc1adaaa;Universidade dos Açores - Faculdade de Ciências Sociais e Humanas;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade dos Acores
+31e572aa-bc0b-41ce-8425-d0add4e88b0b;Instituto Politécnico de Viana do Castelo - Escola Superior Agrária;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Viana do Castelo
+63c1e7cb-9d03-4a41-8794-d0b53d40212d;Escola Secundária Emídio Navarro, Almada;;;;;;;44521.89364;;;;VERDADEIRO;;;;;x;;;N;
+23db6208-bafe-4a63-b981-d0bf4f3083ea;Universidade aberta;;;;;;;44515.70591;;;;VERDADEIRO;Universidade Aberta Lisboa;;F;;;;;N;Universidade Aberta Lisboa
+9791475d-4655-441e-ba97-d0c289ccd7ed;Centro Universitário da FEI;;;;;;;44455.83998;;;;VERDADEIRO;Centro Universitário da Fundação Educacional Inaciana;;F;;;;;N;
+487eb0de-7b3e-45d3-972f-d16344dd96aa;Escola Superior de Saúde Jean Piaget de Vila Nova de Gaia;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+bf4dab5d-6289-4bfb-94b9-d1bf24d8264a;Akademia Leona Kozminskiego - Kozminski University;;;;;;;44521.6207;;;;VERDADEIRO;Kozminski University;Akademia Leona Kozminskiego;F;;;;;N;
+f72c8b66-2622-4464-9b61-d2119410cf1b;Universidade de Aveiro - Escola Superior de Design, Gestão e Tecnologia da Produção de Aveiro-Norte;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Aveiro
+205d151d-f268-4b63-8d3d-d23b01d4a28c;colégio de gaia;;;;;;;44528.87284;;;;VERDADEIRO;;;;x;;;;N;
+6b6c4d8d-7c0a-4c54-a018-d4024db34244;Escola Superior de Enfermagem do Porto;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;Universidade do Porto
+e406af62-90c0-4f65-ab6c-d567b9e7507a;GlobalNet;;;;;;;44515.81108;;;;VERDADEIRO;;;;;x;;;N;Global University
+aecc083e-2488-4cbf-bf1f-d6b56704e685;Escola Secundária do Forte da Casa;;;;;;;44515.71898;;;;VERDADEIRO;;;;;x;;;N;
+269b8085-6442-4fdb-8167-d7013b53a98b;CEFAD;;;;;;;44525.6302;;;;VERDADEIRO;;;;;x;;;N;
+fd12a6ca-b321-4db8-93fd-d76d1381cf31;Universidade do Porto - Faculdade de Direito;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade do Porto
+4b827195-131e-436e-8c16-d80b89ae1536;Instituto Federal de Minas Gerais;;;;;;;44444.85111;;;;FALSO;Universidade Federal de Minas Gerais;;;;;;;N;Universidade Federal de Minas Gerais
+e5705770-19a4-441d-952e-d825a895b932;Universidade do Algarve - Faculdade de Ciências Humanas e Sociais;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade do Algarve
+9568431b-9d45-4b36-9c14-d8cf6f607bb0;CETEC UCS;;;;;;;44453.72642;;;;VERDADEIRO;Escola de Ensino Médio e Técnico;;;;x;;;N;
+c8dbb07a-2f6e-4fde-8deb-da10a354551a;Instituto Superior de Ciências  Sociais e Políticas;;;;;;;44496.5359;;;;VERDADEIRO;Universidade de Lisboa;Instituto Superior de Ciências Sociais e Políticas;F;;;;;N;
+6ddc8bdb-0b0d-4d32-8e77-da199f851671;Escola Universitária Vasco da Gama;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+408a3237-9dd7-4b0c-91f7-da433616480d;Universidade do Algarve - Faculdade de Ciências e Tecnologia;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade do Algarve
+42ac0fbe-b670-4871-888c-db57a9a3b6d3;Instituto Politécnico de Leiria - Escola Superior de Turismo e Tecnologia do Mar;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Leiria
+7b518d97-cb07-4e76-8e10-dba0f317347d;Universidade Católica Portuguesa - Escola Superior Politécnica de Saúde (Lisboa);;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade Catolica Portuguesa
+0cf9afb3-ea30-4c67-b4ac-dbe127b8e81a;UniCesumar;;;;;;;44444.85111;;;;FALSO;Universidade Cesumar;;;;;;;N;
+2e0804ff-cd5d-4058-8790-dc9ee5829dd4;Universidade Federal de São Paulo;;;;;;;44508.77808;;;;VERDADEIRO;;;F;;;;;Y;Universidade Federal de São Paulo
+92e28a58-9bac-415a-83c0-dce38872c20e;Universidade de Lisboa - ISEG;;;;;;;44488.67898;;;;VERDADEIRO;Universidade de Lisboa;Instituto Superior de Economia e Gestão;F;;;;;Y;Universidade de Lisboa
+c4b8c934-a8e9-4964-8dfb-dd4eb4489293;Escola Europeia de Ensino Profissional;;;;;;;44523.8002;;;;VERDADEIRO;;;;;x;;;N;
+2cb33082-0ef5-4b93-b503-dd4ff69c2566;Instituto Politécnico de Viana do Castelo - Escola Superior de Saúde;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Viana do Castelo
+a2ba9cf3-0e7d-4731-9e59-dd92bcac7c3e;Atlântica - Esc. Univ. de Ciências Empresariais, Saúde, Tecnologias e Engenharia;;;;;;;44444.85111;;;;FALSO;Universidade Atlântica;;;;;x;;N;Universidade Atlântica
+211b3029-66da-4e28-a814-de991258c38e;Escola Superior de Saúde Atlântica;;;;;;;44444.85111;;;;FALSO;Universidade Atlântica;Escola Superior de Saúde;;;;;;N;
+803b5596-980c-449d-b883-deede52c7af9;Instituto Politécnico da Guarda - Escola Superior de Tecnologia e Gestão;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico da Guarda
+fe34d2b8-1a74-4cc2-b2b2-df88ed113cd1;IEFP Setúbal;;;;;;;44524.73248;;;;VERDADEIRO;Instituto do Emprego e Formação Profissional;;;;x;;;N;
+8e6842a6-1158-4287-b9e1-e072b4b7a623;Universidade da Madeira - Faculdade de Ciências da Vida;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade da Madeira
+7e774607-8fed-4448-b14a-e0d55619b0ea;Universidad Politecnica de Victoria;;;;;;;44470.49575;;;;VERDADEIRO;Victoria University;;F;;;;;N;Victoria University
+4c5aa7c0-b21d-42ae-b0a5-e0ff8cb3613a;Escola Superior de Enfermagem São Francisco das Misericórdias;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+c1cc382a-9b25-4b90-ab1b-e2424e09e408;Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências e Tecnologia;;;;;;;44444.85111;;;;FALSO;Universidade de Trás-os-Montes e Alto Douro;Escola de Ciências e Tecnologia;;;;;x;N;Universidade de Tras-os-Montes e Alto Douro
+537ca5fa-f458-44a4-9199-e286dde92651;CESPU - Instituto Politécnico de Saúde do Norte - Escola Superior de Saúde do Vale do Sousa;;;;;;;44444.85111;;;;FALSO;Instituto Politécnico de Saúde do Norte;;;;;x;;N;
+5f06ba1c-8654-494f-85bf-e2a7e121e554;Universidade Católica Portuguesa - Escola das Artes;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade Catolica Portuguesa
+930d4652-6108-4137-87c0-e343c3a2de82;colégio Nossa Senhora da Graça;;;;;;;44521.81294;;;;VERDADEIRO;Colégio Nossa Senhora da Graça;;;;x;;;N;
+0522c2c5-b5a1-493d-b39b-e386a2f6b538;Universidade de Lisboa - Faculdade de Farmácia;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Lisboa
+5a7ec080-6348-4aed-9c08-e3c89316d8fc;Instituto Politécnico de Setúbal - Escola Superior de Ciências Empresariais;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Setúbal
+4ac8b3ad-f1d2-45ca-a250-e49e97de07dc;Universidade Medicina Chinesa;;;;;;;44519.77845;;;;VERDADEIRO;;;;;x;;;N;Universidad Mexicana
+bbceb159-5b4e-48cf-8ad2-e50830f66941;Instituto Politécnico do Porto - Instituto Superior de Engenharia do Porto;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Instituto Politecnico do Porto
+65ba9098-855a-4964-8de8-e68481a5e6df;Universidade Fernando Pessoa - Escola Superior de Saúde;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade Fernando Pessoa
+849a82ed-b13a-49df-adb1-e71560fe9f5f;Università di Padova;;;;;;;44467.4612;;;;VERDADEIRO;Università di Padova;;F;;;;;N;
+a14dd991-55a0-4169-8fa5-e862979f64ca;Universidade Católica Portuguesa - Faculdade de Teologia (Braga);;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade Catolica Portuguesa
+6915f3e5-ded8-421c-97dd-e87e22c36aad;Universidade de Brasilia;;;;;;;44508.60011;;;;VERDADEIRO;Universidade de Brasília;;F;;;;;N;Universidade de Brasília
+d0898f68-5ba0-4932-a8db-e8849881ca5c;Universidade dos Açores - Faculdade de Ciências Agrárias e do Ambiente;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade dos Acores
+d2f52d03-3399-4ee3-a39a-e93dfd8f4454;Universidade de Lisboa - Faculdade de Medicina Dentária;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Lisboa
+1012ac33-a349-4f73-9a08-e94d10be6c01;Escola Superior Náutica Infante D. Henrique;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Escola Nautica Infante D. Henrique
+7e88b525-f93e-44f2-a3b7-ea39e30bfe00;Instituto Politécnico da Maia - Escola Superior de Ciências Sociais, Educação e Desporto;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+1bb47884-2085-47ba-b09b-ea5ad799aaab;ipam Porto;;;;;;;44444.85111;;;;VERDADEIRO;Instituto Português de Administração de Marketing do Porto;;F;;;;;N;
+639ccb9e-1cd7-4406-8744-ea67cc3e247d;josé regio;;;;;;;44521.88102;;;;VERDADEIRO;Escola Secundária José Régio;;;;x;;;N;
+afc3accd-5ab2-4395-8501-ec4a4d1b755f;_;;;;;;;44483.90397;;;;VERDADEIRO;;;;x;;;;N;
+86523422-fa05-4efd-9fd1-ec6acab5e0e2;Instituto Superior de Administração e Gestão;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+13066d50-c17a-44d4-b36c-ece51c1757c9;Faculdade de Economia do Porto;;;;;;;44444.85111;;;;FALSO;Universidade do Porto;Faculdade de Economia;;;;;;N;
+923fab28-5fdf-4bbd-992a-ee7c2a5266a1;Colégio de são miguel;;;;;;;44510.47384;;;;VERDADEIRO;Colégio de São Miguel;;;;x;;;N;Universidad de San Miguel
+33f5d220-9d31-47a0-9c83-eee217535b9e;Instituto Politécnico da Guarda - Escola Superior de Educação, Comunicação e Desporto;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico da Guarda
+fc785ad1-0969-4af4-aa7e-ef63e5c77b07;Escola Superior de Enfermagem de São José de Cluny;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+c8c35221-cbca-4ab2-93e0-efded34f1cd5;Instituto Politécnico de Bragança - Escola Superior Agrária de Bragança;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Bragança
+6ce49532-36dd-43f0-add1-f07b70702524;Instituto Universitário Egas Moniz;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+d61ad1d4-dca3-4755-a29c-f11e678feeab;Universidade Católica Portuguesa - Faculdade de Ciências Económicas e Empresariais;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade Catolica Portuguesa
+e7d61583-f5fa-4d19-aa82-f12085528744;Instituto Politécnico da Lusofonia - Escola Superior de Saúde Ribeiro Sanches;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+7c50eef9-158f-451c-8794-f125d93af678;Universidade Católica Portuguesa - Escola Superior Politécnica de Saúde (Porto);;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade Catolica Portuguesa
+ef4d2b8d-0b62-49f1-b1ef-f1e120f428a6;ISCAL;;;;;;;44459.71261;;;;VERDADEIRO;Instituto Politécnico de Lisboa;Instituto Superior de Contabilidade e Administração de Lisboa;F;;;;;N;
+6bf37e0a-5570-4b4e-a168-f2e45faa2464;Instituto dos Pupilos do Exército;;;;;;;44465.34565;;;;VERDADEIRO;;;F;;;;;N;
+d43929fb-5b34-4bc3-a7e9-f3f36eb69212;Universidade Católica Portuguesa - Faculdade de Economia e Gestão;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade Catolica Portuguesa
+17d45d4a-ea54-494c-a25d-f4c74339ef11;Katholische Universität Eichstätt-Ingolstadt;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Katholische Universität Eichstätt
+8e2dc04c-8718-46e9-b0d8-f6ac362d220c;Faculdade de Ciências da Universidade de Lisboa - FCUL;;;;;;;44515.91018;;;;VERDADEIRO;Universidade de Lisboa;Faculdade de Ciências;F;;;;;N;
+23dc6e27-08ec-4b7c-92c3-f6d1cba6cc71;university of derby;;;;;;;44444.85111;;;;FALSO;University of Derby;;;;;;;N;University of Derby
+edad1cea-eef6-432e-a196-f6e9f12b4b7a;Instituto Politécnico de Setúbal - Escola Superior de Tecnologia de Setúbal;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Setúbal
+c5703ecb-ea39-41ba-b18f-f728c648201a;Instituto Politécnico do Cávado e do Ave - Escola Superior de Design;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico do Cávado e do Ave
+d39c2766-504e-43e5-b0d5-f7c83ef21662;Instituto Superior de Serviço Social do Porto;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+70ed0f4b-a0cb-4e83-9ecf-f80a34a1164f;Universidade de Lisboa - Instituto Superior de Ciências Sociais e Políticas;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Lisboa
+257f38f7-995d-4bd0-851d-f80df48dffe9;Instituto Politécnico de Viseu - Escola Superior de Tecnologia e Gestão de Lamego;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+3dfbc40c-27bd-43f7-bf73-f86a88270a0e;Universidade Nova de Lisboa - Faculdade de Direito;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade Nova de Lisboa
+acd84050-dc79-4310-a86c-f909088b0415;Universidade de Aveiro - Instituto Superior de Contabilidade e Administração de Aveiro;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade de Aveiro
+423d6448-e1e6-45f0-a5f4-f9370a602b9d;Escola secundária marquesa da alorna;;;;;;;44522.72772;;;;VERDADEIRO;Escola secundária Marquesa da Alorna;;;;x;;;N;
+ed8ca8bb-99a9-431c-bb59-f9558fd14416;Universidade Católica Portuguesa - Instituto de Estudos Políticos;;;;;;;44444.85111;;;;FALSO;;;;;;;x;N;Universidade Catolica Portuguesa
+f4c8a8ff-2bbe-4e7f-a46a-f98642b8613e;Instituto Superior de Administração e Línguas;;;;;;;44444.85111;;;;FALSO;Instituto Superior de Línguas e Administração;;;;;;;N;Instituto Superior de Línguas e Administração
+a1107698-c74c-470e-b4d8-f9b07b49e874;Universidade da Madeira - Escola Superior de Saúde;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade da Madeira
+a2d372cb-b513-44c2-bda7-f9b2e10d0ac3;Escola Superior de Saúde de Santa Maria;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+ea037857-e8f8-4cf7-83e5-fae37ad00e3d;Universidade Federal de Pernambuco;;;;;;;44497.94837;;;;VERDADEIRO;;;F;;;;;Y;Universidade Federal de Pernambuco
+a05f9eb2-b483-4b36-925a-fcfa25c88b9a;ISPA - Instituto Universitário de Ciências Psicológicas, Sociais e da Vida;;;;;;;44444.85111;;;;FALSO;Instituto Universitário de Ciências Psicológicas, Sociais e da Vida;;;;;x;;N;Isra University
+49e96891-fc13-4757-a385-fdc393ae6280;Escola Superior de Tecnogia e Gestão de Águeda;;;;;;;44497.54874;;;;VERDADEIRO;Universidade de Aveiro;Escola Superior de Tecnologia e Gestão de Águeda;F;;;;;N;
+80e558a7-9d8c-46ee-9430-fdcb2798d21e;Universidade do Algarve - Escola Superior de Gestão, Hotelaria e Turismo (Portimão);;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade do Algarve
+5a88147a-bb06-4753-bb01-fe098469be5a;Esad Caldas da rainha;;;;;;;44523.38004;;;;VERDADEIRO;Instituto Politécnico de Leiria;Escola Superior Artes e Design;;;;;;N;
+6641a4bd-e7c0-40e9-bbb2-fe457bccd299;Instituto Politécnico de Lisboa - Instituto Superior de Contabilidade e Administração de Lisboa;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Lisboa
+6e1cd0f3-df0c-4b84-a8f3-febc7f5253c0;sem universidade;;;;;;;44444.85111;;;;FALSO;;;;x;;;;N;
+cdacb876-ca99-4885-91da-febd806b5f12;Instituto Universitário Militar - Academia Militar;;;;;;;44444.85111;;;;FALSO;;;;;;;;N;
+fa001129-5e8e-4440-91dd-fed1790f0f04;Instituto Politécnico de Beja - Escola Superior de Saúde;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Instituto Politécnico de Beja
+36c8a5da-a8d8-4849-9f5e-ff2dcb1e5243;universidade aveiro;;;;;;;44516.98717;;;;VERDADEIRO;Universidade de Aveiro;;F;;;;;N;Universidade de Aveiro
+e82a43bc-4bec-4a8d-a99b-ff527edf605c;Universidade do Algarve - Escola Superior de Educação e Comunicação;;;;;;;44444.85111;;;;FALSO;;;;;;;;Y;Universidade do Algarve
+f6cd80aa-de34-4230-931d-ff863e68ef26;ISLA - Instituto Politécnico de Gestão e Tecnologia - Escola Superior de Gestão;;;;;;;44444.85111;;;;FALSO;Instituto Politécnico de Gestão e Tecnologia;Escola Superior de Gestão;;;;x;;N;Isra University
+be7c817a-e429-4668-acee-01cd7f50569f;IERGS/UNIASSELVI;;;;;;;44533.62188;;;;VERDADEIRO;;;;x;;;;N;
+269b8aff-c6fc-4441-bbfb-1be47f1cff70;agrupamento de escolas fontes pereira de melo;;;;;;;44533.98949;;;;VERDADEIRO;Escola Secundaria de Fontes Pereira de Melo;;;;x;;;N;
+a4c75a51-c42b-40df-b3d2-297e20106d32;Escola Profissional Santa Casa da Misericórdia de Ponta Delgada;;;;;;;44532.01094;;;;VERDADEIRO;;;;;x;;;N;
+8d749bac-b2c4-44b1-9d39-2ae91a020529;Escola Superior de Tecnologias e Saúde de Coimbra;;;;;;;44534.39828;;;;VERDADEIRO;Instituto Politécnico de Coimbra;Escola Superior de Tecnologia da Saúde;F;;;;;N;
+fe49fb24-604d-40eb-a245-3268ae1f087d;Senac RS;;;;;;;44533.62063;;;;VERDADEIRO;;;;;x;;;N;
+a5b703d2-5b76-41ff-8cb0-71512bbb41d2;escola Secundária águas santas;;;;;;;44534.71542;;;;VERDADEIRO;Escola secundária águas santas;;;;x;;;N;
+429cebaa-c883-42ee-aeee-994430ccaf1e;ispab;;;;;;;44531.44659;;;;VERDADEIRO;Instituto Superior de Paços de Brandão;;F;x;;;;N;
+e74c65cf-ba95-4340-a883-cd11b66a6288;Universidade Tecnológica Federal do Paraná;;;;;;;44533.61964;;;;VERDADEIRO;;;F;;;;;Y;Universidade Tecnológica Federal do Paraná
+8c718d9a-f2c8-4405-9677-fc14282309dc;Universidade Católica Portuguesa;;;;;;;44533.82171;;;;VERDADEIRO;;;F;;;;x;N;Universidade Catolica Portuguesa
+80744f3f-3d18-43a5-a40d-00c4ded97871;Escola secundária Baixa da Banheira;;;;;;;44538.37083;;;;VERDADEIRO;;;;;x;;;N;
+16c03076-c19f-4590-8b30-06d0c9dd26ab;Universidade Trás-os-montes Alto Douto;;;;;;;44537.928;;;;VERDADEIRO;Universidade de Trás-os-Montes e Alto Douro;;F;;;x;x;N;Universidade de Tras-os-Montes e Alto Douro
+5acc617b-b19d-416e-bf74-0825469514b3;Grande Colégio Universal;;;;;;;44539.97115;;;;VERDADEIRO;;;;;x;;;N;
+21f2aa09-1997-4370-8e1e-0836272f9438;Universidad Alejandro de Humboldt;;;;;;;44536.77832;;;;VERDADEIRO;Universidad Alejandro De Humboldt;;F;;;;;N;
+8457d785-634a-4a87-a2d2-0a336af2cd1c;CEN;;;;;;;44542.8538;;;;VERDADEIRO;;;;;x;;;N;Universidad CES
+d17d39e2-a1c0-41f8-aae6-0d5912420d10;Escola Secundaria Severim de Faria;;;;;;;44539.78348;;;;VERDADEIRO;Escola secundária severim de faria;;;;x;;;N;
+3876f69e-5181-4863-a1ab-0e903a7c0aa0;Lima de freitas;;;;;;;44540.55882;;;;VERDADEIRO;Agrupamento de Escolas Lima de Freitas;;;;x;;;N;
+2c8e25a2-9c31-43bf-b65f-1017ccfcc32d;University of Brighton;;;;;;;44542.52201;;;;VERDADEIRO;;;F;;;;;Y;University of Brighton
+08087f13-02ad-422f-8238-111bd2a25db7;Escola Profissionalizante Santo Agostinho;;;;;;;44539.50945;;;;VERDADEIRO;;;;;x;;;N;
+8dbcd3aa-5f5e-452e-a470-11864110caeb;Escola Profissional de Desenvolvimento Rural de Abrantes;;;;;;;44537.00824;;;;VERDADEIRO;;;;;x;;;N;
+672686ed-54d4-449c-810b-11f834a38d4e;escola secundária  Raul Proença;;;;;;;44537.6587;;;;VERDADEIRO;Escola secundária  Raul Proença;;;;x;;;N;
+024e717c-d314-4a1e-a9e0-13791c2d02e7;faculdade medicina dentária;;;;;;;44537.00155;;;;VERDADEIRO;Universidade de Lisboa;Faculdade de Medicina Dentária;F;;;;;N;
+7b73c7f8-e0aa-45c4-b246-1bbe53edd60c;universiteit gent;;;;;;;44542.88719;;;;VERDADEIRO;Universiteit Gent;;F;;;;;N;Universiteit Gent
+c4b0e9f5-5871-41b8-8733-232905528c3a;nao;;;;;;;44537.50635;;;;VERDADEIRO;;;;x;;;;N;
+bdb32b7d-112f-4b5e-90c5-307a7f5d40d6;Universidade do Minho - Escola de Economia e de Gestão;;;;;;;44535.63211;;;;VERDADEIRO;;;F;;;;;Y;Universidade do Minho
+27a5b852-1e8f-44ea-aaf1-30c7776c4ace;Universidade do Minho - Escola de Psicologia;;;;;;;44537.42279;;;;VERDADEIRO;;;F;;;;;Y;Universidade do Minho
+489e8f8e-1683-4df4-8857-3d1227671d2a;Escola Superior de Artes Aplicadas;;;;;;;44536.94279;;;;VERDADEIRO;Instituto Politécnico de Castelo Branco;Escola Superior de Artes Aplicadas;F;;;;;N;
+53ba88c2-d289-4e6b-adca-4b4aed24eb9d;escola de turismo de Portugal;;;;;;;44537.41114;;;;VERDADEIRO;Escolas do Turismo de Portugal;;;;x;;;N;
+97fd03e1-7a23-4180-84e4-4bf73773f7ed;instituto superior de ciências políticas;;;;;;;44537.72877;;;;VERDADEIRO;Universidade de Lisboa;Instituto Superior de Ciências Sociais e Políticas;F;;;;;N;
+91f43953-52a3-4520-8a4a-4c8693d8300c;universidade trás dos montes e alto douro;;;;;;;44538.5537;;;;VERDADEIRO;Universidade de Trás-os-Montes e Alto Douro;;F;;;;;N;Universidade de Tras-os-Montes e Alto Douro
+4f09fa8a-f70b-4c99-94d2-4d72f868a099;Lancaster University;;;;;;;44537.5579;;;;VERDADEIRO;University of Lancaster;;F;;;;;N;University of Lancaster
+9bcd1b77-2c11-4b90-87c6-50dc440d7b68;Escola Profissional de Alvito;;;;;;;44543.53003;;;;VERDADEIRO;;;;;x;;;N;
+df3fa318-5cb7-48d1-a3f5-62d7c1bc4c5f;UNIC- Universidade de Cuiabá Brasil;;;;;;;44542.92894;;;;VERDADEIRO;Universidade de Cuiabá;UNIC Beira Rio;F;;;;;N;
+0557201a-df51-4296-a88a-69605a59bec5;Centro Formação Talento;;;;;;;44536.784;;;;VERDADEIRO;;;;;x;;;N;
+dd8baa03-ce85-4c70-9d88-726964a1365d;ief;;;;;;;44542.48071;;;;VERDADEIRO;;;;x;;;;N;IE University
+5811c8e7-2cd4-49f9-86f6-7641ecbd0963;universidade TAP;;;;;;;44537.28715;;;;VERDADEIRO;Universidade TAP;;F;;;;;N;
+576569d6-0315-4d67-a32e-775a9c62e57d;Val do Rio;;;;;;;44536.81381;;;;VERDADEIRO;Escola Profissional Val do Rio;;;x;;;;N;Universidade Vale do Rio Doce
+a589026c-1cfb-43df-82eb-7896d1958bbc;Instituto Superior de Engenharia do Porto - Politécnico do Porto;;;;;;;44538.938;;;;VERDADEIRO;Instituto Politécnico do Porto;Instituto Superior de Engenharia do Porto;F;;;;;N;
+c749bf62-30a7-4409-b9db-79f0b5257977;EPCJC;;;;;;;44542.88072;;;;VERDADEIRO;Escola Profissional do Centro Juvenil de Campanhã;;;;x;;;N;
+f281a3de-60cb-4dbe-a74e-7d1578360ddb;Universidade Católica de Moçambique;;;;;;;44542.52002;;;;VERDADEIRO;;;F;;;;;Y;Universidade Católica de Moçambique
+c43fea4e-97cd-4943-a76f-8235ca6c3d7f;Escola secundária José Estevão;;;;;;;44536.81762;;;;VERDADEIRO;;;;;x;;;N;
+47c518bf-773a-4687-b2e3-828c9d40d5d2;Tomaz pelayo;;;;;;;44537.61015;;;;VERDADEIRO;Escola Secundária de Tomaz Pelayo;;;;x;;;N;
+32afb56c-f521-42ab-b0b7-82e29a379184;Escola Secundaria Santo André (ESSA);;;;;;;44536.91409;;;;VERDADEIRO;Escola Secundaria Santo André;;;;x;;;N;
+8dbfd9ce-947b-4635-98a3-86b62f395b20;Escola secundária Dom Manuel Martins;;;;;;;44538.58679;;;;VERDADEIRO;;;;;x;;;N;
+9b7bc754-3a5d-4736-83d2-86c774c7a278;senac;;;;;;;44538.84197;;;;VERDADEIRO;Serviço Nacional de Aprendizagem Comercial;;;;x;;;N;Centro Universitário Senac
+db32f0cf-ecd7-43fe-b831-87b57f412c57;utad - Universidade Trás-os-Montes e Alto Douro;;;;;;;44538.48362;;;;VERDADEIRO;Universidade de Trás-os-Montes e Alto Douro;;F;;;x;;N;University of Utah
+fc3081c7-0dc9-4ba2-9039-9102dfd4c6c1;Universidade do Vale do Rio dos Sinos;;;;;;;44536.80881;;;;VERDADEIRO;Universidade Vale do Rio dos Sinos;;F;;;;;N;Universidade Vale do Rio dos Sinos
+f0107305-1ade-42b2-9828-91eab687e78b;Instituto Do it better do Porto - Auxiliar de ação educativa;;;;;;;44543.45188;;;;VERDADEIRO;Instituto Do it better do Porto;;;;x;;;N;
+3f3c1442-7953-4554-9c12-94baac679ff2;Colégio Kitabu;;;;;;;44537.53303;;;;VERDADEIRO;;;;;x;;;N;
+b9449ebc-e42a-4f6c-ae02-9c0bf4c9fffc;Universidade de Exeter;;;;;;;44537.676;;;;VERDADEIRO;University of Exeter;;F;;;;;N;University of Exeter
+5be005c1-79f5-467d-9631-a0837e1f7c3b;Inete;;;;;;;44537.73677;;;;VERDADEIRO;Inete Instituto De Educação Tecnica;;;;x;;;N;
+d71ea4fb-2100-4dd2-a00c-a2dd5f44a55e;inetese;;;;;;;44537.90327;;;;VERDADEIRO;INETESE;;;;x;;;N;
+82489160-e4e7-4909-a7ce-a5eec2c675ff;ESMA;;;;;;;44536.83216;;;;VERDADEIRO;;;;;x;;;N;ESME Sudria
+43f430e5-c17f-4384-958e-abd6fa2982ec;CINEL - Centro de Formação Profissional da Indústria Electrónica, Energia, Telecomunicações e Tecnologias da Informação;;;;;;;44537.68368;;;;VERDADEIRO;Centro de Formação Profissional da Indústria Electrónica, Energia, Telecomunicações e Tecnologias da Informação;;;;x;;;N;
+a3cb8f25-c90b-4fef-b5ef-ae8b0ee9bce6;Keele University;;;;;;;44536.81723;;;;VERDADEIRO;;;F;;;;;Y;Keele University
+195b799a-5e08-42fb-b20b-b342cf4447a4;FCTUC;;;;;;;44536.53452;;;;VERDADEIRO;Universidade de Coimbra;Faculdade de Ciências e Tecnologia;F;;;;;N;
+471fa5ca-99f8-4752-9ecc-b4b2304f0081;ATEC;;;;;;;44540.23766;;;;VERDADEIRO;;;;;x;;;N;Universidad APEC
+dacf8a90-98c6-4fec-8473-b6183bd49555;Escola Secundária de Alvide;;;;;;;44537.48283;;;;VERDADEIRO;;;;;x;;;N;
+dfafe858-c418-430d-8de3-b65256cb3ace;Universidade do estado de minas gerais;;;;;;;44534.8596;;;;VERDADEIRO;Universidade Federal de Minas Gerais;;F;;;;;N;
+4e0ab46e-e606-4787-96a1-b8558c7465ab;ETAP;;;;;;;44536.89356;;;;VERDADEIRO;Escola Tecnológica, Artística e Profissional de Pomba;;;;x;;;N;
+c3248cac-8bab-4bf6-ab02-bc53a1a48156;Escola profissional de Torres Novas;;;;;;;44537.54914;;;;VERDADEIRO;;;;;x;;;N;
+8007c9f4-17f4-4626-be25-be7404581c4d;instituto português de linguas e novas tecnologias;;;;;;;44537.06835;;;;VERDADEIRO;Instituto Português De Línguas e Novas Tecnologias;;;;x;;;N;
+245ce908-6478-4deb-b14b-c1532047d652;Anhanguera Educacional;;;;;;;44540.75609;;;;VERDADEIRO;Anhanguera Educacional;;F;;;;;N;
+5f297c24-48b0-495a-a518-c3448634004d;escola superior de saúde porto;;;;;;;44538.48417;;;;VERDADEIRO;Instituto Politécnico do Porto;Escola Superior de Saúde;F;;;;;N;
+125b19f1-0a63-4f51-8510-c62a686639d1;agrupamento escolas professor Reynaldo dos Santos;;;;;;;44537.59859;;;;VERDADEIRO;Agrupamento de Escolas Professor Reynaldo dos Santos;;;;x;;;N;
+6852b107-a093-4d58-b07d-c65c7733dd99;escola secundária Inês de Castro;;;;;;;44537.02835;;;;VERDADEIRO;Escola secundária Inês de Castro;;;;x;;;N;
+674bae40-f013-4ded-bd6c-c86107edd3fa;escola secundária de Felgueiras;;;;;;;44536.98797;;;;VERDADEIRO;Escola secundária de Felgueiras;;;;x;;;N;
+683e0f46-37a7-4c64-8db3-c8f08e346ad9;Escola Secundária Felgueiras;;;;;;;44536.75862;;;;VERDADEIRO;;;;;x;;;N;
+4e8fc0fd-5c1b-4da9-9a18-de9261a7c4bd;university of Portsmouth;;;;;;;44541.95525;;;;VERDADEIRO;University of Portsmouth;;F;;;;;N;University of Portsmouth
+d19149fe-cc1e-4fe2-a0ee-dfce5b9f4c88;Santa Maria da feira;;;;;;;44536.85553;;;;VERDADEIRO;;;;x;;;;N;
+e72e9ba6-4119-438e-9a53-e81732d968e5;Uninter - Centro de Estudos Internacional;;;;;;;44540.59184;;;;VERDADEIRO;Uninter Centro de Estudos Internacional;;;;x;;;N;
+b2ca176b-d1cf-4f05-87c0-ebd07e12de15;The Open University;;;;;;;44537.62975;;;;VERDADEIRO;Open University;;F;;;;;N;Open University
+097663a4-a17d-4e50-b9f6-f668abae3e05;Universidade de Vigo;;;;;;;44538.62106;;;;VERDADEIRO;Universidad de Vigo;;F;;;;;N;Universidad de Vigo
+b23be558-ab24-40d9-9d35-f8d6bfa01ce0;Escola secundária padre Alberto neto;;;;;;;44536.99422;;;;VERDADEIRO;;;;;x;;;N;
+5c517919-4abf-4136-83b0-fb640ebbaf95;EPB;;;;;;;44536.91506;;;;VERDADEIRO;Escola Profissional de Braga;;;;x;;;N;
+5d4fb565-5cbf-474d-959c-fbdc07af5e85;escola secundário José régio;;;;;;;44537.08698;;;;VERDADEIRO;Escola Secundária José Régio;;;;x;;;N;
+ab70f44d-0884-4235-bd1b-fd275528f453;Universadade Federal de Juiz de Fora;;;;;;;44540.08713;;;;VERDADEIRO;Universidade Federal de Juiz de Fora;;F;;;;;N;Universidade Federal de Juiz de Fora
+e4a5935a-06c1-4b3d-92c9-138de5fae279;Consulnear;;;;;;;44543.88021;;;;VERDADEIRO;Consulnear, Consultadoria de Negócios, Lda;;;;x;;;N;
+1b69c691-5817-4f45-9568-e093f2341802;UFPel;;;;;;;44544.17901;;;;VERDADEIRO;Universidade Federal de Pelotas;;F;;;;;N;

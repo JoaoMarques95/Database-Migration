@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J8qw2mn2Hb1He8T2Uz6UCI4icvE4wyHctxPFH0l/gOdkzUswRoPMBM8F9KiKdnFVDu1CBrr9CVt5A0ttcCdPTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaom\\Desktop\\university_data_migration\\2. Migrar Formato\\script1\\script1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaom\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

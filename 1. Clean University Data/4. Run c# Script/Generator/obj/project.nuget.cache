@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RKfsParvOJ4+dkpwrMgWWOXO/5hic1R+YA35NaJsnwFnFO/nVgzYf9KRCwhrD2OwfEGFEBvMrWEZ5rzpFDPp/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaom\\Desktop\\university_data_migration\\1. Clean University Data\\4. Run c# Script\\Generator\\Generator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaom\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

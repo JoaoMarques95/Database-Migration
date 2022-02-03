@@ -1,0 +1,746 @@
+UPDATE University SET Name='Instituto Politécnico do Porto|Instituto Superior de Contabilidade e Administração do Porto' WHERE Id='0c789439-06f8-4be3-8f71-013fa9374dd4';
+UPDATE University SET Name='Katholieke Universiteit Leuven', Deleted='0' WHERE Id='69fa37df-443d-4b85-a8fe-014fa9097584';
+UPDATE University SET Name='Universidade do Porto|Faculdade de Belas-Artes' WHERE Id='463115b8-9713-45df-9935-01ef37595bab';
+UPDATE University SET Name='Instituto Politécnico de Viana do Castelo|Escola Superior de Ciências Empresariais', Deleted='0' WHERE Id='15c724f2-613e-45b6-bd5c-02baf9932d6d';
+UPDATE University SET Name='Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa' WHERE Id='ac3ee8d2-3c30-4c9b-a7c0-03751b06c5ba';
+UPDATE University SET Name='University of Wroclaw', Deleted='0' WHERE Id='ef1b553d-b00d-406b-b5f9-05bcb31f937f';
+UPDATE University SET Name='Instituto Superior Manuel Teixeira Gomes' WHERE Id='4034f32a-5610-4791-8151-05f2b651cae5';
+UPDATE University SET Name='Instituto Politécnico de Coimbra|Escola Superior de Tecnologia da Saúde de Coimbra' WHERE Id='b0c1f93a-5c72-423d-9fcd-08db068711de';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Agrupamento de Escolas Alcaides de Faria' WHERE Id='04195656-dc08-4804-b321-18ed5a89b7e9';
+DELETE FROM University WHERE Id='13ef245e-121b-4405-b9b8-098dbe259c6d;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='World Academy' WHERE Id='e44e1c36-a7ff-47d0-9baa-79aff5fe845c';
+DELETE FROM University WHERE Id='4328e2da-7310-45a8-a781-0ab071bb9893;'
+UPDATE University SET Name='Laureate International Universities', Deleted='0' WHERE Id='c03fcdd9-402d-4642-b45d-0ac33d0ae464';
+UPDATE University SET Name='Faculdade de Tecnologia Senai Mato Grosso', Deleted='0' WHERE Id='247cabcf-d7a3-49df-be4f-0c27e45f8822';
+UPDATE University SET Name='Universidade de Santiago', Deleted='0' WHERE Id='7c4d4c8f-668d-4b9d-b5b3-0d39bbcb3362';
+UPDATE University SET Name='Universidade de Évora|Escola de Artes' WHERE Id='2c3ac788-aebb-4871-9735-0e3c5575af8c';
+UPDATE University SET Name='Universidade do Porto|Faculdade de Ciências', Deleted='0' WHERE Id='13395b8b-b0ce-4ab9-be8d-0ea282270157';
+UPDATE University SET Name='Instituto Superior de Ciências Educativas' WHERE Id='bc5c5c4e-9251-4704-b88f-0f1dad40c8c4';
+UPDATE University SET Name='Instituto Politécnico de Beja|Escola Superior Agrária' WHERE Id='5398ff0c-0a5b-4cd2-926d-0f4638eab686';
+UPDATE University SET Name='University of New South Wales', Deleted='0' WHERE Id='235583ce-d166-43d8-a5f6-0f8f85ab83be';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Profissional Profitecla' WHERE Id='17fc4e93-94b2-45d1-84c9-2490318dac99';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Profissional Profitecla' WHERE Id='b026e0fe-95e4-4452-a501-58faa998df54';
+DELETE FROM University WHERE Id='da2a879a-7471-4857-9cde-100d40a99b0a;'
+UPDATE University SET Name='Universidade do Porto|Faculdade de Engenharia' WHERE Id='200a580b-9a41-4499-8e6e-1015a3469e0e';
+UPDATE University SET Name='Instituto Politécnico de Coimbra|Escola Superior Agrária de Coimbra' WHERE Id='928f820c-aa7d-4e5b-840f-101719aeaafd';
+UPDATE University SET Name='Centro Universitário da Serra Gaúcha', Deleted='0' WHERE Id='2d523613-aa93-4e79-9891-1157527cfb3b';
+UPDATE University SET Name='Università di Padova', Deleted='0' WHERE Id='749d51de-99d7-4f22-b86e-1199cf9c3901';
+UPDATE University SET Name='Universidade Europeia|Instituto de Artes Visuais, Design e Marketing', Deleted='0' WHERE Id='364da659-c2cf-4490-a44f-148e0bb734ce';
+UPDATE University SET Name='Escola Superior de Enfermagem de Coimbra' WHERE Id='0511d7d3-3467-4ef6-8cab-150a9a3a3b40';
+DELETE FROM UserEducationExperience WHERE Id='63a39e94-490d-4ee0-9622-f4b90b635d46;'
+DELETE FROM University WHERE Id='91243fe1-8433-43fd-8f1c-155a719d9c09;'
+UPDATE University SET Name='Universidade Federal do Triângulo Mineiro' WHERE Id='31e1a75f-d99b-482d-a042-15bbe3f90856';
+UPDATE University SET Name='Universidade Federal do Rio Grande do Sul', Deleted='0' WHERE Id='d2e5e687-61bd-43ad-b33b-1777f2033ea2';
+UPDATE University SET Name='Instituto Politécnico de Bragança|Escola Superior de Tecnologia e de Gestão de Bragança' WHERE Id='fbdc0cf0-c5c5-4ad8-965c-18ca7874e201';
+UPDATE University SET Name='Universidade do Porto|Instituto de Ciências Biomédicas Abel Salazar', Deleted='0' WHERE Id='52ce6179-8cf8-43c0-a29f-197e410e44c4';
+DELETE FROM UserEducationExperience WHERE Id='399f7fe4-9532-485b-9105-672880efcc88;'
+DELETE FROM University WHERE Id='80bce192-80be-43bc-a17f-1b8cdf1026b9;'
+DELETE FROM UserEducationExperience WHERE Id='7c48ca3d-bbd7-4ddd-99d8-b07edb45669a;'
+DELETE FROM University WHERE Id='6233b6e7-2b47-4658-abce-1ec0c1d0cb98;'
+UPDATE University SET Name='Instituto Politécnico de Lisboa|Instituto Superior de Contabilidade e Administração de Lisboa', Deleted='0' WHERE Id='d066bb83-9322-471d-8674-2047bf231141';
+UPDATE University SET Name='Escola Superior de Saúde da Cruz Vermelha Portuguesa' WHERE Id='9bd0a11c-41c3-4d98-9eb3-20c43ac2972b';
+UPDATE University SET Name='Universitat Oberta de Catalunya', Deleted='0' WHERE Id='7eaa8754-3fcf-4807-b187-2107bf5b917c';
+DELETE FROM UserEducationExperience WHERE Id='8ef0a240-a831-47ac-a7a4-45de18bd578e;'
+DELETE FROM University WHERE Id='86f92997-4d43-4787-b988-215dd700a173;'
+UPDATE University SET Name='Universidade do Porto|Porto Business School', Deleted='0' WHERE Id='b12fe395-5781-4f6f-a7a6-22a602f2e2b9';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Profissional Profitecla' WHERE Id='a7fa8e6e-7b1c-4630-a94c-8ec00445d3ea';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Profissional Profitecla' WHERE Id='6f65a578-de3c-4a60-9a24-f7877bd7ce2d';
+DELETE FROM University WHERE Id='5e4eb51d-c7d2-4df2-b715-26d2c8849c11;'
+UPDATE University SET Name='Escola Superior de Educação de Paula Frassinetti' WHERE Id='0fd0d40e-df76-462a-8e3d-27b3cb2b03fc';
+UPDATE University SET Name='Instituto Politécnico de Lisboa|Escola Superior de Teatro e Cinema' WHERE Id='96b7f7d8-12f7-40bc-b3b1-27ee37a3193c';
+UPDATE University SET Name='Universidade Europeia|Instituto de Artes Visuais, Design e Marketing' WHERE Id='6ec89358-773c-4760-8d50-27f4286fd013';
+UPDATE University SET Name='Universidade Católica Portuguesa|Faculdade de Direito (Porto)' WHERE Id='4af37646-2d7e-402b-9234-281dfbb92f53';
+DELETE FROM University WHERE Id='7191842c-a838-4ad8-80a2-2849f1cf72a1;'
+UPDATE University SET Name='University of Amsterdam' WHERE Id='e51ef759-4405-4288-8d41-29fad5eb04fb';
+UPDATE University SET Name='Universidade de Lisboa|Faculdade de Direito' WHERE Id='be454b13-2e26-4472-887b-2a3fdf970adb';
+UPDATE University SET Name='Faculdades Integradas Hélio Alonso' WHERE Id='95e58802-9c2a-47a0-8c0f-2c634854dd19';
+DELETE FROM UserEducationExperience WHERE Id='376d3765-87f9-41f5-943b-d57a6ea2204c;'
+DELETE FROM University WHERE Id='f9997694-ef7b-4446-9e8b-2cc429808ae4;'
+UPDATE University SET Name='Universidade do Minho|Faculdade de Direito' WHERE Id='648e858c-9596-429e-9b59-2e250afea0ed';
+DELETE FROM UserEducationExperience WHERE Id='0025bbd2-c5fb-49de-a7e7-0b1cc520a279;'
+DELETE FROM University WHERE Id='593bc88b-2eb7-4664-a7c4-2eb9f2e8b645;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='FLAG' WHERE Id='433217ee-abd1-4977-9a4d-22bd79896f6a';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='FLAG' WHERE Id='dd2a9347-bada-449d-8bf0-4804da8ab301';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='FLAG' WHERE Id='0dff720f-6652-4f54-a7f2-819a9212c531';
+DELETE FROM University WHERE Id='eec9edf6-16e4-4455-8c89-2ffe64452d03;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola secundária Eça de Queiros' WHERE Id='478236ca-14ea-42a3-a939-070e1316e95e';
+DELETE FROM University WHERE Id='08a34bb4-9b62-439d-9929-31f09c435f12;'
+UPDATE University SET Name='Universidade Católica Portuguesa|Faculdade de Ciências Económicas e Empresariais', Deleted='0' WHERE Id='2543665d-f7f8-46e5-9368-31fed1fbbe3f';
+UPDATE University SET Name='Universidade da Madeira|Faculdade de Ciências Exatas e da Engenharia' WHERE Id='31168507-922e-4fe0-a185-3254e5c0f971';
+UPDATE University SET Name='Universidade Estácio de Sá' WHERE Id='23faf9ff-60d3-40be-ae35-325821776f47';
+DELETE FROM University WHERE Id='4febd474-83f5-49f8-8692-326d6277ea1b;'
+UPDATE University SET Name='Universidade Federal de Alagoas', Deleted='0' WHERE Id='0ad1a8c0-5164-4f31-8c4d-32718f728c2a';
+UPDATE University SET Name='Universidade São Tomás de Moçambique', Deleted='0' WHERE Id='540c2be5-862b-4033-b320-338ce56f4f7a';
+UPDATE University SET Name='Universidade Nova de Lisboa|Faculdade de Economia', Deleted='0' WHERE Id='0a2735a2-71c2-480f-830e-33c2d36be113';
+UPDATE University SET Name='Carnegie Mellon University', Deleted='0' WHERE Id='5e51372b-f09d-4299-9c60-34208d14fa61';
+UPDATE University SET Name='Universidade Argentina da Empresa', Deleted='0' WHERE Id='fb512b58-0ae8-47d5-bf69-35338d5892b7';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Centro de Formação Profissional Citeforma' WHERE Id='53d7498c-fbae-4ede-9859-5bc61a53a1e6';
+DELETE FROM University WHERE Id='32d79ab7-3da1-4167-bcd3-3594478bb72c;'
+DELETE FROM UserEducationExperience WHERE Id='18448540-cb24-4163-86e4-0366cfa6358a;'
+DELETE FROM University WHERE Id='b171e0dd-35cd-4369-98e1-3911c933e2ab;'
+UPDATE University SET Name='Centro Universitário da Grande Porto Alegre UniRitter', Deleted='0' WHERE Id='8ed14fd2-eba2-4291-8488-39539fad5b15';
+UPDATE University SET Name='Instituto Politécnico de Castelo Branco|Escola Superior de Artes Aplicadas' WHERE Id='21933cd5-a9d9-470c-be8f-39c9b47d95ad';
+UPDATE University SET Name='Instituto Politécnico de Coimbra|Instituto Superior de Engenharia de Coimbra' WHERE Id='cbf7bbbc-673b-4c31-9493-39cbbe35d0e2';
+UPDATE University SET Name='Universidade do Porto|Faculdade de Engenharia', Deleted='0' WHERE Id='277327f5-52c0-4e1a-aa92-3a01ea1f6594';
+UPDATE University SET Name='Pontifícia Universidade Católica do Rio Grande do Sul', Deleted='0' WHERE Id='3a07e1ae-27ad-4251-9596-3ac37b634ddd';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Profissional do Infante' WHERE Id='0b4ae76b-5849-4ad1-8c0a-198d4c823f37';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Profissional do Infante' WHERE Id='2f693e1a-4a4b-4558-adb7-3259590827c9';
+DELETE FROM University WHERE Id='d8aa42f3-95e3-4f3a-b7fd-3c904e9d6f8b;'
+UPDATE University SET Name='Universidade de Trás-os-Montes e Alto Douro', Deleted='0' WHERE Id='e4171137-b0f1-42bb-88f3-3ee8cc4c86d2';
+UPDATE University SET Name='Escola Superior de Comunicação Social', Deleted='0' WHERE Id='8075e686-4a32-41a9-8c3e-3f0b52a440e9';
+UPDATE University SET Name='Universidade de Lisboa|Instituto Superior de Economia e Gestão', Deleted='0' WHERE Id='797835df-1df6-43f4-b2f9-40a7b7cb8079';
+UPDATE University SET Name='Instituto Superior Politécnico Gaya', Deleted='0' WHERE Id='63bba00b-3c62-47f1-9630-40befc1a5711';
+UPDATE University SET Name='Instituto Superior de Tecnologias Avançadas do Porto' WHERE Id='cdd952b2-ce6f-47e1-8bed-414d250f10d8';
+UPDATE University SET Name='Instituto Superior de Gestão e Administração de Santarém' WHERE Id='5dd9601a-a94a-440d-bc3a-414fc0263e6a';
+UPDATE University SET Name='Escola Superior de Saúde de Santa Maria', Deleted='0' WHERE Id='2fe0f975-54df-4743-9d77-418eeab9fc73';
+UPDATE University SET Name='University of Wroclaw', Deleted='0' WHERE Id='70b950d5-238b-4068-8b31-4255d7a3e99a';
+UPDATE University SET Name='Instituto Politécnico Jean Piaget|Escola Superior de Educação Jean Piaget de Almada' WHERE Id='6546ed07-faa8-47e4-89df-4298426fd4e2';
+UPDATE University SET Name='Universidade Mackenzie', Deleted='0' WHERE Id='772c9bf9-f481-4ccb-9b41-4534ab8ffa0f';
+UPDATE University SET Name='Universidade de Coimbra|Faculdade de economia', Deleted='0' WHERE Id='c2699d7e-13a8-47b0-a9fd-46c9bf667d5f';
+UPDATE University SET Name='Universidade Nova de Lisboa', Deleted='0' WHERE Id='c1023730-6719-413c-9a83-46f7cad9c902';
+UPDATE University SET Name='Instituto Superior de Ciências Policiais e Segurança Interna' WHERE Id='8d0a2f68-1657-45cf-80a9-4aeca568a587';
+UPDATE University SET Name='Instituto Politécnico da Guarda|Escola Superior de Turismo e Hotelaria' WHERE Id='5a567050-7ce2-49c2-8e93-4af86a907989';
+UPDATE University SET Name='Universidade Católica Portuguesa|Faculdade de Ciências Humanas' WHERE Id='d2c7461a-464d-4bf0-9ea5-4b2e500c1e3f';
+UPDATE University SET Name='Universidade Católica Portuguesa|Centro Regional das Beiras' WHERE Id='92d10373-1140-4215-930c-4bb86b3c132d';
+UPDATE University SET Name='Universidade de Aveiro' WHERE Id='6fe249d5-bb6c-4e3a-8812-4c9f22fd6947';
+DELETE FROM UserEducationExperience WHERE Id='9bd36555-2c7d-434c-84c0-0220ab0a0b4e;'
+DELETE FROM UserEducationExperience WHERE Id='afddeb96-d69d-497e-96ff-428c724a2ad8;'
+DELETE FROM UserEducationExperience WHERE Id='aa8cc953-a74c-4731-b515-7fd46ab54175;'
+DELETE FROM University WHERE Id='e164990f-a04e-446b-9efd-4cbff1a14d3c;'
+UPDATE University SET Name='Centro Universitário de João Pessoa', Deleted='0' WHERE Id='d1010705-b308-4510-8cec-4ce4270fc6d1';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Profissional Bento Jesus Caraça' WHERE Id='7940f975-61d6-4fb3-bf92-7fc1dbd952f4';
+DELETE FROM University WHERE Id='20032c2d-7f6c-4907-9c78-4dc712ec9c58;'
+UPDATE University SET Name='Instituto Superior de Contabilidade e Administração de Aveiro', Deleted='0' WHERE Id='2693f560-3710-4911-b810-4e8877d78027';
+UPDATE University SET Name='Universidade de Lisboa|Instituto de Educação e Faculdade de Ciências', Deleted='0' WHERE Id='df1f28f2-1313-45d0-a5c1-4f624d28396b';
+UPDATE University SET Name='Universidade do Porto|Faculdade de Economia', Deleted='0' WHERE Id='fa7e1d33-7652-4b7b-82ff-4f6836e90d6e';
+UPDATE University SET Name='IEBS Business School', Deleted='0' WHERE Id='ff990177-15fe-4fbc-b393-4f7246d6dec5';
+UPDATE University SET Name='Instituto Superior D. Dinis' WHERE Id='00ee7760-fd70-4da9-bafd-4fb607eb2197';
+UPDATE University SET Name='Centro Universitário AESO Barros Melo', Deleted='0' WHERE Id='63e436e7-2045-48a9-9870-504605243a00';
+UPDATE University SET Name='Instituto Universitário da Maia' WHERE Id='cb15c373-713c-4969-b015-50a7671de7ae';
+UPDATE University SET Name='Instituto Politécnico de Leiria|Escola Superior de Saúde' WHERE Id='7e2750e4-177b-414c-a5c9-5227cea6d31b';
+UPDATE University SET Name='Universidade Salvador', Deleted='0' WHERE Id='3749fec4-3f95-4bdb-b11e-52397fdd2f8f';
+UPDATE University SET Name='Instituto Politécnico do Cávado e do Ave', Deleted='0' WHERE Id='0bf54b2c-d677-48dd-a1d4-5296f0d5c88d';
+UPDATE University SET Name='Universidade de Aveiro|Escola Superior de Tecnologia e Gestão de Águeda' WHERE Id='3bf00368-a64e-49cb-b4a9-52b8df2e66be';
+UPDATE University SET Name='Instituto Politécnico do Porto|Escola Superior de Tecnologia e Gestão' WHERE Id='403c76a3-4dfe-4a0a-9d81-531f85f05893';
+UPDATE University SET Name='Instituto Politécnico de Beja|Escola Superior de Educação' WHERE Id='519427f4-094b-4145-80fb-54048293d863';
+UPDATE University SET Name='Universidade Europeia' WHERE Id='19197b67-f4f3-4eb3-a951-542184b23426';
+UPDATE University SET Name='Universidade do Minho|Escola Superior de Enfermagem' WHERE Id='5d1613de-6092-4bad-a66d-546ac15873f2';
+UPDATE University SET Name='Universidade de Lisboa|Instituto de Educação e Faculdade de Ciências' WHERE Id='2c7745a6-cbb6-437a-b46e-547821d4c367';
+UPDATE University SET Name='Instituto Politécnico de Tomar|Escola Superior de Tecnologia de Abrantes' WHERE Id='520bbff4-4ed0-45eb-b67d-5547edcde7c2';
+UPDATE University SET Name='Instituto Superior de Contabilidade e Administração do Porto' WHERE Id='ce11d6c7-386e-469f-b03f-55cd23960092';
+UPDATE University SET Name='Escola Superior de Propaganda e Marketing', Deleted='0' WHERE Id='58c02351-ac55-4f59-aa89-55f3d0d44b2c';
+UPDATE University SET Name='Universidade de Lisboa|Instituto de Geografia e Ordenamento do Território' WHERE Id='57affa5b-5745-4d8a-8ee9-56c8e8f5e5fe';
+UPDATE University SET Name='Escola Superior Artística do Porto' WHERE Id='fdcd1f0c-f06d-493b-b7fc-574dc29191a0';
+UPDATE University SET Name='Instituto Politécnico de Viseu|Escola Superior de Saúde de Viseu' WHERE Id='ff325318-1cb6-4b9a-b815-57c92b28b14a';
+UPDATE University SET Name='Instituto Superior Politécnico Gaya|Escola Superior de Ciência e Tecnologia' WHERE Id='9e21099f-9bb0-4b3a-a490-581ff329c72b';
+UPDATE University SET Name='Universidade de Lisboa|Instituto Superior Técnico (Tagus Park)' WHERE Id='4946a166-03f6-4f9d-bab7-582de2773a6a';
+UPDATE University SET Name='Escola Superior de Saúde Jean Piaget de Viseu' WHERE Id='fbe9e3ab-3ba8-4c56-8b15-59559b05add2';
+UPDATE University SET Name='Universidade Católica Portuguesa|Escola Superior de Biotecnologia' WHERE Id='8f9218ea-ae81-4e0c-9a8f-598e66728825';
+UPDATE University SET Name='Instituto Superior de Ciências Empresariais e de Turismo' WHERE Id='c1393375-7718-44dc-8cf1-59c69fd69424';
+UPDATE University SET Name='Universidade Católica Portuguesa|Faculdade de Direito' WHERE Id='906121ac-7e4d-4af2-ad07-59f7e33051e2';
+UPDATE University SET Name='Escola Superior de Hotelaria e Turismo do Estoril' WHERE Id='af84b7fe-2d77-4192-ab4d-5a3432c9d037';
+UPDATE University SET Name='Instituto Superior de Estudos Interculturais e Transdisciplinares de Viseu' WHERE Id='eb8ad009-a3e3-44db-94b6-5c37ee925980';
+UPDATE University SET Name='Universidade de Lisboa|Instituto Superior de Economia e Gestão', Deleted='0' WHERE Id='8864ebe2-fec0-4191-8e0c-5c8c7c8dd5e7';
+UPDATE University SET Name='Instituto Universitário da Maia' WHERE Id='3a7b63c2-3e86-4219-a131-5e796df9bc31';
+UPDATE University SET Name='Universidade de Coimbra|Faculdade de Economia' WHERE Id='80c0bc10-0be5-4a97-b1d8-5eaa50376d98';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Liceu José Afonso' WHERE Id='064066f7-9866-4a31-bb47-d5b719217fb5';
+DELETE FROM University WHERE Id='7eb35243-ec00-446d-b021-5efdab501803;'
+UPDATE University SET Name='Universidade Católica Portuguesa|Faculdade de Filosofia e Ciências Sociais' WHERE Id='d6db8ce5-e8ab-4b3c-8c84-5f0fde0a3707';
+UPDATE University SET Name='Universidade do Algarve|Faculdade de Economia' WHERE Id='2f6ad8c8-16f8-4830-92f5-5f3b002b1d82';
+UPDATE University SET Name='Instituto Politécnico de Portalegre|Escola Superior de Saúde' WHERE Id='d4d63874-69d2-443c-b9e1-5f4cbf0891a4';
+UPDATE University SET Name='Instituto Superior de Entre Douro e Vouga', Deleted='0' WHERE Id='6290df0b-e156-4afd-a6ad-5fa0b217694e';
+UPDATE University SET Name='Instituto Politécnico de Santarém|Escola Superior de Gestão e Tecnologia de Santarém' WHERE Id='c80ffe59-dbe5-4c2d-8ffd-6023b1779dc6';
+UPDATE University SET Name='Universidade Nova de Lisboa|Instituto Superior de Estatística e Gestão de Informação' WHERE Id='c869ca1c-1cb0-48c1-af3e-603b0d9d09d4';
+UPDATE University SET Name='Universidade do Porto|Faculdade de Economia' WHERE Id='22ae4f30-a5a4-433b-9b78-60a9c2ac886a';
+UPDATE University SET Name='Instituto Politécnico da Lusofonia|Escola Superior de Ciências da Administração' WHERE Id='57fc49d1-74c6-4c19-869d-61b87a9c537c';
+UPDATE University SET Name='Universidade Lusíada' WHERE Id='fcb58bc2-0dfe-4ee3-a7ef-63072e53d150';
+UPDATE University SET Name='Universidade de Lisboa|Faculdade de Belas-Artes' WHERE Id='517eeecc-474e-475f-8e0e-638b50e594d7';
+UPDATE University SET Name='Instituto Politécnico de Lisboa|Instituto Superior de Engenharia de Lisboa' WHERE Id='62808c2b-56f2-445a-b6bb-63c08dda3bdc';
+UPDATE University SET Name='Universidade Nova de Lisboa|Faculdade de Economia' WHERE Id='adbe418a-3529-46a6-be29-63d94c684117';
+UPDATE University SET Name='Universidade da Madeira|Faculdade de Artes e Humanidades' WHERE Id='07a76ef3-be4d-4fc9-8474-646d0e2a22ac';
+UPDATE University SET Name='Universidade de Évora|Escola de Ciências e Tecnologia' WHERE Id='3392af38-6b88-4d36-ab8c-64cf636dcf24';
+UPDATE University SET Name='British and Irish Modern Music Institute', Deleted='0' WHERE Id='bee3b39a-db39-4940-9425-65785931f591';
+UPDATE University SET Name='Universidade Federal de São Paulo|Faculdade de Ciências', Deleted='0' WHERE Id='1b6f6d52-8dda-480e-bedc-65a3d0a936d6';
+UPDATE University SET Name='Universidade do Porto|Faculdade de Ciências da Nutrição e da Alimentação' WHERE Id='fcd20308-814e-40f2-9d1b-65ed95d0075c';
+DELETE FROM UserEducationExperience WHERE Id='09dacbbe-7846-4bd4-b668-e73c44864d01;'
+DELETE FROM University WHERE Id='b1d931af-f653-4d50-812c-65fb7464222e;'
+UPDATE University SET Name='Universidade do Vale do Rio dos Sinos', Deleted='0' WHERE Id='5f5c6413-ba07-4304-9af0-660986b4048c';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='FLAG' WHERE Id='1f43ffb0-f0da-45bc-a9be-45ffcb9c16f9';
+DELETE FROM University WHERE Id='fac6c083-5e10-4a26-bf11-66335d199154;'
+UPDATE University SET Name='Escola Superior de Enfermagem Cruz Vermelha Portuguesa' WHERE Id='fa8e67aa-1804-4e64-87cd-66391b9017a1';
+UPDATE University SET Name='Instituto Politécnico de Castelo Branco|Escola Superior Agrária de Castelo Branco' WHERE Id='31111e04-04a7-4d4e-a8bf-665dd4e5fb55';
+UPDATE University SET Name='Instituto Politécnico de Portalegre|Escola Superior de Educação e Ciências Sociais' WHERE Id='0994c7d8-333a-407b-be9d-673bbc8fb535';
+UPDATE University SET Name='Universidade Nova de Lisboa', Deleted='0' WHERE Id='d085c976-41f6-49af-8cd4-67743fe51e7c';
+UPDATE University SET Name='Universidade Fernando Pessoa' WHERE Id='b857a8a6-2394-4e37-8c8f-682ecd4495fd';
+UPDATE University SET Name='Instituto Politécnico do Porto|Escola Superior de Media Artes e Design' WHERE Id='a17e7cc1-92ba-49cd-8db2-68a814a7d473';
+UPDATE University SET Name='Universidade Estácio de Sá', Deleted='0' WHERE Id='ce0a9291-af36-4327-baac-695e8e263964';
+UPDATE University SET Name='Technická Univerzita V Kosiciack', Deleted='0' WHERE Id='e63d8470-cfe7-4a95-a504-695f961ceb94';
+DELETE FROM UserEducationExperience WHERE Id='0e8182f2-a736-4049-a55e-babe03f2cc2d;'
+DELETE FROM University WHERE Id='cca5d0f0-1001-452b-b251-6983c1a6cf66;'
+UPDATE University SET Name='Universidade de Trás-os-Montes e Alto Douro', Deleted='0' WHERE Id='25ded194-d59a-4e64-9109-69ea4c003655';
+UPDATE University SET Name='Universidade de Lisboa|Faculdade de Motricidade Humana' WHERE Id='3150f2ca-970c-49e0-bed9-6a97c10a0a16';
+UPDATE University SET Name='Instituto Politécnico de Coimbra|Instituto superior de engenharia de Coimbra', Deleted='0' WHERE Id='5c3b4900-2f53-4260-945d-6b68dbac4a3e';
+UPDATE University SET Name='Universidade do Porto|Instituto de Ciências Biomédicas Abel Salazar' WHERE Id='b7cb32ac-07ba-4bac-a114-6bd8bb3c1bdb';
+UPDATE University SET Name='Instituto Politécnico de Lisboa|Escola Superior de Tecnologia da Saúde de Lisboa' WHERE Id='55fae92d-c20f-4b0b-b240-6bf2f82b3f26';
+UPDATE University SET Name='Universidade da Madeira|Faculdade de Ciências Sociais' WHERE Id='b0fe25eb-4ab4-4768-b063-6bfd3cc86327';
+UPDATE University SET Name='Instituto Politécnico de Portalegre|Escola Superior Agrária de Elvas' WHERE Id='8fa9c51a-78ab-4b9a-a500-6c938c7de863';
+UPDATE University SET Name='Instituto Politécnico de Tomar|Escola Superior de Tecnologia de Tomar' WHERE Id='e047654f-e120-4693-ab36-6cb29b0f9877';
+UPDATE University SET Name='Universidade Fedederal de Pernambuco' WHERE Id='a677bd77-74d8-4fae-90ab-6d0ca80e95f1';
+UPDATE University SET Name='Universidade Federal do Rio de Janeiro', Deleted='0' WHERE Id='d797936b-2f94-4a79-8646-6eaad188417e';
+UPDATE University SET Name='Universidade do Algarve|Escola Superior de Saúde' WHERE Id='208d1514-5ce8-4be7-9fa2-6f6759f76e44';
+UPDATE University SET Name='Universidade de Trás-os-Montes e Alto Douro|Escola de Ciências Humanas e Sociais' WHERE Id='05be3a3d-80c3-406b-9a88-6fa8e81cf0c7';
+UPDATE University SET Name='Universidade de Trás-os-Montes e Alto Douro|Escola de Ciências Agrárias e Veterinárias' WHERE Id='999a3178-0db1-4f23-9d16-6fbdda91e4ff';
+UPDATE University SET Name='Universidade Nova de Lisboa|Instituto Superior de Estatística e Gestão de Informação', Deleted='0' WHERE Id='fcb6b6b7-eb56-4bd7-a56c-70031b01f363';
+DELETE FROM UserEducationExperience WHERE Id='760d9555-3382-40b2-9dc7-0da54ab92c4b;'
+DELETE FROM UserEducationExperience WHERE Id='049eeab8-133d-4569-98fc-10d4f09c2efc;'
+DELETE FROM UserEducationExperience WHERE Id='947b1fd7-5f07-4523-9ef5-20977cc147b7;'
+DELETE FROM UserEducationExperience WHERE Id='0e7c8e24-63b4-492c-bb3a-20b8ed0d277b;'
+DELETE FROM UserEducationExperience WHERE Id='9df4079e-cb57-45a3-a8c7-2207f391cec0;'
+DELETE FROM UserEducationExperience WHERE Id='9c60f7c4-b838-4089-8970-34cdb3bfa7c0;'
+DELETE FROM UserEducationExperience WHERE Id='eab4e932-9e2c-4486-bce7-39511a58e524;'
+DELETE FROM UserEducationExperience WHERE Id='383aa7a4-930a-4a21-9e5a-417d16403b3f;'
+DELETE FROM UserEducationExperience WHERE Id='fdfbc6cb-d0cc-47ef-a81d-420573d90cee;'
+DELETE FROM UserEducationExperience WHERE Id='1dc104b9-f78b-4aa0-99b0-5214f9d1ecb5;'
+DELETE FROM UserEducationExperience WHERE Id='e35e6316-eba5-45d6-a3df-5300cc905503;'
+DELETE FROM UserEducationExperience WHERE Id='172ab5b4-cf67-454d-985e-64f0412213e9;'
+DELETE FROM UserEducationExperience WHERE Id='eab663bb-5595-4757-a323-6e6103e28e3b;'
+DELETE FROM UserEducationExperience WHERE Id='99349a35-cb38-4964-a801-70e808635b69;'
+DELETE FROM UserEducationExperience WHERE Id='165ddbea-7d72-4b36-99ab-72ea2faeea69;'
+DELETE FROM UserEducationExperience WHERE Id='a2e93abd-8814-4c82-9b49-82a67f368e34;'
+DELETE FROM UserEducationExperience WHERE Id='8effe295-74ec-4c93-8e4f-8e6ab401cc48;'
+DELETE FROM UserEducationExperience WHERE Id='27ff4c13-0c8e-450f-8613-8e76365451d8;'
+DELETE FROM UserEducationExperience WHERE Id='45570e00-b7ec-4474-82f1-9678f2f9e598;'
+DELETE FROM UserEducationExperience WHERE Id='f9b619b7-8814-4271-8ee4-a4a54ef18c8c;'
+DELETE FROM UserEducationExperience WHERE Id='03fc78d8-6087-4805-9001-b03b2bdff581;'
+DELETE FROM UserEducationExperience WHERE Id='fb580f43-a23a-46e2-9596-c95c7831dbc1;'
+DELETE FROM UserEducationExperience WHERE Id='f309b48a-112c-4933-bb5f-d5dd04f8a792;'
+DELETE FROM UserEducationExperience WHERE Id='5e1d3850-1fc8-4670-a176-d8e9799aa12e;'
+DELETE FROM UserEducationExperience WHERE Id='5d7758d8-eeae-4800-8f45-e47991eb80a9;'
+DELETE FROM UserEducationExperience WHERE Id='91ce75b5-9626-40fd-b9e5-fa7c69d3cf41;'
+DELETE FROM UserEducationExperience WHERE Id='ded8ae81-2278-4aa5-8972-fc8ece319cd1;'
+DELETE FROM UserEducationExperience WHERE Id='892e214d-4937-4695-bfa6-fe838bc93f59;'
+DELETE FROM University WHERE Id='1cd1b793-5b91-4b83-99a3-709c73f44a58;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Secundária Seomara da Costa Primo' WHERE Id='bb481a26-303d-484d-874b-51bfccc557a3';
+DELETE FROM University WHERE Id='861df530-a7da-45aa-aa09-70dc6778faf4;'
+UPDATE University SET Name='Universidade do Minho' WHERE Id='0d9430d0-f3ab-4288-a540-70e9a4e3c2d3';
+UPDATE University SET Name='Instituto Superior Miguel Torga' WHERE Id='da2a2441-7a1e-41b0-bd75-715af8b40857';
+UPDATE University SET Name='Instituto de Estudos Superiores de Fafe', Deleted='0' WHERE Id='76962acb-1743-4e95-a715-7168da9547ee';
+UPDATE University SET Name='Escola Superior de Enfermagem de Lisboa' WHERE Id='fd9c5ae2-3197-41a9-bab9-7223a717c1cc';
+UPDATE University SET Name='Instituto Politécnico de Viana do Castelo|Escola Superior de Tecnologia e Gestão' WHERE Id='a918c224-e571-4231-966a-7227e975e5df';
+UPDATE University SET Name='Instituto Politécnico de Castelo Branco|Escola Superior de Tecnologia de Castelo Branco' WHERE Id='fafc6c57-3bcc-41ba-a4bf-722e05f2ade6';
+UPDATE University SET Name='Escola Superior de Negócios Atlântico' WHERE Id='755b101f-66ca-4e24-9cab-725fd34ea415';
+UPDATE University SET Name='Universidade de Évora|Escola de Ciências Sociais' WHERE Id='5335d4e3-86ef-4119-955f-7315dc30e214';
+UPDATE University SET Name='Universidade dos Açores|Faculdade de Ciências e Tecnologia' WHERE Id='e92894db-e57e-4e36-a656-73a557e5d4ce';
+UPDATE University SET Name='Universidade de Lisboa|Faculdade de Medicina' WHERE Id='a2d78739-7494-4d22-b238-73bd86f52230';
+UPDATE University SET Name='Pontifícia Universidade Católica do Rio Grande do Sul', Deleted='0' WHERE Id='de799d95-17aa-43e9-971b-7431457f5fec';
+UPDATE University SET Name='Escola Superior Gallaecia' WHERE Id='b12c4c56-8a93-4944-9584-7455e9851851';
+UPDATE University SET Name='Instituto Politécnico de Leiria|Escola Superior de Artes e Design' WHERE Id='4293ac5c-b329-42f2-8c6a-74b110a38836';
+UPDATE University SET Name='Universidade do Porto|Faculdade de Medicina Dentária' WHERE Id='310fc2ae-45ef-41c4-8482-74bac34d6538';
+UPDATE University SET Name='Instituto Politécnico de Viana do Castelo|Escola Superior de Ciências Empresariais' WHERE Id='6132e2dc-3d29-44d6-895c-752c8a10096c';
+UPDATE University SET Name='Universidade de Coimbra|Faculdade de Ciências e Tecnologia' WHERE Id='85c5fdb5-6677-43eb-954f-756ef26a9bab';
+UPDATE University SET Name='Instituto Politécnico do Porto|Escola Superior de Música e Artes do Espectáculo' WHERE Id='5bdfd8f4-6c35-4968-a5a4-76244c75df44';
+UPDATE University SET Name='Instituto Politécnico de Castelo Branco|Escola Superior de Educação de Castelo Branco' WHERE Id='3df96861-8b28-44c2-a4ed-76d44b1759d0';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola profissional de Tondela' WHERE Id='909d7679-fbcf-4f76-a7df-b9ef9914ac9c';
+DELETE FROM University WHERE Id='a43ad7a6-f06e-4696-b9e1-77535224cd90;'
+UPDATE University SET Name='Instituto Superior de Estudos Interculturais e Transdisciplinares de Almada' WHERE Id='38f55050-1082-40fb-ad94-7824cb9bdc23';
+UPDATE University SET Name='Instituto Superior de Ciências da Informação e da Administração' WHERE Id='7bcf690c-707a-43a6-acce-786ce72d848d';
+UPDATE University SET Name='National Research University|Higher School of Economics', Deleted='0' WHERE Id='6c041391-4aea-464e-9b60-78c8df4e20a0';
+UPDATE University SET Name='Instituto Politécnico do Porto|Escola Superior de Hotelaria e Turismo' WHERE Id='78ee4b59-11b0-43ed-ba64-79bae27f04c2';
+UPDATE University SET Name='Universidade Lusíada', Deleted='0' WHERE Id='4b2b6016-bb75-4f86-9e6d-7a0c8e21f7c8';
+UPDATE University SET Name='Universidade de Coimbra', Deleted='0' WHERE Id='046d237e-135e-44fc-af58-7b2e4f558cd9';
+UPDATE University SET Name='Instituto Politécnico do Cávado e do Ave|Escola Superior de Tecnologia' WHERE Id='51bf70d7-b50d-42fe-90e1-7b9c23e7e9cc';
+UPDATE University SET Name='Universidade de Trás-os-Montes e Alto Douro|Escola de Ciências da Vida e do Ambiente' WHERE Id='f164f2ff-51e0-458b-b0eb-7b9e401d76a3';
+UPDATE University SET Name='Universidade Nova de Lisboa|Faculdade de Ciências e Tecnologia' WHERE Id='547e662f-d10f-4b67-bc27-7bcef0a1af5a';
+UPDATE University SET Name='Universidade Nova de Lisboa|Faculdade de Ciências Sociais e Humanas' WHERE Id='45ce22fb-4c07-4d52-9ded-7c0226d7f685';
+UPDATE University SET Name='Universidade Lusíada', Deleted='0' WHERE Id='96b74692-6258-491f-8676-7c5c638276c1';
+UPDATE University SET Name='Universidade de Caxias do Sul' WHERE Id='891cc7a0-a922-4a5e-b76b-7c8f770a127e';
+UPDATE University SET Name='Universidade de Coimbra|Faculdade de Economia', Deleted='0' WHERE Id='3374a730-3c47-430e-92d3-7d1471e7f51d';
+DELETE FROM UserEducationExperience WHERE Id='b1598ad5-4352-4e7c-a23d-8be7f0f2b726;'
+DELETE FROM University WHERE Id='ab542c45-a78b-4940-9147-7d46f605c894;'
+UPDATE University SET Name='Instituto Politécnico de Santarém|Escola Superior de Desporto de Rio Maior' WHERE Id='d058d081-10a8-488b-b2a4-7d76ed2eef4d';
+UPDATE University SET Name='University of Edinburgh', Deleted='0' WHERE Id='121c89dd-b647-489b-841d-7dac66795962';
+UPDATE University SET Name='Instituto Politécnico de Lisboa|Escola Superior de Música' WHERE Id='bc60bcb6-2848-4066-8c37-7e4a529e8222';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Secundária Afonso Lopes Vieira' WHERE Id='72092375-87fb-4393-8501-21aa5ce2311a';
+DELETE FROM University WHERE Id='2d8f89d2-3aa4-4e16-913e-7f5ada7a6772;'
+UPDATE University SET Name='Instituto Politécnico de Santarém|Escola Superior de Saúde de Santarém' WHERE Id='f9af7fc3-ec40-4d6a-943b-810637d39850';
+UPDATE University SET Name='Coventry University' WHERE Id='fe707603-77d0-455d-8662-824feb79c80a';
+UPDATE University SET Name='Universidade dos Açores|Escola Superior de Saúde - Ponta Delgada' WHERE Id='118fe0f4-ae5b-4848-a578-82eace7c8741';
+UPDATE University SET Name='Instituto Federal do Piauí', Deleted='0' WHERE Id='6d7ee128-0c28-4346-a592-838ce3942d9d';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Dual Porto' WHERE Id='81e02925-82a7-48a4-a38a-9fdf9dac2fb3';
+DELETE FROM University WHERE Id='f270b753-fc95-422a-a142-83e95b377e66;'
+UPDATE University SET Name='Escola Superior de Hotelaria e Turismo do Estoril' WHERE Id='0b35ddf3-309e-4187-9648-841615eb25cd';
+UPDATE University SET Name='Instituto Politécnico de Lisboa|Escola Superior de Dança' WHERE Id='64bece7f-f50c-4674-b294-84f379199eed';
+UPDATE University SET Name='Instituto Politécnico de Beja|Escola Superior de Tecnologia e de Gestão' WHERE Id='68318dbb-0487-467c-84a8-85c82fea03f5';
+UPDATE University SET Name='Universidad Complutense de Madrid', Deleted='0' WHERE Id='5d57bfe4-e54c-4762-8591-86b606c74d8e';
+UPDATE University SET Name='Universidade do Porto|Faculdade de Medicina' WHERE Id='4741d4a0-339d-4cf1-bcbe-87c9bd2dedd7';
+UPDATE University SET Name='Universidade de Lisboa|Faculdade de Ciências' WHERE Id='199ac1bf-48c0-4495-bb13-87dd04c85972';
+UPDATE University SET Name='Universidade do Algarve|Instituto Superior de Engenharia' WHERE Id='13fae593-5513-4997-afd9-88038738c24c';
+UPDATE University SET Name='EAE Business School', Deleted='0' WHERE Id='37dd3d9f-9cbc-4eaa-96e9-887b5bbbcfe6';
+DELETE FROM UserEducationExperience WHERE Id='3c959a5e-c6f1-45b7-9e79-a2aa35d115b5;'
+DELETE FROM University WHERE Id='3a85742e-3de2-49f7-b705-889038759d02;'
+UPDATE University SET Name='University of Lincoln', Deleted='0' WHERE Id='ced871ba-da1e-4f76-bee9-88e855cecfaf';
+UPDATE University SET Name='Kozminski University', Deleted='0' WHERE Id='ce43a3e5-5372-401c-b93e-891b133c1463';
+UPDATE University SET Name='Universidade de Lisboa|Faculdade de Medicina Veterinária' WHERE Id='3bce3dc0-17a2-4250-b16e-897b97c59780';
+UPDATE University SET Name='Instituto Politécnico de Viseu|Escola Superior de Educação' WHERE Id='bdf1b7c6-63df-4038-a613-8a964beb088e';
+UPDATE University SET Name='Universidade Lusófona de Humanidades e Tecnologias' WHERE Id='1f155524-53d2-4226-9b35-8aea4c95514f';
+UPDATE University SET Name='Instituto Politécnico Jean Piaget|Escola Superior de Tecnologia e Gestão Jean Piaget' WHERE Id='6e73ea74-cdd1-4d60-9bb2-8aed3994cc07';
+UPDATE University SET Name='Universidade da Madeira|Escola Superior de Tecnologias e Gestão' WHERE Id='453f6801-43bc-4fee-a515-8b85b41c4550';
+UPDATE University SET Name='Instituto Português de Administração de Marketing' WHERE Id='919409bd-d140-44a3-bb8d-8b9164b4d8dd';
+UPDATE University SET Name='Universidade Autónoma de Lisboa Luís de Camões' WHERE Id='03894b24-a628-4bd7-afec-8bb2703b8762';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Secundária Santo André' WHERE Id='85bd15f3-86f3-45a2-b03b-010f2bfed492';
+DELETE FROM University WHERE Id='aa88f59e-c95d-4848-b66b-8bd0637709ab;'
+UPDATE University SET Name='Universidade Católica Portuguesa|Católica Porto Business School' WHERE Id='42f1db40-b893-4a86-a6cf-8c9fe39e779b';
+UPDATE University SET Name='Universidade do Porto|Faculdade de Farmácia' WHERE Id='bb74742b-456a-4252-844a-8ca14adb9903';
+UPDATE University SET Name='Instituto Politécnico de Viseu|Escola Superior Agrária de Viseu' WHERE Id='2726e1fb-fe63-4677-9638-8ca9463007f3';
+UPDATE University SET Name='Universidade de Lisboa|Faculdade de Arquitetura' WHERE Id='804dbe87-030c-4f5c-91af-8cdc939e9f4c';
+UPDATE University SET Name='Instituto Politécnico de Santarém|Escola Superior Agrária de Santarém' WHERE Id='e1feaa03-2e9c-4998-9e9d-8d01f85d532a';
+UPDATE University SET Name='Instituto Universitário Militar|Academia da Força Aérea' WHERE Id='4de30720-9f60-4a6b-882a-8d1c49258d19';
+UPDATE University SET Name='Universidade de Coimbra|Faculdade de Farmácia' WHERE Id='86bd889e-3d5e-44f6-8dca-8d390d8f9ddc';
+UPDATE University SET Name='Instituto Politécnico do Cávado e do Ave|Escola Superior de Gestão' WHERE Id='c101be33-91ea-4a60-9bad-8d9b9b2a34e0';
+UPDATE University SET Name='Academia Nacional Superior de Orquestra' WHERE Id='364714d8-e1f0-4b14-81d6-8dbd924f454a';
+UPDATE University SET Name='Instituto Politécnico do Cávado e do Ave|Escola Tecnica Superior Profissional', Deleted='0' WHERE Id='d8631583-0343-4a75-bc85-8df6a2db6af1';
+UPDATE University SET Name='Universidade Federal de São Paulo', Deleted='0' WHERE Id='451dbe4b-0daa-4b79-aeb1-8e1334ee6049';
+UPDATE University SET Name='Universidade Lusófona do Porto' WHERE Id='c1263480-163c-45b8-89c6-8e40c785bb44';
+UPDATE University SET Name='Universidade dos Açores|Escola Superior de Saúde - Angra do Heroísmo' WHERE Id='28bceaf2-40ae-4906-899a-8e4c7b5f1312';
+UPDATE University SET Name='Universidade dos Açores|Faculdade de Economia e Gestão' WHERE Id='359b0e60-d5c4-4b6a-860a-8ecd360d7c78';
+UPDATE University SET Name='Centro Universitário IESB', Deleted='0' WHERE Id='538e0a10-2411-4733-9ff8-8f8fe8315ece';
+UPDATE University SET Name='Universidade de Lisboa|Faculdade de Direito' WHERE Id='ac7da012-1b6d-44aa-83e3-90b204f9195e';
+UPDATE University SET Name='Instituto Superior de Educação e Ciências' WHERE Id='a6f5cf2f-1179-45df-8acb-90f9a2eaa52b';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Faculdade Impacta' WHERE Id='ddef8821-b645-4bb9-ade5-09ae38768d2d';
+DELETE FROM University WHERE Id='3b4d8474-8957-42e5-a816-921961151433;'
+UPDATE University SET Name='Escola Superior de Tecnologia e Gestão de Oliveira do Hospital', Deleted='0' WHERE Id='a7d424d2-695a-40d6-bfed-9285e366cb00';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='INDEG-ISCTE Executive Education' WHERE Id='4c60aae1-2791-4a76-b15f-d2da0b2160bb';
+DELETE FROM University WHERE Id='122ff171-a186-46bd-8646-92b8ca67276b;'
+DELETE FROM UserEducationExperience WHERE Id='d07b037f-b63f-477b-a1b9-51132424a511;'
+DELETE FROM University WHERE Id='f64267b0-d9d5-48c8-839e-92c0cded908e;'
+UPDATE University SET Name='Universidade da Beira Interior' WHERE Id='59ed1270-8174-4a26-9228-933cec2983fa';
+UPDATE University SET Name='Instituto Politécnico de Castelo Branco|Escola Superior de Saúde Dr. Lopes Dias' WHERE Id='e2a5d903-3706-4149-b331-93ca3a1a3935';
+UPDATE University SET Name='Instituto Politécnico de Viana do Castelo|Escola Superior de Educação' WHERE Id='56dfaa83-6fe2-4efb-a573-944abae9bc44';
+UPDATE University SET Name='Universidade do Porto|Faculdade de Ciências' WHERE Id='2d82fad3-db98-4374-8052-94e0bbec4fd1';
+DELETE FROM UserEducationExperience WHERE Id='eaae8fb0-eab4-4079-afa0-0250fd167cdc;'
+DELETE FROM UserEducationExperience WHERE Id='50aec69b-07d3-415e-a7ea-4a2d97cca3f3;'
+DELETE FROM UserEducationExperience WHERE Id='a9a56377-9cc7-4dda-bff9-fcadd2969d1f;'
+DELETE FROM University WHERE Id='c68b6a86-dcda-406c-a58a-9550061602b1;'
+UPDATE University SET Name='Universidade de Lisboa|Instituto Superior de Economia e Gestão', Deleted='0' WHERE Id='d3af61a0-76b7-4570-8058-95cc7566516d';
+UPDATE University SET Name='Universidade Évora', Deleted='0' WHERE Id='bee0cab8-f905-41eb-ab93-96631afd7a0a';
+UPDATE University SET Name='Universidade do Algarve' WHERE Id='2e4ed441-df7b-4d6f-8f53-966d17748aff';
+UPDATE University SET Name='Instituto Politécnico de Lisboa' WHERE Id='f578f760-4a14-42c6-8811-979c4df9178f';
+UPDATE University SET Name='Instituto Politécnico de Lisboa|Instituto Superior de Contabilidade e Administração de Lisboa', Deleted='0' WHERE Id='43f1d7d7-9172-4131-812e-9822578efbcd';
+UPDATE University SET Name='Universidade de Pernambuco', Deleted='0' WHERE Id='805af711-e7fb-4e0d-a4f1-98dfc0d3beb3';
+UPDATE University SET Name='Escola Superior de Educação de Lisboa' WHERE Id='e304afb5-3c51-4005-94c6-98e1035a2337';
+UPDATE University SET Name='Universidade do Porto|Faculdade de Engenharia', Deleted='0' WHERE Id='ada742bc-b1e2-4e7d-b3a3-99b36cd6fbe1';
+UPDATE University SET Name='Instituto Português de Administração de Marketing de Lisboa' WHERE Id='bd4661bc-4088-47ce-9b39-99c03a9034f1';
+UPDATE University SET Name='Instituto de Estudos Interculturais e Transdisciplinares de Almada' WHERE Id='c13066b1-739d-4441-b90b-99cce9c36c53';
+UPDATE University SET Name='Universidade Paulista', Deleted='0' WHERE Id='51fb40c6-4559-4466-8df9-9b184fea54af';
+UPDATE University SET Name='Centro Universitário Teresa D''Ávila', Deleted='0' WHERE Id='77146e1d-2055-487e-bfaa-9b363c850d75';
+UPDATE University SET Name='Instituto Politécnico de Viseu|Escola Superior de Educação de Viseu' WHERE Id='1f1658fe-7430-4a1e-a5a9-9b719c8d9d9f';
+UPDATE University SET Name='Universidade do Porto|Faculdade de Engenharia' WHERE Id='310d671d-7ef3-463f-a03b-9ba2c34b1209';
+UPDATE University SET Name='Universidade de Coimbra|Faculdade de Ciências do Desporto e Educação Física' WHERE Id='87bf9fbd-a939-43b0-81ca-9d2d57dbe0dc';
+UPDATE University SET Name='Universidade Lusíada' WHERE Id='76cf0a3a-63c0-49db-8cbf-9d4b0428edd6';
+UPDATE University SET Name='Instituto Politécnico da Lusofonia|Escola Superior de Saúde, Proteção e Bem-Estar Animal' WHERE Id='f0c2d28c-d6ba-4a71-b1a7-9d5de41d0536';
+UPDATE University SET Name='Universidade de Trás-os-Montes e Alto Douro|Escola Superior de Saúde' WHERE Id='350975f6-b522-478a-8225-9d60bb688788';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Secundária de Camarate' WHERE Id='b9544f4c-d9c5-4274-97b8-658b910e0528';
+DELETE FROM University WHERE Id='df4af519-35fc-42d1-a015-9e515538106f;'
+UPDATE University SET Name='Instituto Politécnico de Leiria|Escola Superior de Tecnologia e Gestão' WHERE Id='88ed7f77-187e-4395-8044-9f20b46e26ab';
+UPDATE University SET Name='Escola Superior de Educação de Fafe' WHERE Id='57e1ddcc-08a7-4545-852e-9f595b820a0b';
+UPDATE University SET Name='Universidade Nova de Lisboa|Instituto de Higiene e Medicina Tropical' WHERE Id='e3bd22b5-3d8d-404f-adb4-9ffee0ce4fac';
+UPDATE University SET Name='Instituto Superior de Tecnologias Avançadas de Lisboa', Deleted='0' WHERE Id='946fdb4c-d3fe-49c7-9a73-a03911d00d3c';
+UPDATE University SET Name='Instituto Politécnico Jean Piaget|Escola Superior de Saúde Jean Piaget do Algarve' WHERE Id='515275c6-50dc-48f7-85b3-a0489e643c1a';
+UPDATE University SET Name='Universidade de Coimbra|Faculdade de Psicologia e de Ciências da Educação' WHERE Id='29546d96-f706-49fa-9a10-a095363452e0';
+UPDATE University SET Name='Universidade Federal de Minas Gerais' WHERE Id='c5b3711a-ad6e-4044-bd84-a0ae183adcc4';
+UPDATE University SET Name='Instituto Politécnico da Maia|Escola Superior de Tecnologia e Gestão' WHERE Id='73cb4fff-e17a-4bf7-93f8-a0b301537baf';
+UPDATE University SET Name='Universidade de Lisboa' WHERE Id='b3cf6343-78a1-4dbe-9f34-a0c0b46c0faf';
+UPDATE University SET Name='Universidade de Coimbra|Faculdade de Direito' WHERE Id='d2f14126-53c6-4697-b820-a10e531d969c';
+UPDATE University SET Name='Universidade de Lisboa|Instituto Superior de Economia e Gestão' WHERE Id='cb1605e6-5cf0-4463-b044-a11f744d7467';
+UPDATE University SET Name='Universidade de Lisboa|Instituto Superior Técnico' WHERE Id='77bde682-4466-4caf-8eee-a1992e411892';
+UPDATE University SET Name='Universidade Católica Porto' WHERE Id='0459c402-fce8-4ff1-be7d-a1d91271b72b';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Instituto Português de fotografia' WHERE Id='e201abbc-e9b0-41f4-ab8a-8fa967c28877';
+DELETE FROM University WHERE Id='efb0267a-30db-4dbb-87a2-a2bfe8635c6f;'
+UPDATE University SET Name='Escola Superior de Atividades Imobiliárias' WHERE Id='ee3ad031-071c-45d0-a185-a3201a45867c';
+UPDATE University SET Name='Escola Superior de Tecnologias de Fafe' WHERE Id='8b6eddc2-398f-4b1a-a186-a3259ad7937a';
+UPDATE University SET Name='Escola Superior Aveiro-Norte', Deleted='0' WHERE Id='cf227007-51ba-474b-878e-a365bceb3a26';
+UPDATE University SET Name='Instituto Politécnico de Bragança|Escola Superior de Saúde de Bragança' WHERE Id='5642b757-5c76-480d-beb8-a44b97399808';
+UPDATE University SET Name='Universidade Federal do Paraná' WHERE Id='6d875b2b-387c-4139-ac42-a48cb8fc678f';
+DELETE FROM UserEducationExperience WHERE Id='44fb8c83-0d8a-4fee-b654-2460d4bac64f;'
+DELETE FROM University WHERE Id='96986d5d-a9cd-49ad-b3cd-a492220fc045;'
+UPDATE University SET Name='Instituto Politécnico de Leiria|Escola Superior de Artes e Design' WHERE Id='7a92491d-df40-4417-8b83-a4d1aa270ee6';
+UPDATE University SET Name='Universidade de Coimbra|Faculdade de Medicina' WHERE Id='aa9706fd-b334-4e85-8e0c-a519e039203f';
+UPDATE University SET Name='Istituto Europeo di Design', Deleted='0' WHERE Id='de1c9f1e-30f1-4b8f-bd9d-a5471ab5a873';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola secundária José Gomes Ferreira' WHERE Id='1aeb1258-c070-4d9c-94f7-833bfe8e931b';
+DELETE FROM University WHERE Id='9df83778-9984-4613-9416-a55ef8b718d5;'
+UPDATE University SET Name='Instituto Politécnico de Setúbal|Escola Superior de Saúde' WHERE Id='01c95289-f8be-40c4-aa87-a58b0dc5cdaa';
+UPDATE University SET Name='Instituto Universitário de Ciências da Saúde' WHERE Id='64689f30-2720-4f2d-b924-a5dd26a8d91f';
+UPDATE University SET Name='Instituto Politécnico de Coimbra|Escola Superior de Tecnologia e Gestão de Oliveira do Hospital' WHERE Id='4d16bf09-5047-4120-8d7d-a636a2705728';
+UPDATE University SET Name='Instituto Politécnico de Leiria|Escola Superior de Educação e Ciências Sociais' WHERE Id='703b9209-b6c4-4201-acd2-a69f3d6e1c4e';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Colégio Internato dos Carvalhos' WHERE Id='3f39a10a-c055-47e8-9dc8-4487c2f89d88';
+DELETE FROM University WHERE Id='a64e8c01-df39-4efe-ba64-a6c8ff98525e;'
+UPDATE University SET Name='Instituto Politécnico de Coimbra|Instituto Superior de Engenharia de Coimbra' WHERE Id='f01b76e5-96f4-46af-8dd6-a845552e4b70';
+UPDATE University SET Name='Universidade Nova de Lisboa|Faculdade de Ciências Médicas' WHERE Id='d0fc1862-12d4-4401-afda-aa854db86532';
+UPDATE University SET Name='Instituto Politécnico do Porto|Instituto Superior de Engenharia do Porto' WHERE Id='07fe2ddf-3989-409b-8a77-aae41f02cbad';
+UPDATE University SET Name='Instituto Politécnico de Viana do Castelo|Escola Superior de Desporto e Lazer' WHERE Id='30df98e0-f038-4599-9ab1-aafa8f4836d8';
+DELETE FROM UserEducationExperience WHERE Id='a7e6294b-1c69-4ebe-b934-e5369f0de101;'
+DELETE FROM University WHERE Id='adfe9dc2-8c01-48bc-b45a-ab5314669420;'
+UPDATE University SET Name='Instituto Politécnico de Bragança|Escola Superior de Educação de Bragança' WHERE Id='1deaf703-5e77-4470-9122-ac2ff132e596';
+DELETE FROM UserEducationExperience WHERE Id='c2ff7946-1463-4822-a766-841ca97725d6;'
+DELETE FROM University WHERE Id='befc84a9-75ee-403a-a689-acbb2d985c01;'
+UPDATE University SET Name='Instituto Politécnico de Gestão e Tecnologia|Escola Superior de Tecnologia' WHERE Id='ca607ec4-f1ef-4879-9af3-ace8d2c04b50';
+UPDATE University SET Name='Universidade do Porto|Faculdade de Arquitetura' WHERE Id='3ee4312a-f137-4efe-b29a-ad46b3d0dc0c';
+DELETE FROM UserEducationExperience WHERE Id='1f06cbfd-bf83-467a-9510-613e22723c98;'
+DELETE FROM University WHERE Id='f550d763-8ddb-40c6-9ff4-ae11ebb0cf20;'
+UPDATE University SET Name='Instituto Politécnico de Setúbal|Escola Superior de Tecnologia do Barreiro' WHERE Id='5d6e2361-4693-42a7-8e8c-ae8227fa4b76';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Lisbon School of Design' WHERE Id='b82a86eb-fa67-40a9-9c9e-a8b831d15729';
+DELETE FROM University WHERE Id='435a58a6-b5d8-424d-95b6-ae9e305ea0d0;'
+UPDATE University SET Name='Instituto Português de Administração de Marketing do Porto' WHERE Id='f5dc8196-b5d6-4fe4-9e13-aee5fa84d77f';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Instituto do Emprego e Formação Profissional' WHERE Id='f0d37ee4-6209-4e7a-941c-3418fdf198b0';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Instituto do Emprego e Formação Profissional' WHERE Id='0718fcd5-cfee-489b-9104-3c3e56ba9a21';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Instituto do Emprego e Formação Profissional' WHERE Id='6e2ffb75-30e9-47d4-adf3-7731ff6ea064';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Instituto do Emprego e Formação Profissional' WHERE Id='f33c6ce5-23b0-49f6-86a3-82867f8f5769';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Instituto do Emprego e Formação Profissional' WHERE Id='fd5b8556-df15-4306-b4af-c6917850e558';
+DELETE FROM University WHERE Id='0f004e39-0949-43ed-970e-b03cd3529270;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola de Tecnologias Inovação e Criação' WHERE Id='c402d204-31d9-469e-bcc5-ec30fd8dc3c0';
+DELETE FROM University WHERE Id='8bf864ab-59f0-4668-bd85-b03e69bf9a4c;'
+UPDATE University SET Name='Universidade Nova de Lisboa', Deleted='0' WHERE Id='06101981-1f75-4d43-8f99-b08d508c9067';
+UPDATE University SET Name='Universidade de Lisboa|Instituto Superior de Agronomia' WHERE Id='b838f3c2-6dbe-4a2d-be0b-b0b89b854d7c';
+UPDATE University SET Name='Universidade Católica Portuguesa|Faculdade de Teologia (Porto)' WHERE Id='aaa4b207-b29c-430b-8b10-b1aff953cca1';
+DELETE FROM UserEducationExperience WHERE Id='7929da3d-b2ad-413a-ba05-df10dde999b9;'
+DELETE FROM University WHERE Id='bf8be54a-7a7a-418f-b019-b202ac278b03;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Secundária de Barcelos' WHERE Id='bdacb81e-8898-4515-a29c-fb80de0c4c54';
+DELETE FROM University WHERE Id='38b49f6c-ed71-47d1-a8f7-b2f410d35e09;'
+UPDATE University SET Name='Instituto Politécnico da Lusofonia|Escola Superior de Educação da Lusofonia' WHERE Id='5e178b0b-b38c-4589-8c2b-b378617a5b56';
+DELETE FROM UserEducationExperience WHERE Id='d4de5957-43cb-4b1e-95b9-564d2c8cd8d6;'
+DELETE FROM University WHERE Id='0359cf6c-47c1-48b1-9ec4-b3cc91df45e0;'
+UPDATE University SET Name='Instituto Politécnico de Coimbra|Escola Superior de Educação de Coimbra' WHERE Id='4aedfcb7-a2f9-4078-840e-b47d90ca53a2';
+UPDATE University SET Name='Universidade de Lisboa|Instituto Superior de Economia e Gestão' WHERE Id='2dd95f9b-48db-4911-a9f8-b59a5c3fd83a';
+UPDATE University SET Name='Universidade de Coimbra|Faculdade de Letras' WHERE Id='e5a101dc-5b27-40af-b679-b5bf2f4930c9';
+UPDATE University SET Name='Universidade Federal do Ceará', Deleted='0' WHERE Id='b6ccdcb9-cd23-4b35-a8ef-b64120036e62';
+UPDATE University SET Name='Instituto Politécnico de Viseu|Escola Superior de Tecnologia e Gestão de Viseu' WHERE Id='39beabd9-3acc-4774-9ae1-b6abcf453405';
+UPDATE University SET Name='Universidade Católica Portuguesa|Faculdade de Educação e Psicologia' WHERE Id='4653b5f8-fa69-4a4d-87aa-b6cdd53114df';
+UPDATE University SET Name='Universidade Federal do Rio Grande do Sul', Deleted='0' WHERE Id='2d0784d1-5bb3-40bd-a8be-b73ced72bb0d';
+UPDATE University SET Name='Universidade do Algarve|Escola Superior de Gestão, Hotelaria e Turismo' WHERE Id='e496eafc-8d00-4715-8ee6-b77693441e10';
+UPDATE University SET Name='Instituto Politécnico de Coimbra|Instituto Superior de Contabilidade e Administração de Coimbra' WHERE Id='71420de3-b1cf-4233-af6e-b7c3b0f161df';
+UPDATE University SET Name='Escola Superior de Educação de João de Deus' WHERE Id='22f33f30-1009-4256-a87c-b7d0dc702075';
+UPDATE University SET Name='Instituto Superior de Tecnologias Avançadas de Lisboa' WHERE Id='fad81387-af49-4e5a-899e-b7f248aa35b4';
+UPDATE University SET Name='Instituto Superior de Ciências Educativas do Douro' WHERE Id='71606218-1f9d-4cad-8c75-b8cb127f9be4';
+UPDATE University SET Name='Instituto Superior de Administração e Gestão', Deleted='0' WHERE Id='a50e59c1-f800-481f-83a1-b95f12cc07e8';
+UPDATE University SET Name='Universidade Salvador|Universidade Salvador', Deleted='0' WHERE Id='14326591-ef78-460e-8c3d-b987da2ffbdf';
+UPDATE University SET Name='Instituto Superior de Entre Douro e Vouga' WHERE Id='0797399e-f484-4589-8e29-bbb8574ff64b';
+UPDATE University SET Name='Universidade Portucalense Infante D. Henrique' WHERE Id='037f759e-b4ca-477b-861f-bbb9f253dd6b';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='42 Lisboa' WHERE Id='5daa9423-175f-41e6-a867-0c2f6595b463';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='42 Lisboa' WHERE Id='d1f3330b-00d0-41fa-aabc-14c0172853aa';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='42 Lisboa' WHERE Id='ce19f21d-835d-4081-b451-18282028f137';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='42 Lisboa' WHERE Id='e44fa606-4b11-4472-ae4f-1b1461b0b5f6';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='42 Lisboa' WHERE Id='f097b79b-d8a2-4fd7-b0d7-2e9bb5c69a05';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='42 Lisboa' WHERE Id='de0afe3b-4251-4bc5-8053-39266ab7db8d';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='42 Lisboa' WHERE Id='459b373a-8c0e-40a9-84d7-3b5faea9074b';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='42 Lisboa' WHERE Id='24a56dce-1b5f-4ff9-a442-4fa3f9c906ef';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='42 Lisboa' WHERE Id='4d1884a1-1093-4a16-a49c-52109c2f2b9e';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='42 Lisboa' WHERE Id='9fc5db13-dd28-473e-89cf-6d10b177b106';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='42 Lisboa' WHERE Id='846df0f4-2602-434e-be87-80a685f4db22';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='42 Lisboa' WHERE Id='8ebf472a-b5ee-407e-92f1-971e87b4744a';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='42 Lisboa' WHERE Id='07180956-6282-465e-b128-a8274d26dff0';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='42 Lisboa' WHERE Id='a556f0c1-7fe4-429d-bc3e-b3c819d6b4eb';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='42 Lisboa' WHERE Id='6dd171ed-3995-4d91-9a78-baa6a4a20ab0';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='42 Lisboa' WHERE Id='1b3b76b7-82f7-43c6-aff2-c26342f800fe';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='42 Lisboa' WHERE Id='49f103d4-6bcd-4add-aa28-c28e39a3a79b';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='42 Lisboa' WHERE Id='97b5dbed-4c7e-4f3e-b92d-d53a5bd5e530';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='42 Lisboa' WHERE Id='9c955278-ee2e-4d2b-9ee3-e128b8224779';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='42 Lisboa' WHERE Id='00e71155-4a07-4b2c-82d0-e66a9dec3fa2';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='42 Lisboa' WHERE Id='3d353bf3-212a-4e68-9a7a-ebb27a82c442';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='42 Lisboa' WHERE Id='21925ce1-0c5e-4db9-a365-f1074bfc0e0d';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='42 Lisboa' WHERE Id='8a72e3b5-d62f-435a-ae21-f45f444ee733';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='42 Lisboa' WHERE Id='95b9e3b0-b5d0-4723-8aa7-f92b53dced33';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='42 Lisboa' WHERE Id='de2cb704-e559-468c-ba39-ffb362bc2c68';
+DELETE FROM University WHERE Id='29a19d32-429f-4104-8e1b-bc52cd497be1;'
+UPDATE University SET Name='Universidade de Trás-os-Montes e Alto Douro', Deleted='0' WHERE Id='2401641f-db56-4a45-b6d7-bc9cbe902054';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Secundária Miguel Torga' WHERE Id='336cd804-e9bd-432d-a323-3818426df390';
+DELETE FROM University WHERE Id='3a33c4c0-4eb3-4263-acb9-bcde207e234e;'
+UPDATE University SET Name='Universidade do Porto|Faculdade de Desporto' WHERE Id='0d8b80fa-a29d-4ceb-a8cd-bce9c44f8f60';
+UPDATE University SET Name='Instituto Universitário Militar|Escola Naval' WHERE Id='28255ee5-c177-4755-87a0-bd0087b3363b';
+UPDATE University SET Name='Instituto Politécnico de Saúde do Norte|Escola Superior de Saúde do Vale do Ave' WHERE Id='8c0d3e46-2c45-4e84-9ad5-bd2d64d426ba';
+UPDATE University SET Name='Instituto Politécnico do Porto|Escola Superior de Saúde' WHERE Id='aaf3af50-f6a7-4a2d-830e-bf64b8e365d0';
+UPDATE University SET Name='Instituto Politécnico de Lisboa|Escola Superior de Educação' WHERE Id='454b8cf6-4c16-44cb-b051-bf8bcaa5c6c8';
+UPDATE University SET Name='Instituto Superior de Saúde' WHERE Id='d12b2090-4c3b-4778-a498-bfd0130fc69c';
+DELETE FROM University WHERE Id='880623ab-8f4b-4274-baa4-c063783cc230;'
+UPDATE University SET Name='Instituto Politécnico de Tomar|Escola Superior de Gestão de Tomar' WHERE Id='ea6f811d-b170-47f7-9023-c0a3dd8f9167';
+UPDATE University SET Name='Universidade de Lisboa|Instituto de Educação' WHERE Id='40c04ba2-00ce-4d43-a13c-c18df47d8487';
+UPDATE University SET Name='Universidade do Porto|Faculdade de Letras' WHERE Id='d880e9ff-92e5-406a-b460-c19906fb1ad1';
+UPDATE University SET Name='Universidade do Porto|Faculdade de Psicologia e de Ciências da Educação' WHERE Id='8519eb36-96c7-4fdd-bde1-c1e14363df4a';
+UPDATE University SET Name='Instituto Politécnico de Castelo Branco|Escola Superior de Gestão de Idanha-a-Nova' WHERE Id='3cd4fa68-e328-44ef-b304-c246679617f1';
+DELETE FROM UserEducationExperience WHERE Id='4bfd223e-d846-4829-b2be-e6bdfc7bd17b;'
+DELETE FROM University WHERE Id='a0726161-bc32-465f-a4c2-c287978f3626;'
+UPDATE University SET Name='Instituto Politécnico de Tomar', Deleted='0' WHERE Id='b570e616-9c65-4224-a22d-c2c5d70f60db';
+UPDATE University SET Name='Universidade de Lisboa|Faculdade de Letras' WHERE Id='42cebc1e-1292-42e7-9700-c3609f3b7df3';
+UPDATE University SET Name='Instituto Politécnico de Portalegre|Escola Superior de Tecnologia e Gestão' WHERE Id='652c9805-3866-4eb8-923e-c363aaa00f7c';
+UPDATE University SET Name='Instituto Politécnico de Lisboa|Escola Superior de Comunicação Social' WHERE Id='8c264561-0d29-41c1-aa8a-c39e331982b2';
+UPDATE University SET Name='Instituto Politécnico de Santarém|Escola Superior de Educação de Santarém' WHERE Id='066bbaea-b1b7-43a9-8dd2-c4066b25375d';
+UPDATE University SET Name='Centro Universitário AESO Barros Melo', Deleted='0' WHERE Id='2629b597-4c47-4f31-a2c5-c43e18c278dc';
+UPDATE University SET Name='Instituto Politécnico do Cávado e do Ave|Escola Superior de Hotelaria e Turismo' WHERE Id='b5ee12de-2ed7-487f-92ad-c5123e34ed8d';
+UPDATE University SET Name='Instituto de Estudos Superiores Financeiros e Fiscais', Deleted='0' WHERE Id='5afd2ba0-2be7-4979-9ed1-c538e4be25b8';
+UPDATE University SET Name='Universidade de Évora|Escola Superior de Enfermagem de São João de Deus' WHERE Id='d994459c-015f-418a-8127-c5e8b5958163';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Secundária D. Dinis' WHERE Id='b182fa55-d740-465a-82e3-704cfe44938d';
+DELETE FROM University WHERE Id='e5889ce5-34cc-4b80-b136-c6289e42c9ec;'
+UPDATE University SET Name='Instituto Politécnico de Setúbal|Escola Superior de Educação' WHERE Id='8f70e87a-4b21-4e5c-bcda-c646bea43303';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Profissional de Educação para o Desenvolvimento' WHERE Id='ab97127c-3f34-4ffa-aff0-879d96608642';
+DELETE FROM University WHERE Id='ac72afb7-c448-4e64-b147-c85608a2f028;'
+UPDATE University SET Name='Instituto Politécnico do Porto|Escola Superior de Educação' WHERE Id='189b546c-a03f-4c97-b0f2-c88f0cc95fa8';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Superior de Saúde Egas Moniz' WHERE Id='1ff9a1f2-0d3a-4fb1-86d3-38ad7bf2aab9';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Superior de Saúde Egas Moniz' WHERE Id='50b4b5db-5ee0-4816-9dee-8e93188b46d3';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Superior de Saúde Egas Moniz' WHERE Id='fb7d116c-10ad-4865-8aea-9e09e3af4aeb';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Superior de Saúde Egas Moniz' WHERE Id='7cd9a87d-303b-44d8-8f78-abb2272c980e';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Superior de Saúde Egas Moniz' WHERE Id='fbdebf00-e8c3-4fd6-9573-cc6b2a2be8c9';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Superior de Saúde Egas Moniz' WHERE Id='73994fe0-3fd8-4f59-aa6d-ea6db91c7879';
+DELETE FROM University WHERE Id='7fa8d208-5ab8-4a04-ba55-c8cfa6b4437a;'
+UPDATE University SET Name='Universidade Federal do Rio Grande do Sul' WHERE Id='cfd67c1c-ef3d-4944-95ea-cafdd531eac3';
+UPDATE University SET Name='Instituto Universitário da Maia', Deleted='0' WHERE Id='d9585e30-7275-48d6-bd7a-cb006db40986';
+UPDATE University SET Name='Instituto Universitário de Lisboa|Instituto Universitário de Lisboa' WHERE Id='8af3f9dd-8ce2-43e4-9316-cbeaf1c1c7e7';
+UPDATE University SET Name='IE Business School', Deleted='0' WHERE Id='e9a5e7e2-5ea7-4146-b949-cc082e16499c';
+UPDATE University SET Name='Escola Superior de Saúde do Alcoitão' WHERE Id='68f57e84-f6cc-4fab-a800-cc16d76cf5ce';
+UPDATE University SET Name='Universidade Católica Portuguesa|Faculdade de Teologia' WHERE Id='57b182d6-fe53-4345-ac45-ccb6dac8bbee';
+UPDATE University SET Name='Instituto Politécnico da Guarda|Escola Superior de Saúde da Guarda' WHERE Id='e0da7fb0-2ebf-40f8-bfaf-ccdd68171833';
+UPDATE University SET Name='Universidade Lusíada' WHERE Id='b82f8345-f53a-4ed1-8c50-cd4bc9a7743a';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Básica E secundária Ribeiro Sanches' WHERE Id='96171b78-60e0-4146-afe6-af4e931d3d5a';
+DELETE FROM University WHERE Id='c0a3d398-d9bd-4a6b-9978-cdc8800d28f6;'
+DELETE FROM UserEducationExperience WHERE Id='f82671aa-928e-4709-9247-53a31e993013;'
+DELETE FROM University WHERE Id='2cf55041-30ac-41ca-8220-cdd0998a6aee;'
+UPDATE University SET Name='Instituto Politécnico de Bragança|Escola Superior de Comunicação, Administração e Turismo de Mirandela' WHERE Id='b24b0e30-6381-46b8-8756-ce1438b90373';
+UPDATE University SET Name='Universidade de Lisboa|Faculdade de Farmácia', Deleted='0' WHERE Id='1e3fed5b-0c29-4c8b-a663-ce6febe65c73';
+UPDATE University SET Name='Universidade de Lisboa|Faculdade de Psicologia' WHERE Id='e5e2c8d7-5ef3-4f46-b555-cec95fdbed96';
+UPDATE University SET Name='Universidade de Aveiro|Escola Superior de Saúde de Aveiro' WHERE Id='248cfb53-6236-4b6a-8e1c-cf2f2674322e';
+UPDATE University SET Name='Universidade dos Açores|Faculdade de Ciências Sociais e Humanas' WHERE Id='f83a4384-dcf9-43ec-8b91-cfe5dc1adaaa';
+UPDATE University SET Name='Instituto Politécnico de Viana do Castelo|Escola Superior Agrária' WHERE Id='31e572aa-bc0b-41ce-8425-d0add4e88b0b';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Secundária Emídio Navarro, Almada' WHERE Id='6d44f4e1-4fca-4387-b794-56017cb59653';
+DELETE FROM University WHERE Id='63c1e7cb-9d03-4a41-8794-d0b53d40212d;'
+UPDATE University SET Name='Universidade Aberta Lisboa', Deleted='0' WHERE Id='23db6208-bafe-4a63-b981-d0bf4f3083ea';
+UPDATE University SET Name='Centro Universitário da Fundação Educacional Inaciana', Deleted='0' WHERE Id='9791475d-4655-441e-ba97-d0c289ccd7ed';
+UPDATE University SET Name='Escola Superior de Saúde Jean Piaget de Vila Nova de Gaia' WHERE Id='487eb0de-7b3e-45d3-972f-d16344dd96aa';
+UPDATE University SET Name='Kozminski University|Akademia Leona Kozminskiego', Deleted='0' WHERE Id='bf4dab5d-6289-4bfb-94b9-d1bf24d8264a';
+UPDATE University SET Name='Universidade de Aveiro|Escola Superior de Design, Gestão e Tecnologia da Produção de Aveiro-Norte' WHERE Id='f72c8b66-2622-4464-9b61-d2119410cf1b';
+DELETE FROM UserEducationExperience WHERE Id='af8ae1ef-84b5-4413-a294-63f169afae85;'
+DELETE FROM University WHERE Id='205d151d-f268-4b63-8d3d-d23b01d4a28c;'
+UPDATE University SET Name='Escola Superior de Enfermagem do Porto' WHERE Id='6b6c4d8d-7c0a-4c54-a018-d4024db34244';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='GlobalNet' WHERE Id='6221232c-d56d-4a41-9a79-0100da8c1f86';
+DELETE FROM University WHERE Id='e406af62-90c0-4f65-ab6c-d567b9e7507a;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Secundária do Forte da Casa' WHERE Id='f108c5f3-3d90-4484-b1e8-740456c67e08';
+DELETE FROM University WHERE Id='aecc083e-2488-4cbf-bf1f-d6b56704e685;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='CEFAD' WHERE Id='71949ee1-6370-4ce6-91a2-8e6d87b9167c';
+DELETE FROM University WHERE Id='269b8085-6442-4fdb-8167-d7013b53a98b;'
+UPDATE University SET Name='Universidade do Porto|Faculdade de Direito' WHERE Id='fd12a6ca-b321-4db8-93fd-d76d1381cf31';
+UPDATE University SET Name='Universidade Federal de Minas Gerais' WHERE Id='4b827195-131e-436e-8c16-d80b89ae1536';
+UPDATE University SET Name='Universidade do Algarve|Faculdade de Ciências Humanas e Sociais' WHERE Id='e5705770-19a4-441d-952e-d825a895b932';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola de Ensino Médio e Técnico' WHERE Id='cb41452a-3ff1-4353-8dfd-4dfae547208d';
+DELETE FROM University WHERE Id='9568431b-9d45-4b36-9c14-d8cf6f607bb0;'
+UPDATE University SET Name='Universidade de Lisboa|Instituto Superior de Ciências Sociais e Políticas', Deleted='0' WHERE Id='c8dbb07a-2f6e-4fde-8deb-da10a354551a';
+UPDATE University SET Name='Escola Universitária Vasco da Gama' WHERE Id='6ddc8bdb-0b0d-4d32-8e77-da199f851671';
+UPDATE University SET Name='Universidade do Algarve|Faculdade de Ciências e Tecnologia' WHERE Id='408a3237-9dd7-4b0c-91f7-da433616480d';
+UPDATE University SET Name='Instituto Politécnico de Leiria|Escola Superior de Turismo e Tecnologia do Mar' WHERE Id='42ac0fbe-b670-4871-888c-db57a9a3b6d3';
+UPDATE University SET Name='Universidade Católica Portuguesa|Escola Superior Politécnica de Saúde (Lisboa)' WHERE Id='7b518d97-cb07-4e76-8e10-dba0f317347d';
+UPDATE University SET Name='Universidade Cesumar' WHERE Id='0cf9afb3-ea30-4c67-b4ac-dbe127b8e81a';
+UPDATE University SET Name='Universidade Federal de São Paulo', Deleted='0' WHERE Id='2e0804ff-cd5d-4058-8790-dc9ee5829dd4';
+UPDATE University SET Name='Universidade de Lisboa|Instituto Superior de Economia e Gestão', Deleted='0' WHERE Id='92e28a58-9bac-415a-83c0-dce38872c20e';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Europeia de Ensino Profissional' WHERE Id='0586e2ed-f131-46dd-be80-d7f6e147c354';
+DELETE FROM University WHERE Id='c4b8c934-a8e9-4964-8dfb-dd4eb4489293;'
+UPDATE University SET Name='Instituto Politécnico de Viana do Castelo|Escola Superior de Saúde' WHERE Id='2cb33082-0ef5-4b93-b503-dd4ff69c2566';
+UPDATE University SET Name='Universidade Atlântica|Esc. Univ. de Ciências Empresariais, Saúde, Tecnologias e Engenharia' WHERE Id='a2ba9cf3-0e7d-4731-9e59-dd92bcac7c3e';
+UPDATE University SET Name='Escola Superior de Saúde Atlântica' WHERE Id='211b3029-66da-4e28-a814-de991258c38e';
+UPDATE University SET Name='Instituto Politécnico da Guarda|Escola Superior de Tecnologia e Gestão' WHERE Id='803b5596-980c-449d-b883-deede52c7af9';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Instituto do Emprego e Formação Profissional' WHERE Id='a092917c-b89a-4045-abf2-0d60c0fa560e';
+DELETE FROM University WHERE Id='fe34d2b8-1a74-4cc2-b2b2-df88ed113cd1;'
+UPDATE University SET Name='Universidade da Madeira|Faculdade de Ciências da Vida' WHERE Id='8e6842a6-1158-4287-b9e1-e072b4b7a623';
+UPDATE University SET Name='Victoria University', Deleted='0' WHERE Id='7e774607-8fed-4448-b14a-e0d55619b0ea';
+UPDATE University SET Name='Escola Superior de Enfermagem São Francisco das Misericórdias' WHERE Id='4c5aa7c0-b21d-42ae-b0a5-e0ff8cb3613a';
+UPDATE University SET Name='Universidade de Trás-os-Montes e Alto Douro|Escola de Ciências e Tecnologia' WHERE Id='c1cc382a-9b25-4b90-ab1b-e2424e09e408';
+UPDATE University SET Name='Instituto Politécnico de Saúde do Norte' WHERE Id='537ca5fa-f458-44a4-9199-e286dde92651';
+UPDATE University SET Name='Universidade Católica Portuguesa|Escola das Artes' WHERE Id='5f06ba1c-8654-494f-85bf-e2a7e121e554';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Colégio Nossa Senhora da Graça' WHERE Id='e84bc38d-7857-4595-bb69-945a4f3ed406';
+DELETE FROM University WHERE Id='930d4652-6108-4137-87c0-e343c3a2de82;'
+UPDATE University SET Name='Universidade de Lisboa|Faculdade de Farmácia' WHERE Id='0522c2c5-b5a1-493d-b39b-e386a2f6b538';
+UPDATE University SET Name='Instituto Politécnico de Setúbal|Escola Superior de Ciências Empresariais' WHERE Id='5a7ec080-6348-4aed-9c08-e3c89316d8fc';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Universidade Medicina Chinesa' WHERE Id='bb8db241-f055-4bb4-9bbb-8451994058a2';
+DELETE FROM University WHERE Id='4ac8b3ad-f1d2-45ca-a250-e49e97de07dc;'
+UPDATE University SET Name='Instituto Politécnico do Porto|Instituto Superior de Engenharia do Porto' WHERE Id='bbceb159-5b4e-48cf-8ad2-e50830f66941';
+UPDATE University SET Name='Universidade Fernando Pessoa|Escola Superior de Saúde' WHERE Id='65ba9098-855a-4964-8de8-e68481a5e6df';
+UPDATE University SET Name='Università di Padova', Deleted='0' WHERE Id='849a82ed-b13a-49df-adb1-e71560fe9f5f';
+UPDATE University SET Name='Universidade Católica Portuguesa|Faculdade de Teologia (Braga)' WHERE Id='a14dd991-55a0-4169-8fa5-e862979f64ca';
+UPDATE University SET Name='Universidade de Brasília', Deleted='0' WHERE Id='6915f3e5-ded8-421c-97dd-e87e22c36aad';
+UPDATE University SET Name='Universidade dos Açores|Faculdade de Ciências Agrárias e do Ambiente' WHERE Id='d0898f68-5ba0-4932-a8db-e8849881ca5c';
+UPDATE University SET Name='Universidade de Lisboa|Faculdade de Medicina Dentária' WHERE Id='d2f52d03-3399-4ee3-a39a-e93dfd8f4454';
+UPDATE University SET Name='Escola Superior Náutica Infante D. Henrique' WHERE Id='1012ac33-a349-4f73-9a08-e94d10be6c01';
+UPDATE University SET Name='Instituto Politécnico da Maia|Escola Superior de Ciências Sociais, Educação e Desporto' WHERE Id='7e88b525-f93e-44f2-a3b7-ea39e30bfe00';
+UPDATE University SET Name='Instituto Português de Administração de Marketing do Porto', Deleted='0' WHERE Id='1bb47884-2085-47ba-b09b-ea5ad799aaab';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Secundária José Régio' WHERE Id='572a1d67-65e7-4df7-bfe3-ab36feabd46b';
+DELETE FROM University WHERE Id='639ccb9e-1cd7-4406-8744-ea67cc3e247d;'
+DELETE FROM University WHERE Id='afc3accd-5ab2-4395-8501-ec4a4d1b755f;'
+UPDATE University SET Name='Instituto Superior de Administração e Gestão' WHERE Id='86523422-fa05-4efd-9fd1-ec6acab5e0e2';
+UPDATE University SET Name='Universidade do Porto|Faculdade de Economia' WHERE Id='13066d50-c17a-44d4-b36c-ece51c1757c9';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Colégio de São Miguel' WHERE Id='e821cca8-4600-412b-9d70-494c77ca7760';
+DELETE FROM University WHERE Id='923fab28-5fdf-4bbd-992a-ee7c2a5266a1;'
+UPDATE University SET Name='Instituto Politécnico da Guarda|Escola Superior de Educação, Comunicação e Desporto' WHERE Id='33f5d220-9d31-47a0-9c83-eee217535b9e';
+UPDATE University SET Name='Escola Superior de Enfermagem de São José de Cluny' WHERE Id='fc785ad1-0969-4af4-aa7e-ef63e5c77b07';
+UPDATE University SET Name='Instituto Politécnico de Bragança|Escola Superior Agrária de Bragança' WHERE Id='c8c35221-cbca-4ab2-93e0-efded34f1cd5';
+UPDATE University SET Name='Instituto Universitário Egas Moniz' WHERE Id='6ce49532-36dd-43f0-add1-f07b70702524';
+UPDATE University SET Name='Universidade Católica Portuguesa|Faculdade de Ciências Económicas e Empresariais' WHERE Id='d61ad1d4-dca3-4755-a29c-f11e678feeab';
+UPDATE University SET Name='Instituto Politécnico da Lusofonia|Escola Superior de Saúde Ribeiro Sanches' WHERE Id='e7d61583-f5fa-4d19-aa82-f12085528744';
+UPDATE University SET Name='Universidade Católica Portuguesa|Escola Superior Politécnica de Saúde (Porto)' WHERE Id='7c50eef9-158f-451c-8794-f125d93af678';
+UPDATE University SET Name='Instituto Politécnico de Lisboa|Instituto Superior de Contabilidade e Administração de Lisboa', Deleted='0' WHERE Id='ef4d2b8d-0b62-49f1-b1ef-f1e120f428a6';
+UPDATE University SET Name='Instituto dos Pupilos do Exército', Deleted='0' WHERE Id='6bf37e0a-5570-4b4e-a168-f2e45faa2464';
+UPDATE University SET Name='Universidade Católica Portuguesa|Faculdade de Economia e Gestão' WHERE Id='d43929fb-5b34-4bc3-a7e9-f3f36eb69212';
+UPDATE University SET Name='Katholische Universität Eichstätt|Ingolstadt' WHERE Id='17d45d4a-ea54-494c-a25d-f4c74339ef11';
+UPDATE University SET Name='Universidade de Lisboa|Faculdade de Ciências', Deleted='0' WHERE Id='8e2dc04c-8718-46e9-b0d8-f6ac362d220c';
+UPDATE University SET Name='University of Derby' WHERE Id='23dc6e27-08ec-4b7c-92c3-f6d1cba6cc71';
+UPDATE University SET Name='Instituto Politécnico de Setúbal|Escola Superior de Tecnologia de Setúbal' WHERE Id='edad1cea-eef6-432e-a196-f6e9f12b4b7a';
+UPDATE University SET Name='Instituto Politécnico do Cávado e do Ave|Escola Superior de Design' WHERE Id='c5703ecb-ea39-41ba-b18f-f728c648201a';
+UPDATE University SET Name='Instituto Superior de Serviço Social do Porto' WHERE Id='d39c2766-504e-43e5-b0d5-f7c83ef21662';
+UPDATE University SET Name='Universidade de Lisboa|Instituto Superior de Ciências Sociais e Políticas' WHERE Id='70ed0f4b-a0cb-4e83-9ecf-f80a34a1164f';
+UPDATE University SET Name='Instituto Politécnico de Viseu|Escola Superior de Tecnologia e Gestão de Lamego' WHERE Id='257f38f7-995d-4bd0-851d-f80df48dffe9';
+UPDATE University SET Name='Universidade Nova de Lisboa|Faculdade de Direito' WHERE Id='3dfbc40c-27bd-43f7-bf73-f86a88270a0e';
+UPDATE University SET Name='Universidade de Aveiro|Instituto Superior de Contabilidade e Administração de Aveiro' WHERE Id='acd84050-dc79-4310-a86c-f909088b0415';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola secundária Marquesa da Alorna' WHERE Id='df221d93-6d7d-48e4-b02f-9bef78ac4605';
+DELETE FROM University WHERE Id='423d6448-e1e6-45f0-a5f4-f9370a602b9d;'
+UPDATE University SET Name='Universidade Católica Portuguesa|Instituto de Estudos Políticos' WHERE Id='ed8ca8bb-99a9-431c-bb59-f9558fd14416';
+UPDATE University SET Name='Instituto Superior de Línguas e Administração' WHERE Id='f4c8a8ff-2bbe-4e7f-a46a-f98642b8613e';
+UPDATE University SET Name='Universidade da Madeira|Escola Superior de Saúde' WHERE Id='a1107698-c74c-470e-b4d8-f9b07b49e874';
+UPDATE University SET Name='Escola Superior de Saúde de Santa Maria' WHERE Id='a2d372cb-b513-44c2-bda7-f9b2e10d0ac3';
+UPDATE University SET Name='Universidade Federal de Pernambuco', Deleted='0' WHERE Id='ea037857-e8f8-4cf7-83e5-fae37ad00e3d';
+UPDATE University SET Name='Instituto Universitário de Ciências Psicológicas, Sociais e da Vida' WHERE Id='a05f9eb2-b483-4b36-925a-fcfa25c88b9a';
+UPDATE University SET Name='Universidade de Aveiro|Escola Superior de Tecnologia e Gestão de Águeda', Deleted='0' WHERE Id='49e96891-fc13-4757-a385-fdc393ae6280';
+UPDATE University SET Name='Universidade do Algarve|Escola Superior de Gestão, Hotelaria e Turismo (Portimão)' WHERE Id='80e558a7-9d8c-46ee-9430-fdcb2798d21e';
+UPDATE University SET Name='Instituto Politécnico de Leiria|Escola Superior Artes e Design' WHERE Id='5a88147a-bb06-4753-bb01-fe098469be5a';
+UPDATE University SET Name='Instituto Politécnico de Lisboa|Instituto Superior de Contabilidade e Administração de Lisboa' WHERE Id='6641a4bd-e7c0-40e9-bbb2-fe457bccd299';
+DELETE FROM UserEducationExperience WHERE Id='d3e38a23-765d-4cae-8738-2f48de38a5ef;'
+DELETE FROM UserEducationExperience WHERE Id='cdd7a57c-0a88-402c-8b01-32899f1ef50c;'
+DELETE FROM UserEducationExperience WHERE Id='c94f215a-6e30-41b4-a311-34857e894776;'
+DELETE FROM UserEducationExperience WHERE Id='96e27ffd-d39c-4a6e-b303-729328fdafcc;'
+DELETE FROM UserEducationExperience WHERE Id='c63b39dd-17f3-48e1-8a33-87724069d55b;'
+DELETE FROM UserEducationExperience WHERE Id='f5ffd015-4cf4-4d27-bcef-98c1f652eb64;'
+DELETE FROM UserEducationExperience WHERE Id='f2da751c-6bdb-45f8-bffa-d4ee34175517;'
+DELETE FROM UserEducationExperience WHERE Id='0dee07ed-bd67-44c8-8c3d-dd79a47a68bb;'
+DELETE FROM UserEducationExperience WHERE Id='05faeaa9-e9a5-49ee-9fe2-e023399fa1d5;'
+DELETE FROM University WHERE Id='6e1cd0f3-df0c-4b84-a8f3-febc7f5253c0;'
+UPDATE University SET Name='Instituto Universitário Militar|Academia Militar' WHERE Id='cdacb876-ca99-4885-91da-febd806b5f12';
+UPDATE University SET Name='Instituto Politécnico de Beja|Escola Superior de Saúde' WHERE Id='fa001129-5e8e-4440-91dd-fed1790f0f04';
+UPDATE University SET Name='Universidade de Aveiro', Deleted='0' WHERE Id='36c8a5da-a8d8-4849-9f5e-ff2dcb1e5243';
+UPDATE University SET Name='Universidade do Algarve|Escola Superior de Educação e Comunicação' WHERE Id='e82a43bc-4bec-4a8d-a99b-ff527edf605c';
+UPDATE University SET Name='Instituto Politécnico de Gestão e Tecnologia' WHERE Id='f6cd80aa-de34-4230-931d-ff863e68ef26';
+DELETE FROM UserEducationExperience WHERE Id='a5f4d968-aa59-4e0e-86cc-fe4ea8d44255;'
+DELETE FROM University WHERE Id='be7c817a-e429-4668-acee-01cd7f50569f;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Secundaria de Fontes Pereira de Melo' WHERE Id='7a910fb0-4af0-4886-9c0c-8f316ecd10f5';
+DELETE FROM University WHERE Id='269b8aff-c6fc-4441-bbfb-1be47f1cff70;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Profissional Santa Casa da Misericórdia de Ponta Delgada' WHERE Id='9e597b2f-41b2-4b5d-8260-181c1fa72123';
+DELETE FROM University WHERE Id='a4c75a51-c42b-40df-b3d2-297e20106d32;'
+UPDATE University SET Name='Instituto Politécnico de Coimbra|Escola Superior de Tecnologia da Saúde', Deleted='0' WHERE Id='8d749bac-b2c4-44b1-9d39-2ae91a020529';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Senac RS' WHERE Id='7e81bc04-6f5c-4542-9c65-a629b9657688';
+DELETE FROM University WHERE Id='fe49fb24-604d-40eb-a245-3268ae1f087d;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola secundária águas santas' WHERE Id='693cf161-c284-40d0-8ba8-db749d3eae7e';
+DELETE FROM University WHERE Id='a5b703d2-5b76-41ff-8cb0-71512bbb41d2;'
+DELETE FROM UserEducationExperience WHERE Id='6e7affef-44de-4526-9a74-76cfe86f5ebd;'
+DELETE FROM University WHERE Id='429cebaa-c883-42ee-aeee-994430ccaf1e;'
+UPDATE University SET Name='Universidade Tecnológica Federal do Paraná', Deleted='0' WHERE Id='e74c65cf-ba95-4340-a883-cd11b66a6288';
+UPDATE University SET Name='Universidade Católica Portuguesa', Deleted='0' WHERE Id='8c718d9a-f2c8-4405-9677-fc14282309dc';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola secundária Baixa da Banheira' WHERE Id='d2d7b5d5-ff65-4084-877f-a1986d5066de';
+DELETE FROM University WHERE Id='80744f3f-3d18-43a5-a40d-00c4ded97871;'
+UPDATE University SET Name='Universidade de Trás-os-Montes e Alto Douro', Deleted='0' WHERE Id='16c03076-c19f-4590-8b30-06d0c9dd26ab';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Grande Colégio Universal' WHERE Id='7254912d-77ae-4ac2-b11c-a2ae16bb217a';
+DELETE FROM University WHERE Id='5acc617b-b19d-416e-bf74-0825469514b3;'
+UPDATE University SET Name='Universidad Alejandro De Humboldt', Deleted='0' WHERE Id='21f2aa09-1997-4370-8e1e-0836272f9438';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='CEN' WHERE Id='f9b449ce-301a-41a7-ba36-f1dfb7ff3de9';
+DELETE FROM University WHERE Id='8457d785-634a-4a87-a2d2-0a336af2cd1c;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola secundária severim de faria' WHERE Id='9036298e-a8d5-4fd7-b6f9-4053714ebcdf';
+DELETE FROM University WHERE Id='d17d39e2-a1c0-41f8-aae6-0d5912420d10;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Agrupamento de Escolas Lima de Freitas' WHERE Id='e00eb798-25ae-4b68-b181-7fcc9a5edd25';
+DELETE FROM University WHERE Id='3876f69e-5181-4863-a1ab-0e903a7c0aa0;'
+UPDATE University SET Name='University of Brighton', Deleted='0' WHERE Id='2c8e25a2-9c31-43bf-b65f-1017ccfcc32d';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Profissionalizante Santo Agostinho' WHERE Id='73f8255b-2619-4ed7-8887-8e7f3f2e258a';
+DELETE FROM University WHERE Id='08087f13-02ad-422f-8238-111bd2a25db7;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Profissional de Desenvolvimento Rural de Abrantes' WHERE Id='15421855-3572-4c23-80e2-213b929102bb';
+DELETE FROM University WHERE Id='8dbcd3aa-5f5e-452e-a470-11864110caeb;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola secundária  Raul Proença' WHERE Id='c109b4e9-085d-456f-bf31-54223c14f6c7';
+DELETE FROM University WHERE Id='672686ed-54d4-449c-810b-11f834a38d4e;'
+UPDATE University SET Name='Universidade de Lisboa|Faculdade de Medicina Dentária', Deleted='0' WHERE Id='024e717c-d314-4a1e-a9e0-13791c2d02e7';
+UPDATE University SET Name='Universiteit Gent', Deleted='0' WHERE Id='7b73c7f8-e0aa-45c4-b246-1bbe53edd60c';
+DELETE FROM UserEducationExperience WHERE Id='fe675d19-48ac-44ce-b716-c06058e82a59;'
+DELETE FROM University WHERE Id='c4b0e9f5-5871-41b8-8733-232905528c3a;'
+UPDATE University SET Name='Universidade do Minho|Escola de Economia e de Gestão', Deleted='0' WHERE Id='bdb32b7d-112f-4b5e-90c5-307a7f5d40d6';
+UPDATE University SET Name='Universidade do Minho|Escola de Psicologia', Deleted='0' WHERE Id='27a5b852-1e8f-44ea-aaf1-30c7776c4ace';
+UPDATE University SET Name='Instituto Politécnico de Castelo Branco|Escola Superior de Artes Aplicadas', Deleted='0' WHERE Id='489e8f8e-1683-4df4-8857-3d1227671d2a';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escolas do Turismo de Portugal' WHERE Id='8ccf7be8-29ac-4e14-a38d-906bb4ff58c0';
+DELETE FROM University WHERE Id='53ba88c2-d289-4e6b-adca-4b4aed24eb9d;'
+UPDATE University SET Name='Universidade de Lisboa|Instituto Superior de Ciências Sociais e Políticas', Deleted='0' WHERE Id='97fd03e1-7a23-4180-84e4-4bf73773f7ed';
+UPDATE University SET Name='Universidade de Trás-os-Montes e Alto Douro', Deleted='0' WHERE Id='91f43953-52a3-4520-8a4a-4c8693d8300c';
+UPDATE University SET Name='University of Lancaster', Deleted='0' WHERE Id='4f09fa8a-f70b-4c99-94d2-4d72f868a099';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Profissional de Alvito' WHERE Id='fab0f4e7-c4aa-41fd-89be-8427db3b89ee';
+DELETE FROM University WHERE Id='9bcd1b77-2c11-4b90-87c6-50dc440d7b68;'
+UPDATE University SET Name='Universidade de Cuiabá|UNIC Beira Rio', Deleted='0' WHERE Id='df3fa318-5cb7-48d1-a3f5-62d7c1bc4c5f';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Centro Formação Talento' WHERE Id='34850a71-c41d-4d0b-9b7d-846394635c25';
+DELETE FROM University WHERE Id='0557201a-df51-4296-a88a-69605a59bec5;'
+DELETE FROM UserEducationExperience WHERE Id='fc130f5a-1814-4726-9aea-58f000aa722e;'
+DELETE FROM University WHERE Id='dd8baa03-ce85-4c70-9d88-726964a1365d;'
+UPDATE University SET Name='Universidade TAP', Deleted='0' WHERE Id='5811c8e7-2cd4-49f9-86f6-7641ecbd0963';
+DELETE FROM UserEducationExperience WHERE Id='9f16771b-4f2e-4b1c-ac1f-2c67690e5eed;'
+DELETE FROM University WHERE Id='576569d6-0315-4d67-a32e-775a9c62e57d;'
+UPDATE University SET Name='Instituto Politécnico do Porto|Instituto Superior de Engenharia do Porto', Deleted='0' WHERE Id='a589026c-1cfb-43df-82eb-7896d1958bbc';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Profissional do Centro Juvenil de Campanhã' WHERE Id='ae4313c2-6fce-4812-a1f7-c171606a9cc6';
+DELETE FROM University WHERE Id='c749bf62-30a7-4409-b9db-79f0b5257977;'
+UPDATE University SET Name='Universidade Católica de Moçambique', Deleted='0' WHERE Id='f281a3de-60cb-4dbe-a74e-7d1578360ddb';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola secundária José Estevão' WHERE Id='c19e270e-abc6-47a6-824f-a8c6bd693084';
+DELETE FROM University WHERE Id='c43fea4e-97cd-4943-a76f-8235ca6c3d7f;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Secundária de Tomaz Pelayo' WHERE Id='29809ed9-a262-4f7b-814a-05c482a52906';
+DELETE FROM University WHERE Id='47c518bf-773a-4687-b2e3-828c9d40d5d2;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Secundaria Santo André' WHERE Id='8cad0684-efe9-4bd4-88b3-c09f60c4788b';
+DELETE FROM University WHERE Id='32afb56c-f521-42ab-b0b7-82e29a379184;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola secundária Dom Manuel Martins' WHERE Id='d9dd7470-4d72-428c-b7b6-73140767220b';
+DELETE FROM University WHERE Id='8dbfd9ce-947b-4635-98a3-86b62f395b20;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Serviço Nacional de Aprendizagem Comercial' WHERE Id='d6d99824-272d-4c54-a544-92e912e9758f';
+DELETE FROM University WHERE Id='9b7bc754-3a5d-4736-83d2-86c774c7a278;'
+UPDATE University SET Name='Universidade de Trás-os-Montes e Alto Douro', Deleted='0' WHERE Id='db32f0cf-ecd7-43fe-b831-87b57f412c57';
+UPDATE University SET Name='Universidade Vale do Rio dos Sinos', Deleted='0' WHERE Id='fc3081c7-0dc9-4ba2-9039-9102dfd4c6c1';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Instituto Do it better do Porto' WHERE Id='51350839-c9ac-48d0-b3af-598cd5a4a84f';
+DELETE FROM University WHERE Id='f0107305-1ade-42b2-9828-91eab687e78b;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Colégio Kitabu' WHERE Id='ff251019-2124-41e9-bdd2-ab6e56b45017';
+DELETE FROM University WHERE Id='3f3c1442-7953-4554-9c12-94baac679ff2;'
+UPDATE University SET Name='University of Exeter', Deleted='0' WHERE Id='b9449ebc-e42a-4f6c-ae02-9c0bf4c9fffc';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Inete Instituto De Educação Tecnica' WHERE Id='c2bde968-2d3c-4b31-9c0a-90a4d004f203';
+DELETE FROM University WHERE Id='5be005c1-79f5-467d-9631-a0837e1f7c3b;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='INETESE' WHERE Id='fdc78dd1-6107-4e41-8cc7-0f0b11e7a5c8';
+DELETE FROM University WHERE Id='d71ea4fb-2100-4dd2-a00c-a2dd5f44a55e;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='ESMA' WHERE Id='8c77c1f7-d350-4d45-b25b-1c79fb605d3e';
+DELETE FROM University WHERE Id='82489160-e4e7-4909-a7ce-a5eec2c675ff;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Centro de Formação Profissional da Indústria Electrónica, Energia, Telecomunicações e Tecnologias da Informação' WHERE Id='7a66473e-0395-42d5-a910-24c4c55447f0';
+DELETE FROM University WHERE Id='43f430e5-c17f-4384-958e-abd6fa2982ec;'
+UPDATE University SET Name='Keele University', Deleted='0' WHERE Id='a3cb8f25-c90b-4fef-b5ef-ae8b0ee9bce6';
+UPDATE University SET Name='Universidade de Coimbra|Faculdade de Ciências e Tecnologia', Deleted='0' WHERE Id='195b799a-5e08-42fb-b20b-b342cf4447a4';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='ATEC' WHERE Id='1d0d55b9-baf7-4138-9ffd-0d92719a9626';
+DELETE FROM University WHERE Id='471fa5ca-99f8-4752-9ecc-b4b2304f0081;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Secundária de Alvide' WHERE Id='332e3b17-e05f-4ecf-95c4-9d2b944815b2';
+DELETE FROM University WHERE Id='dacf8a90-98c6-4fec-8473-b6183bd49555;'
+UPDATE University SET Name='Universidade Federal de Minas Gerais', Deleted='0' WHERE Id='dfafe858-c418-430d-8de3-b65256cb3ace';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Tecnológica, Artística e Profissional de Pomba' WHERE Id='e58ee6a6-27be-4325-a3f2-6d27610524a0';
+DELETE FROM University WHERE Id='4e0ab46e-e606-4787-96a1-b8558c7465ab;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola profissional de Torres Novas' WHERE Id='be19b3b8-a1a6-4543-bdbd-d0770a2523d7';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola profissional de Torres Novas' WHERE Id='096edeb8-4baa-4240-b210-d4d0388d04d2';
+DELETE FROM University WHERE Id='c3248cac-8bab-4bf6-ab02-bc53a1a48156;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Instituto Português De Línguas e Novas Tecnologias' WHERE Id='813a0551-60af-4403-aa77-b2b4d7bab7c2';
+DELETE FROM University WHERE Id='8007c9f4-17f4-4626-be25-be7404581c4d;'
+UPDATE University SET Name='Anhanguera Educacional', Deleted='0' WHERE Id='245ce908-6478-4deb-b14b-c1532047d652';
+UPDATE University SET Name='Instituto Politécnico do Porto|Escola Superior de Saúde', Deleted='0' WHERE Id='5f297c24-48b0-495a-a518-c3448634004d';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Agrupamento de Escolas Professor Reynaldo dos Santos' WHERE Id='0568e637-a161-41c9-9d23-47ba0b157a2a';
+DELETE FROM University WHERE Id='125b19f1-0a63-4f51-8510-c62a686639d1;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola secundária Inês de Castro' WHERE Id='82f35e9b-db20-4037-b741-959b038b6632';
+DELETE FROM University WHERE Id='6852b107-a093-4d58-b07d-c65c7733dd99;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola secundária de Felgueiras' WHERE Id='d085eb9f-6391-46ea-94aa-f0aeb580b8b1';
+DELETE FROM University WHERE Id='674bae40-f013-4ded-bd6c-c86107edd3fa;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Secundária Felgueiras' WHERE Id='fa7459c8-633a-4fc8-8458-a3b03d26ba16';
+DELETE FROM University WHERE Id='683e0f46-37a7-4c64-8db3-c8f08e346ad9;'
+UPDATE University SET Name='University of Portsmouth', Deleted='0' WHERE Id='4e8fc0fd-5c1b-4da9-9a18-de9261a7c4bd';
+DELETE FROM UserEducationExperience WHERE Id='6e76f6b0-46ae-49bd-8fae-88b039cce109;'
+DELETE FROM University WHERE Id='d19149fe-cc1e-4fe2-a0ee-dfce5b9f4c88;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Centro de Estudos Internacional' WHERE Id='7c6f8ffc-298f-4bb3-9b92-2932fe818d85';
+DELETE FROM University WHERE Id='e72e9ba6-4119-438e-9a53-e81732d968e5;'
+UPDATE University SET Name='Open University', Deleted='0' WHERE Id='b2ca176b-d1cf-4f05-87c0-ebd07e12de15';
+UPDATE University SET Name='Universidad de Vigo', Deleted='0' WHERE Id='097663a4-a17d-4e50-b9f6-f668abae3e05';
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola secundária padre Alberto neto' WHERE Id='58912072-904c-4fa5-93ab-ffac17ce39ea';
+DELETE FROM University WHERE Id='b23be558-ab24-40d9-9d35-f8d6bfa01ce0;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Profissional de Braga' WHERE Id='a68ba2fd-38e2-410f-8fc2-1df9edd7a2ec';
+DELETE FROM University WHERE Id='5c517919-4abf-4136-83b0-fb640ebbaf95;'
+UPDATE UserEducationExperience SET UniversityId=NULL, NotListedInstitution='Escola Secundária José Régio' WHERE Id='3b679669-339c-4448-a204-c1e0eb4e29ed';
+DELETE FROM University WHERE Id='5d4fb565-5cbf-474d-959c-fbdc07af5e85;'
+UPDATE University SET Name='Universidade Federal de Juiz de Fora', Deleted='0' WHERE Id='ab70f44d-0884-4235-bd1b-fd275528f453';

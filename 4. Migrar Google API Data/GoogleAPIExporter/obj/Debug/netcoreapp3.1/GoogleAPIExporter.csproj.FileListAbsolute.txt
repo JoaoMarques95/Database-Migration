@@ -1,0 +1,51 @@
+C:\Users\joaom\Desktop\BD refactoring\4. Enhance BD data Manualy\GoogleAPIExporter\bin\Debug\netcoreapp3.1\GoogleAPIExporter.exe
+C:\Users\joaom\Desktop\BD refactoring\4. Enhance BD data Manualy\GoogleAPIExporter\bin\Debug\netcoreapp3.1\GoogleAPIExporter.deps.json
+C:\Users\joaom\Desktop\BD refactoring\4. Enhance BD data Manualy\GoogleAPIExporter\bin\Debug\netcoreapp3.1\GoogleAPIExporter.runtimeconfig.json
+C:\Users\joaom\Desktop\BD refactoring\4. Enhance BD data Manualy\GoogleAPIExporter\bin\Debug\netcoreapp3.1\GoogleAPIExporter.runtimeconfig.dev.json
+C:\Users\joaom\Desktop\BD refactoring\4. Enhance BD data Manualy\GoogleAPIExporter\bin\Debug\netcoreapp3.1\GoogleAPIExporter.dll
+C:\Users\joaom\Desktop\BD refactoring\4. Enhance BD data Manualy\GoogleAPIExporter\bin\Debug\netcoreapp3.1\GoogleAPIExporter.pdb
+C:\Users\joaom\Desktop\BD refactoring\4. Enhance BD data Manualy\GoogleAPIExporter\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\joaom\Desktop\BD refactoring\4. Enhance BD data Manualy\GoogleAPIExporter\obj\Debug\netcoreapp3.1\GoogleAPIExporter.csprojAssemblyReference.cache
+C:\Users\joaom\Desktop\BD refactoring\4. Enhance BD data Manualy\GoogleAPIExporter\obj\Debug\netcoreapp3.1\GoogleAPIExporter.AssemblyInfoInputs.cache
+C:\Users\joaom\Desktop\BD refactoring\4. Enhance BD data Manualy\GoogleAPIExporter\obj\Debug\netcoreapp3.1\GoogleAPIExporter.AssemblyInfo.cs
+C:\Users\joaom\Desktop\BD refactoring\4. Enhance BD data Manualy\GoogleAPIExporter\obj\Debug\netcoreapp3.1\GoogleAPIExporter.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\BD refactoring\4. Enhance BD data Manualy\GoogleAPIExporter\obj\Debug\netcoreapp3.1\GoogleAPIExporter.csproj.CopyComplete
+C:\Users\joaom\Desktop\BD refactoring\4. Enhance BD data Manualy\GoogleAPIExporter\obj\Debug\netcoreapp3.1\GoogleAPIExporter.dll
+C:\Users\joaom\Desktop\BD refactoring\4. Enhance BD data Manualy\GoogleAPIExporter\obj\Debug\netcoreapp3.1\GoogleAPIExporter.pdb
+C:\Users\joaom\Desktop\BD refactoring\4. Enhance BD data Manualy\GoogleAPIExporter\obj\Debug\netcoreapp3.1\GoogleAPIExporter.genruntimeconfig.cache
+C:\Users\joaom\Desktop\BD refactoring\4. Enhance BD data Manualy\GoogleAPIExporter\bin\Debug\netcoreapp3.1\Data\faculties.json
+C:\Users\joaom\Desktop\BD refactoring\4. Enhance BD data Manualy\GoogleAPIExporter\bin\Debug\netcoreapp3.1\Data\universities.json
+C:\Users\joaom\Desktop\BD refactoring\4. Migrar Google API Data\GoogleAPIExporter\bin\Debug\netcoreapp3.1\Data\faculties.json
+C:\Users\joaom\Desktop\BD refactoring\4. Migrar Google API Data\GoogleAPIExporter\bin\Debug\netcoreapp3.1\Data\universities.json
+C:\Users\joaom\Desktop\BD refactoring\4. Migrar Google API Data\GoogleAPIExporter\bin\Debug\netcoreapp3.1\GoogleAPIExporter.exe
+C:\Users\joaom\Desktop\BD refactoring\4. Migrar Google API Data\GoogleAPIExporter\bin\Debug\netcoreapp3.1\GoogleAPIExporter.deps.json
+C:\Users\joaom\Desktop\BD refactoring\4. Migrar Google API Data\GoogleAPIExporter\bin\Debug\netcoreapp3.1\GoogleAPIExporter.runtimeconfig.json
+C:\Users\joaom\Desktop\BD refactoring\4. Migrar Google API Data\GoogleAPIExporter\bin\Debug\netcoreapp3.1\GoogleAPIExporter.runtimeconfig.dev.json
+C:\Users\joaom\Desktop\BD refactoring\4. Migrar Google API Data\GoogleAPIExporter\bin\Debug\netcoreapp3.1\GoogleAPIExporter.dll
+C:\Users\joaom\Desktop\BD refactoring\4. Migrar Google API Data\GoogleAPIExporter\bin\Debug\netcoreapp3.1\GoogleAPIExporter.pdb
+C:\Users\joaom\Desktop\BD refactoring\4. Migrar Google API Data\GoogleAPIExporter\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\joaom\Desktop\BD refactoring\4. Migrar Google API Data\GoogleAPIExporter\obj\Debug\netcoreapp3.1\GoogleAPIExporter.csprojAssemblyReference.cache
+C:\Users\joaom\Desktop\BD refactoring\4. Migrar Google API Data\GoogleAPIExporter\obj\Debug\netcoreapp3.1\GoogleAPIExporter.AssemblyInfoInputs.cache
+C:\Users\joaom\Desktop\BD refactoring\4. Migrar Google API Data\GoogleAPIExporter\obj\Debug\netcoreapp3.1\GoogleAPIExporter.AssemblyInfo.cs
+C:\Users\joaom\Desktop\BD refactoring\4. Migrar Google API Data\GoogleAPIExporter\obj\Debug\netcoreapp3.1\GoogleAPIExporter.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\BD refactoring\4. Migrar Google API Data\GoogleAPIExporter\obj\Debug\netcoreapp3.1\GoogleAPIExporter.csproj.CopyComplete
+C:\Users\joaom\Desktop\BD refactoring\4. Migrar Google API Data\GoogleAPIExporter\obj\Debug\netcoreapp3.1\GoogleAPIExporter.dll
+C:\Users\joaom\Desktop\BD refactoring\4. Migrar Google API Data\GoogleAPIExporter\obj\Debug\netcoreapp3.1\GoogleAPIExporter.pdb
+C:\Users\joaom\Desktop\BD refactoring\4. Migrar Google API Data\GoogleAPIExporter\obj\Debug\netcoreapp3.1\GoogleAPIExporter.genruntimeconfig.cache
+C:\Users\joaom\Desktop\networkme\data\university_data_migration\4. Migrar Google API Data\GoogleAPIExporter\bin\Debug\netcoreapp3.1\Data\faculties.json
+C:\Users\joaom\Desktop\networkme\data\university_data_migration\4. Migrar Google API Data\GoogleAPIExporter\bin\Debug\netcoreapp3.1\Data\universities.json
+C:\Users\joaom\Desktop\networkme\data\university_data_migration\4. Migrar Google API Data\GoogleAPIExporter\bin\Debug\netcoreapp3.1\GoogleAPIExporter.exe
+C:\Users\joaom\Desktop\networkme\data\university_data_migration\4. Migrar Google API Data\GoogleAPIExporter\bin\Debug\netcoreapp3.1\GoogleAPIExporter.deps.json
+C:\Users\joaom\Desktop\networkme\data\university_data_migration\4. Migrar Google API Data\GoogleAPIExporter\bin\Debug\netcoreapp3.1\GoogleAPIExporter.runtimeconfig.json
+C:\Users\joaom\Desktop\networkme\data\university_data_migration\4. Migrar Google API Data\GoogleAPIExporter\bin\Debug\netcoreapp3.1\GoogleAPIExporter.runtimeconfig.dev.json
+C:\Users\joaom\Desktop\networkme\data\university_data_migration\4. Migrar Google API Data\GoogleAPIExporter\bin\Debug\netcoreapp3.1\GoogleAPIExporter.dll
+C:\Users\joaom\Desktop\networkme\data\university_data_migration\4. Migrar Google API Data\GoogleAPIExporter\bin\Debug\netcoreapp3.1\GoogleAPIExporter.pdb
+C:\Users\joaom\Desktop\networkme\data\university_data_migration\4. Migrar Google API Data\GoogleAPIExporter\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\joaom\Desktop\networkme\data\university_data_migration\4. Migrar Google API Data\GoogleAPIExporter\obj\Debug\netcoreapp3.1\GoogleAPIExporter.csprojAssemblyReference.cache
+C:\Users\joaom\Desktop\networkme\data\university_data_migration\4. Migrar Google API Data\GoogleAPIExporter\obj\Debug\netcoreapp3.1\GoogleAPIExporter.AssemblyInfoInputs.cache
+C:\Users\joaom\Desktop\networkme\data\university_data_migration\4. Migrar Google API Data\GoogleAPIExporter\obj\Debug\netcoreapp3.1\GoogleAPIExporter.AssemblyInfo.cs
+C:\Users\joaom\Desktop\networkme\data\university_data_migration\4. Migrar Google API Data\GoogleAPIExporter\obj\Debug\netcoreapp3.1\GoogleAPIExporter.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Desktop\networkme\data\university_data_migration\4. Migrar Google API Data\GoogleAPIExporter\obj\Debug\netcoreapp3.1\GoogleAPIExporter.csproj.CopyComplete
+C:\Users\joaom\Desktop\networkme\data\university_data_migration\4. Migrar Google API Data\GoogleAPIExporter\obj\Debug\netcoreapp3.1\GoogleAPIExporter.dll
+C:\Users\joaom\Desktop\networkme\data\university_data_migration\4. Migrar Google API Data\GoogleAPIExporter\obj\Debug\netcoreapp3.1\GoogleAPIExporter.pdb
+C:\Users\joaom\Desktop\networkme\data\university_data_migration\4. Migrar Google API Data\GoogleAPIExporter\obj\Debug\netcoreapp3.1\GoogleAPIExporter.genruntimeconfig.cache
